@@ -43,7 +43,7 @@
         19,
         20
       ],
-      "theme": "Kinh thành: Nội Vệ giám, án tháp chuông, án ấn Thượng thư, Thanh Anh, Thái y viện (điểm giữa ch19)"
+      "theme": "Kinh thành và Hoan Châu: Nội Vệ giám, án tháp chuông, huyết án Hoan Châu (Như Ý), Thái y viện, quyền thần Phan Đình Nhân"
     },
     "act_3": {
       "chapters": [
@@ -82,14 +82,15 @@
       "spine_clue": "Thái y viện năm 1232; trang sổ thuốc bị xé"
     },
     "case-03": {
-      "name": "Án ấn Thượng thư",
+      "name": "Huyết án Hoan Châu",
       "chapters": [
+        14,
         15,
         16,
         17,
         18
       ],
-      "spine_clue": "mẫu phượng Đông cung; ký ức đầu tiên; có người khác săn hồ sơ Thái y viện"
+      "spine_clue": "gặp Như Ý (Thanh Anh); ký ức đầu tiên; Nhân Kiệt che tội cho nàng; Thế Xung nắm điểm yếu"
     },
     "case-04": {
       "name": "Án yến tiệc Quốc công",
@@ -111,7 +112,8 @@
         "case-02",
         "case-03",
         "case-04"
-      ]
+      ],
+      "note": "án 3 là Huyết án Hoan Châu"
     },
     "book_2": {
       "title": "Kinh Thành Ẩn Sát",
@@ -143,7 +145,7 @@
         "Án mưu sát Thái hậu",
         "Án nội gián Nội Vệ giám"
       ],
-      "spine": "Duy Thành là giáo chủ Ba Xuyên; Bảo Định biết thân thế; Nhân Kiệt bị truy nã"
+      "spine": "Duy Thành là giáo chủ Ba Xuyên; Trần Bình giết Phan Đình Nhân, Thế Xung đội lốt (mốc tạm); Nhân Kiệt bị truy nã"
     },
     "book_5": {
       "title": "Thần Thám Quy Triều",
@@ -153,33 +155,34 @@
         "Án Thiên Bảo",
         "Án Thần thám"
       ],
-      "spine": "đối đầu quyền thần và Bảo Định; Tử Anh đăng cơ 1253; Thanh Anh làm hoàng hậu 1260"
+      "spine": "đối đầu Trần Bình và Bảo Định; lột mặt nạ Phan Đình Nhân giả; Tử Anh đăng cơ 1253; Thanh Anh làm hoàng hậu 1260"
     }
   },
   "open_questions": [
-    "Q-A Lý Hoài Sương có phải em Thiên Bảo",
-    "Q-B ai sắp đặt việc mượn thân phận Lý Bính; Thế Vinh biết không",
-    "Q-C quyền thần là ai; ai ra lệnh giết Thiên Bảo",
-    "Q-D số phận Kim Thừa Văn",
-    "Q-E nguồn gốc tư thù Duy Thành–Bảo Định",
+    "Q-L năm Trần Bình giết Phan Đình Nhân; Thế Xung tự nguyện hay bị ép; Thế Lâm biết không",
+    "Q-C ai ra lệnh giết Thiên Bảo; Trần Bình biết thân thế Nhân Kiệt không",
+    "Q-K ai lưu vong năm 1236; vì sao Bùi Trường Hải giết nhà Lý Kinh Hải",
+    "Q-B Thế Vinh biết Nhân Kiệt là thái tử không; Lý Thiên Sư còn sống không",
+    "Q-G Như Ý đi đâu sau Hoan Châu; nàng biết gì về vai trò Tử Anh năm 1232",
+    "Q-A Lý Hoài Sương",
+    "Q-D Kim Thừa Văn",
+    "Q-E tư thù Duy Thành–Bảo Định",
     "Q-F Đặng Tử Linh",
-    "Q-G Thanh Anh biết gì, làm việc cho ai năm 1240",
-    "Q-H vì sao 1253 đến 1260; sắc thái hôn nhân",
-    "Q-I chứng cứ Lý Nhân Quý nắm",
+    "Q-H 1253–1260",
     "Q-J Đông kỳ bát đại gia tộc",
+    "Q-M chức tước Phan Đình Nhân",
     "quốc hiệu/kinh đô",
-    "Nguyễn Văn Đông và Nguyễn Kính Thông",
-    "văn phong, độ dài chương"
+    "Nguyễn Văn Đông và Nguyễn Kính Thông"
   ],
   "chapters": {
     "1": {
       "title": "Mưa ở Nam Hải",
       "case": "spine",
       "pov": "Nhân Kiệt",
-      "purpose": "Thiết lập Nhân Kiệt, Nam Hải phái, tình huynh đệ với Thiên Bảo; cái chết làm khởi động truyện.",
+      "purpose": "Thiết lập Nhân Kiệt (trí tuệ sắc, võ nghệ khá nhờ khổ luyện), Nam Hải phái, tình huynh đệ với Thiên Bảo; cái chết làm khởi động truyện.",
       "beats": [
-        "Mùa xuân 1240, Nhân Kiệt trở về sơn môn sau chuyến đi xa, kiệt sức vì một quãng đường người thường đi nhẹ tênh — xác lập thể chất yếu và trí óc sắc.",
-        "Thiên Bảo vừa về, lơ đãng, hứa sau lễ Thanh minh sẽ nói với hắn một chuyện; nhìn miếng ngọc bội rồng lâu hơn bình thường.",
+        "Mùa xuân 1240, Nhân Kiệt luyện kiếm trước sơn môn: thiếu tư chất, nhưng bù bằng việc đọc trước từng đường kiếm của đối thủ. Thiên Bảo trêu: kiếm của đệ đi bằng đầu chứ không bằng tay.",
+        "Thiên Bảo vừa từ kinh về, lơ đãng, hứa sau lễ Thanh minh sẽ nói với hắn một chuyện; nhìn miếng ngọc bội rồng lâu hơn bình thường.",
         "Buổi trà tối: Thiên Bảo gục xuống, chết trước mặt mọi người. Hoài Sương gào khóc.",
         "Nhân Kiệt nhận ra chén trà của Thiên Bảo đã bị ai đó dọn đi trong lúc hỗn loạn."
       ],
@@ -217,7 +220,7 @@
       "beats": [
         "Bảy người có mặt; Nhân Kiệt dựng lại thứ tự rót trà, ai chạm vào ấm.",
         "Hành lý từ kinh của Thiên Bảo thiếu một gói được bọc vải dầu; chỉ còn sợi dây.",
-        "Trong sổ tay đi đường của Thiên Bảo có ghi một địa danh lạ và chữ Lý Bính — tên của chính Nhân Kiệt — kèm một dấu hỏi.",
+        "Trong sổ tay đi đường của Thiên Bảo có ghi cái tên Bùi Trường Hải và một địa chỉ ở kinh thành, gạch dưới hai lần.",
         "Một sư đệ (về sau là kẻ hạ độc thật) có bằng chứng ngoại phạm quá trơn tru — đặt nhẹ, không nhấn.",
         "Đêm đó Nhân Kiệt mơ thấy cung điện cháy và tiếng một bé gái gọi tên không nghe rõ."
       ],
@@ -225,7 +228,7 @@
         "SETUP: gói vải dầu mất tích",
         "SETUP: sư đệ nằm vùng (trả ở Q2)",
         "SETUP: giấc mơ lửa 1236",
-        "SETUP: Thiên Bảo điều tra cái tên Lý Bính"
+        "SETUP: Thiên Bảo truy Bùi Trường Hải"
       ],
       "target_words": 3500,
       "status": "planned"
@@ -274,7 +277,7 @@
         "Sổ hàng sạch sẽ một cách đáng ngờ; mớn nước không khớp tải trọng khai báo.",
         "Khoang đáy giấu một vị thảo dược hiếm — Hoài Sương nhận ra đây là một vị trong các bài độc cung đình.",
         "Nhân Kiệt thẩm vấn Duy Thành trong ngục: hai bộ óc đấu trí; Duy Thành chỉ ra một lỗ hổng trong suy luận của Nhân Kiệt trước khi hắn kịp tự thấy.",
-        "Xung coi thường thằng thư sinh ốm yếu; Nhân Kiệt không cãi mà chỉ ra ba điều về Xung khiến y câm lặng. Thế Lâm cười lần đầu."
+        "Xung coi thường thằng giang hồ; hai người đấu tay đôi trên bến. Nhân Kiệt không bằng Xung về sức và tốc độ, nhưng đọc được thói quen ra đòn của y và cầm hòa. Thế Lâm cười lần đầu."
       ],
       "setups_payoffs": [
         "SETUP: vị thuốc là thành phần của Hàn Tâm tán",
@@ -308,9 +311,9 @@
       "pov": "Nhân Kiệt",
       "purpose": "Lựa chọn không thể đảo ngược đầu tiên: rời Nam Hải lên kinh.",
       "beats": [
-        "Thế Lâm mang về mật lệnh của Đề đốc Nội Vệ giám: mời Lý Nhân Kiệt lên kinh thử việc.",
+        "Thế Lâm mang về mật lệnh của Trần Bình, quan cai quản Nội Vệ giám: mời Lý Nhân Kiệt lên kinh thử việc.",
         "Thế Vinh kịch liệt phản đối; hai thầy trò cãi nhau lần đầu trong đời.",
-        "Nhân Kiệt chọn đi: muốn biết ai giết Thiên Bảo thì phải vào được sổ thuốc của cung.",
+        "Nhân Kiệt chọn đi: muốn biết ai giết Thiên Bảo thì phải vào được sổ thuốc của cung, và phải tìm được Bùi Trường Hải.",
         "Hoài Sương đòi đi cùng: người chết là anh ruột nàng."
       ],
       "setups_payoffs": [
@@ -323,10 +326,10 @@
       "title": "Đường lên kinh",
       "case": "spine",
       "pov": "Nhân Kiệt",
-      "purpose": "Chương hành động thắng bằng trí chứ không bằng võ; có kẻ không muốn Nhân Kiệt tới kinh; gắn kết nhóm.",
+      "purpose": "Chương hành động: võ nghệ khá nhưng có giới hạn, trí tuệ quyết định; có kẻ không muốn Nhân Kiệt tới kinh; gắn kết nhóm.",
       "beats": [
         "Đi cùng anh em họ Cái; Duy Thành nhập đoàn với cớ áp hàng lên kinh.",
-        "Bị phục kích ở đèo. Nhân Kiệt không đánh được — hắn đọc địa hình, đoán hướng thích khách, chỉ huy anh em họ Cái bằng lời; một lần suýt chết vì không chạy nổi.",
+        "Bị phục kích ở đèo. Nhân Kiệt cầm kiếm đánh được, nhưng trước một thích khách thực sự giỏi thì thua; hắn sống sót nhờ đọc địa hình và dụ đối thủ vào chỗ hiểm. Xung đỡ cho hắn một nhát.",
         "Thích khách mang hình xăm nhỏ sau tai — Duy Thành nhận ra nhưng giấu.",
         "Ai biết lộ trình? Nghi ngờ trong nhóm, trong đó có Duy Thành."
       ],
@@ -343,12 +346,13 @@
       "purpose": "Vào kinh; ký ức gợn sóng; gặp Khương Tử và tuyến Đặng Tử Linh; nhận bài thử là án 2.",
       "beats": [
         "Đứng trước cửa thành, Nhân Kiệt biết trước con phố sau cổng rẽ về đâu — mà không hiểu vì sao.",
-        "Đề đốc Nội Vệ giám giao án thử: nhà sư treo cổ trong tháp chuông chùa Vạn Phúc, đã kết luận tự tử.",
+        "Trần Bình, quan cai quản Nội Vệ giám, ôn hòa và khó đọc, giao án thử: nhà sư treo cổ trong tháp chuông chùa Vạn Phúc, đã kết luận tự tử. Y hỏi han Nhân Kiệt kỹ hơn mức cần thiết về quê quán.",
         "Gặp Khương Tử — đệ tử Linh Sơn trong Nội Vệ giám, được giao kèm cặp hắn; y dò hỏi về một nữ nhân tên Đặng Tử Linh ở mọi nơi y đến."
       ],
       "setups_payoffs": [
         "SETUP: ký ức không gian về kinh thành",
-        "SETUP: Khương Tử tìm sư tỷ Đặng Tử Linh"
+        "SETUP: Khương Tử tìm sư tỷ Đặng Tử Linh",
+        "SETUP: Trần Bình quan tâm bất thường tới thân thế Nhân Kiệt"
       ],
       "target_words": 3500,
       "status": "planned"
@@ -391,7 +395,7 @@
       "beats": [
         "Hung thủ là một nhà sư nhận tiền; động cơ thật là trang sổ thuốc nạn nhân giữ.",
         "Trang sổ bị xé mất, chỉ còn mép ghi năm 1232. Nạn nhân từng được một nữ nhân Linh Sơn tìm đến hỏi chuyện cũ năm ngoái — dấu vết cuối của Đặng Tử Linh.",
-        "Nhân Kiệt được bổ thám quan hạng thấp; Khương Tử bắt đầu tin hắn."
+        "Nhân Kiệt được bổ thám quan hạng thấp; Khương Tử bắt đầu tin hắn. Trần Bình giao ngay một trọng án ở Hoan Châu."
       ],
       "setups_payoffs": [
         "SETUP: sổ thuốc 1232 bị kẻ khác săn",
@@ -401,51 +405,53 @@
       "status": "planned"
     },
     "14": {
-      "title": "Bóng người trên phố đèn",
-      "case": "spine",
-      "pov": "Thanh Anh / Nhân Kiệt",
-      "purpose": "Giới thiệu Lý Thanh Anh; trớ trêu kịch tính: người đọc biết nàng căm hoàng tộc và có chủ nhân bí ẩn.",
+      "title": "Huyết án Hoan Châu",
+      "case": "case-03",
+      "pov": "Nhân Kiệt / Thanh Anh",
+      "purpose": "Mở án 3; Nhân Kiệt gặp Như Ý (Thanh Anh); trớ trêu kịch tính: người đọc biết nàng là ai.",
       "beats": [
-        "Phần Thanh Anh: nữ sử Thượng Cung cục mang thân phận giả; con gái duy nhất còn sống của Lý Nhân Quý, Đông kỳ bát đại gia tộc; đêm đêm thêu bên bài vị giấu kín; căm nhà Kim, căm nhất Việt vương Tử Anh.",
-        "Gặp Nhân Kiệt tình cờ ở phố đèn: hắn đọc ra nàng là người trong cung qua vết chai ngón tay; nàng đọc ra hắn nói dối về quê quán.",
-        "Nàng gặp người đưa tin của chủ nhân (không nêu tên)."
+        "Cả nhà quan huyện ở Hoan Châu bị giết trong một đêm; giết mệnh quan triều đình nên thuộc quyền Nội Vệ giám.",
+        "Người sống sót duy nhất là tỳ nữ Như Ý — đôi tay quá vững với một người vừa thoát chết. Nhân Kiệt để ý; nàng biết hắn để ý.",
+        "Phần Thanh Anh: con gái Lý Nhân Quý, Đông kỳ bát đại gia tộc; được Lưu Trọng Huy cứu năm 1232; bà của Huy bị chém thay năm 1239; nàng vào nhà này để trả thù. Nàng căm nhà Kim, căm nhất Anh Minh thái tử.",
+        "Nàng nhìn tên thám quan trẻ và nghĩ: kẻ này nguy hiểm."
       ],
       "setups_payoffs": [
-        "SETUP: Thanh Anh làm việc cho một thế lực",
-        "SETUP: Thanh Anh căm Việt vương",
-        "SETUP: tình cảm ban đầu"
+        "SETUP: Như Ý là Thanh Anh",
+        "SETUP: Thanh Anh căm Anh Minh thái tử"
       ],
       "target_words": 3500,
       "status": "planned"
     },
     "15": {
-      "title": "Ấn Thượng thư",
+      "title": "Bà cụ bị chém",
       "case": "case-03",
       "pov": "Nhân Kiệt",
-      "purpose": "Mở án 3; Thanh Anh thành nghi phạm.",
+      "purpose": "Đào lại án oan 1239; nghi phạm Lưu Trọng Huy; ký ức đầu tiên.",
       "beats": [
-        "Ấn của Thượng thư bộ Lễ mất; sáng hôm sau một tỳ nữ chết ở giếng.",
-        "Sợi chỉ thêu Thượng Cung cục mắc trong tay xác.",
-        "Thanh Anh từng đến phủ giao bình phong thêu."
+        "Hồ sơ huyện: năm 1239 Lưu Trọng Huy giết thôn nữ rồi bỏ trốn; bà nội hắn bị xử tử thay.",
+        "Hồ sơ quá gọn; khám nghiệm qua loa; nhân chứng là gia nhân của chính quan huyện.",
+        "Như Ý vừa làm việc vừa ngân nga một bài đồng dao. Nhân Kiệt thấy một khu vườn, một bé gái cười gọi Việt vương ca ca — hắn choáng váng, suýt ngã.",
+        "Hắn không nhớ tên, không nhớ mặt; không nói với ai trừ Hoài Sương."
       ],
-      "setups_payoffs": [],
+      "setups_payoffs": [
+        "SETUP: ký ức về Thanh Anh thuở nhỏ",
+        "SETUP: bài đồng dao"
+      ],
       "target_words": 3500,
       "status": "planned"
     },
     "16": {
-      "title": "Mười hai con phượng",
+      "title": "Thôn nữ",
       "case": "case-03",
       "pov": "Nhân Kiệt",
-      "purpose": "Ký ức thật đầu tiên trở về, gắn trực tiếp với Thanh Anh.",
+      "purpose": "Lật án 1239: quan huyện là kẻ hiếp giết; và lộ ra người trong nhà đã mở cửa cho hung thủ năm 1240.",
       "beats": [
-        "Bộ bình phong mười hai con phượng thêu theo mẫu Đông cung cũ.",
-        "Nhân Kiệt chạm vào và thấy một khu vườn, một bé gái cười gọi Việt vương ca ca — hắn gần ngất, tim đập loạn.",
-        "Hắn chỉ nhớ hình, không nhớ tên; không nói với ai trừ Hoài Sương."
+        "Khai quật mộ thôn nữ; dấu vết chỉ về quan huyện chứ không về Huy.",
+        "Dựng lại đêm thảm sát: hung thủ không phá cửa; then cài được mở từ bên trong.",
+        "Nhân Kiệt hiểu: Huy là hung thủ, và Như Ý là người mở cửa.",
+        "Hắn chưa nói với ai."
       ],
-      "setups_payoffs": [
-        "SETUP: mẫu phượng Đông cung",
-        "SETUP: ký ức về Thanh Anh thuở nhỏ"
-      ],
+      "setups_payoffs": [],
       "target_words": 3500,
       "status": "planned"
     },
@@ -453,30 +459,33 @@
       "title": "Hai người nói dối",
       "case": "case-03",
       "pov": "Nhân Kiệt",
-      "purpose": "Đối đầu và hấp dẫn giữa Nhân Kiệt và Thanh Anh; Hoài Sương dè chừng.",
+      "purpose": "Đối đầu và hấp dẫn; Huy tự sát để bảo vệ nàng.",
       "beats": [
-        "Thẩm vấn Thanh Anh: hai bên lần lượt bắt lỗi lời nói dối của nhau.",
-        "Nàng nói dối để bảo vệ một gia nhân cũ của Lý gia đang sống ẩn trong kinh.",
-        "Hoài Sương cảnh báo nàng nguy hiểm; Nhân Kiệt không nghe."
+        "Thẩm vấn Như Ý: hai bên lần lượt bắt lỗi lời nói dối của nhau; giữa họ có một điều gì đó quen thuộc mà không ai gọi tên được.",
+        "Nhân Kiệt và anh em họ Cái vây Huy trong núi; Nhân Kiệt vào gặp một mình.",
+        "Huy kể hết chuyện năm 1239, nhận trọn tội đêm thảm sát, không nhắc tới Như Ý. Nhân Kiệt biết y nói dối, và biết vì sao.",
+        "Huy tự sát trước mặt hắn. Lời cuối: xin đại nhân để nàng sống."
       ],
       "setups_payoffs": [
-        "SETUP: gia nhân cũ của Lý gia (nhân chứng Q3)"
+        "SETUP: món nợ máu của Huy giữa Nhân Kiệt và Thanh Anh"
       ],
       "target_words": 3500,
       "status": "planned"
     },
     "18": {
-      "title": "Kẻ lấy ấn",
+      "title": "Bản án không có tên nàng",
       "case": "case-03",
       "pov": "Nhân Kiệt",
-      "purpose": "Giải án 3; lộ ra có người khác cũng săn hồ sơ Thái y viện; Thanh Anh nợ hắn.",
+      "purpose": "Lựa chọn đạo đức lớn của Quyển I: Thần thám bẻ cong sự thật vì người mình thương — tấm gương ngược của năm 1232.",
       "beats": [
-        "Kẻ trộm là con trai Thượng thư nợ bạc; ấn dùng để làm giả giấy vào kho Thái y viện.",
-        "Người mua giấy giả biến mất; tỳ nữ chết vì đã thấy mặt người mua.",
-        "Thanh Anh được minh oan; Nhân Kiệt nhận ra nàng cũng đang tìm hồ sơ Thái y viện."
+        "Nhân Kiệt viết bản án: Lưu Trọng Huy hung thủ duy nhất; quan huyện phạm tội hiếp giết năm 1239, án cũ được lật. Không có tên Như Ý.",
+        "Hắn tự hỏi vì sao mình làm vậy với một người vừa gặp, và không có câu trả lời.",
+        "Thế Xung đọc bản án, nhìn hắn lâu, rồi im lặng ký làm chứng.",
+        "Như Ý không còn nơi nào để về. Nhân Kiệt đưa nàng lên kinh làm người hầu trong phủ. Nàng chấp nhận — một phần vì nợ, một phần vì nàng cũng chưa hiểu hắn."
       ],
       "setups_payoffs": [
-        "SETUP: hai cuộc điều tra song song"
+        "SETUP: Thế Xung nắm điểm yếu của Nhân Kiệt (con bài của Trần Bình)",
+        "SETUP: cặp gương 1232/1240"
       ],
       "target_words": 3500,
       "status": "planned"
@@ -487,31 +496,34 @@
       "pov": "Nhân Kiệt",
       "purpose": "Điểm giữa Quyển I: tuyến chính chuyển từ giang hồ vào cung cấm.",
       "beats": [
-        "Nhân Kiệt được phép xem sổ ngự dược.",
+        "Phần thưởng cho án Hoan Châu: Trần Bình cho phép Nhân Kiệt xem sổ ngự dược ở Thái y viện.",
         "Đối chiếu triệu chứng: Hàn Tâm tán — ngự dược cấm, chỉ cấp bằng chỉ dụ.",
-        "Sổ ghi hai lần xuất: một lần năm 1232, một lần mùa xuân 1240. Tên người lĩnh bị cạo mất cả hai.",
-        "Năm 1232 vua Thế Tông băng. Khương Tử tìm thấy trong kệ hồ sơ một sợi dây buộc tóc kiểu Linh Sơn."
+        "Sổ ghi hai lần xuất: một lần năm 1232, một lần mùa xuân 1240. Tên người lĩnh bị cạo mất cả hai. Năm 1232 là năm vua Thế Tông băng; tể tướng khi ấy là Bùi Nguyên Thuần.",
+        "Khương Tử tìm thấy trong kệ hồ sơ một sợi dây buộc tóc kiểu Linh Sơn."
       ],
       "setups_payoffs": [
         "PAYOFF: độc không có trong y thư giang hồ",
-        "SETUP: liên hệ 1232 – 1240",
+        "SETUP: liên hệ 1232 – 1240 – họ Bùi",
         "SETUP: Đặng Tử Linh đã đến đây"
       ],
       "target_words": 3500,
       "status": "planned"
     },
     "20": {
-      "title": "Thái sư",
+      "title": "Quyền thần",
       "case": "spine",
       "pov": "Nhân Kiệt",
-      "purpose": "Đưa Thái sư và vua Bảo Định lên sân khấu; đe dọa lịch sự.",
+      "purpose": "Đưa Phan Đình Nhân và vua Bảo Định lên sân khấu; cho thấy dân lầm than; Trần Bình lặng lẽ quan sát.",
       "beats": [
-        "Yến thưởng công ở Nội Vệ giám; Thái sư hỏi han Nhân Kiệt như một bậc trưởng bối.",
-        "Vua Bảo Định nhìn hắn lâu hơn một nhịp; Nhân Kiệt thấy bàn tay vua run.",
-        "Duy Thành cảnh báo: có những cánh cửa trong kinh thành mở ra là không đóng lại được."
+        "Đường vào cung: dân đói xếp hàng, quan thu thuế của Phan Đình Nhân đánh người giữa phố.",
+        "Yến thưởng công: Phan Đình Nhân ngạo mạn, tham lam, coi Nội Vệ giám như gia nô; Trần Bình nhún nhường quá mức.",
+        "Vua Bảo Định nhìn Nhân Kiệt lâu hơn một nhịp; tay vua run.",
+        "Thế Xung đứng hầu sau lưng Phan Đình Nhân, vô thức nhại theo giọng y để mua vui cho đồng liêu."
       ],
       "setups_payoffs": [
-        "SETUP: Bảo Định nghi ngờ thân thế Nhân Kiệt"
+        "SETUP: Bảo Định nghi ngờ thân thế Nhân Kiệt",
+        "SETUP: Thế Xung nhại giọng Phan Đình Nhân",
+        "SETUP: Trần Bình giả nhún nhường"
       ],
       "target_words": 3500,
       "status": "planned"
@@ -523,7 +535,7 @@
       "purpose": "Đưa nhóm trở về Nam Hải cho đại án cuối quyển; tất cả hội tụ.",
       "beats": [
         "Thư báo: Thế Vinh lâm bệnh; Quốc công mở yến mừng thọ.",
-        "Thanh Anh được Thượng Cung cục cử theo đoàn dâng lễ vật thêu — theo sắp đặt của chủ nhân nàng.",
+        "Như Ý đi theo với tư cách người hầu của Nhân Kiệt; Hoài Sương lạnh nhạt với nàng.",
         "Duy Thành cũng có mặt ở Nam Hải với tư cách thương nhân cung ứng rượu cho yến tiệc."
       ],
       "setups_payoffs": [],
@@ -567,12 +579,13 @@
       "purpose": "Thân thế được hé cho người đọc rõ hơn cho nhân vật.",
       "beats": [
         "Thế Vinh bệnh, suýt nói ra rồi dừng.",
-        "Trong phòng cũ của Thiên Bảo, Nhân Kiệt tìm thấy bức phác họa miếng ngọc bội rồng, và một ghi chép: đã tìm thấy mộ Lý Bính ở ngoại thành, chết năm 1236.",
-        "Nếu Lý Bính đã chết năm 1236, thì hắn là ai? Thế Vinh từng nói ngọc bội là di vật của mẹ hắn."
+        "Trong phòng cũ của Thiên Bảo, Nhân Kiệt tìm thấy một lá thư Thiên Bảo viết mà chưa gửi: Lý Bính là con trai Lý Kinh Hải, bạn của cha ta; cả nhà bị Bùi Trường Hải giết năm 1236. Ta đã cho đệ cái tên ấy.",
+        "Kèm theo là bức phác họa miếng ngọc bội rồng. Nếu Lý Bính đã chết, hắn là ai? Thế Vinh từng nói ngọc bội là di vật của mẹ hắn."
       ],
       "setups_payoffs": [
-        "PAYOFF: Thiên Bảo điều tra cái tên Lý Bính",
-        "PAYOFF một phần: ngọc bội rồng"
+        "PAYOFF: Thiên Bảo truy Bùi Trường Hải",
+        "PAYOFF một phần: ngọc bội rồng",
+        "SETUP: nhà Lý Kinh Hải chết thay cho Tử Anh (Q2–Q3)"
       ],
       "target_words": 3500,
       "status": "planned"
@@ -583,9 +596,9 @@
       "pov": "Nhân Kiệt",
       "purpose": "Hành động và tình cảm: Thanh Anh bị nhắm vì đã thấy điều gì đó; Nhân Kiệt cứu nàng.",
       "beats": [
-        "Thanh Anh nhớ lại một chi tiết ở yến tiệc; đêm đó trà của nàng có độc.",
+        "Như Ý nhớ lại một chi tiết ở yến tiệc; đêm đó trà của nàng có độc.",
         "Nhân Kiệt nhận ra kịp nhờ mùi ngọt nhãn khô.",
-        "Khoảnh khắc riêng của hai người; nàng suýt kể về Lý gia."
+        "Khoảnh khắc riêng của hai người; nàng suýt kể về Lưu Trọng Huy và về gia đình mình."
       ],
       "setups_payoffs": [],
       "target_words": 3500,
@@ -612,7 +625,7 @@
       "purpose": "Câu nói làm xoay trục Quyển I.",
       "beats": [
         "Hung thủ nhìn miếng ngọc bội rồng và thì thào: còn sống... Điện hạ...",
-        "Duy Thành nghe thấy và hiểu nhanh hơn ai hết. Thanh Anh không nghe thấy.",
+        "Duy Thành nghe thấy và hiểu nhanh hơn ai hết. Như Ý đứng xa, không nghe thấy.",
         "Nhân Kiệt không hiểu, hoặc không dám hiểu."
       ],
       "setups_payoffs": [
@@ -644,8 +657,8 @@
       "purpose": "Phát hiện mình bị theo dõi suốt bốn năm; đối mặt sư phụ.",
       "beats": [
         "Thư cho thấy quản gia báo cáo về Lý Bính cho một người ở kinh từ năm 1236.",
-        "Vì sao có người theo dõi một đệ tử vô danh suốt bốn năm, kẻ mang tên một người đã chết?",
-        "Nhân Kiệt chất vấn Thế Vinh. Ông chỉ nói: Có những sự thật giết người."
+        "Vì sao có người theo dõi suốt bốn năm một kẻ mang tên một người đã chết?",
+        "Nhân Kiệt chất vấn Thế Vinh. Ông không phủ nhận chuyện cái tên, chỉ nói: Có những sự thật giết người. Thiên Bảo đã chết vì một sự thật như thế."
       ],
       "setups_payoffs": [
         "SETUP: lời thú nhận của Thế Vinh (Q2)"
@@ -660,11 +673,11 @@
       "purpose": "Khép Quyển I; danh Thần thám ra đời; móc câu sang Quyển II.",
       "beats": [
         "Nhân Kiệt nhận ấn tín chính thức của Nội Vệ giám; người kinh bắt đầu gọi hắn là thần thám Nam Hải.",
-        "Hắn hứa trước mộ Thiên Bảo sẽ tìm ra kẻ ra lệnh. Duy Thành tiễn hắn, nói: Khi nào huynh cần một người không thuộc về triều đình, hãy tìm đệ.",
-        "Phần Thanh Anh: nàng nhận mật lệnh của chủ nhân — ở cạnh Lý Bính; nếu hắn nhớ lại, giết hắn. Nàng cầm mảnh giấy rất lâu rồi mới đốt."
+        "Hắn hứa trước mộ Thiên Bảo sẽ tìm ra kẻ ra lệnh, và tìm ra Bùi Trường Hải. Duy Thành tiễn hắn: Khi nào huynh cần một người không thuộc về triều đình, hãy tìm đệ.",
+        "Phần Thanh Anh: vá áo cho hắn, nàng cầm miếng ngọc bội rồng lên. Anh Minh thái tử cũng từng đeo một miếng như thế. Nhưng cậu bé ấy ốm yếu, không giương nổi cây cung; người này cầm kiếm. Nàng tự nhủ là trùng hợp — rồi không ngủ được."
       ],
       "setups_payoffs": [
-        "SETUP: mật lệnh giết Nhân Kiệt (trả ở Q3–Q4)"
+        "SETUP: Thanh Anh nghi ngờ (trả ở Q3)"
       ],
       "target_words": 3500,
       "status": "planned"
@@ -680,6 +693,12 @@
     "Lý Bính là một người đã chết, được Tử Anh mượn thân phận.",
     "Khương Tử là đệ tử Linh Sơn, vào Nội Vệ để tìm sư tỷ Đặng Tử Linh.",
     "Lê Duy Thành: thương nhân nhỏ, cực kỳ thông minh, từng là nghi phạm, bí mật là giáo chủ Ba Xuyên giáo, tư thù với Bảo Định.",
-    "Tử Anh đăng cơ năm 1253; phong Thanh Anh làm hoàng hậu năm 1260."
+    "Tử Anh đăng cơ năm 1253; phong Thanh Anh làm hoàng hậu năm 1260.",
+    "Lý Nhân Kiệt được Lý Thế Vinh luyện kiếm thuật và võ công; không có tư chất nhưng đánh khá ổn. Thể chất yếu là của Kim Tử Anh thuở nhỏ.",
+    "Quyền thần hai giai đoạn: Phan Đình Nhân (tham nhũng, bạo chính); Trần Bình, quan cai quản Nội Vệ giám, giết Phan Đình Nhân rồi đưa Cái Thế Xung giả làm Phan Đình Nhân để giật dây.",
+    "Việt vương được lập làm Anh Minh thái tử năm 1232 khi Nhân Tông lên ngôi.",
+    "Lưu Trọng Huy cứu Thanh Anh năm 1232, đưa về Hoan Châu. Năm 1239 Huy bị quan huyện đổ oan tội giết người (quan huyện hiếp giết thôn nữ); Huy trốn; bà nội Huy bị xử tử thay.",
+    "Thanh Anh đổi tên Như Ý, vào nhà quan huyện làm tỳ nữ; năm 1240 giúp Huy giết cả nhà quan huyện. Nhân Kiệt xử án; Huy tự sát; Nhân Kiệt biết Như Ý đồng phạm nhưng bao che vì thích nàng.",
+    "Thân phận Lý Bính do Lý Thiên Bảo trao. Lý Bính là con Lý Kinh Hải, bạn của Lý Thiên Sư (cha Thiên Bảo). Cả nhà Lý Kinh Hải bị Bùi Trường Hải giết; Trường Hải là cháu Bùi Nguyên Thuần, tể tướng của Nhân Tông; lưu vong trong loạn 1236."
   ]
 }

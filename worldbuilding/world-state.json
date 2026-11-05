@@ -16,20 +16,20 @@
     {
       "name": "Hiệu thuốc Thiên Thọ đường",
       "notes": "kinh thành; đầu mối dược liệu lậu"
+    },
+    {
+      "name": "Hoan Châu",
+      "notes": "quê Lưu Trọng Huy; nơi Thanh Anh lánh nạn; huyết án nhà quan huyện 1240"
     }
   ],
   "institutions": [
     {
       "name": "Nội Vệ giám",
-      "notes": "cơ quan mật vụ/điều tra của triều đình; đứng đầu là Đề đốc; có bộ đầu, ngỗ tác, thám quan"
+      "notes": "cơ quan mật vụ/điều tra của triều đình; quan cai quản là Trần Bình; có bộ đầu, ngỗ tác, thám quan"
     },
     {
       "name": "Thái y viện",
       "notes": "giữ sổ ngự dược; xuất ngự dược cấm cần chỉ dụ"
-    },
-    {
-      "name": "Thượng Cung cục",
-      "notes": "lo y phục, thêu thùa trong cung"
     },
     {
       "name": "Nam Hải phái",
@@ -81,15 +81,19 @@
     },
     {
       "year": 1232,
-      "event": "Nhân Tông ám sát Thế Tông, sửa di chiếu, phế thái tử Thừa Văn, lên ngôi; Tử Anh đổ tội cho Lý Nhân Quý; nhà Lý Nhân Quý bị tru di, Thanh Anh thoát; Tử Anh làm thái tử"
+      "event": "Nhân Tông ám sát Thế Tông, sửa di chiếu, phế thái tử Thừa Văn, lên ngôi (tể tướng Bùi Nguyên Thuần); Tử Anh đổ tội cho Lý Nhân Quý; nhà Lý Nhân Quý bị tru di; Lưu Trọng Huy cứu Thanh Anh về Hoan Châu; Tử Anh làm Anh Minh thái tử"
     },
     {
       "year": 1236,
-      "event": "Loạn Nguyễn Kính Thông; Nhân Tông bị giết; Bảo Định lên ngôi; Tử Anh mất trí nhớ, sống dưới thân phận Lý Bính"
+      "event": "Loạn Nguyễn Kính Thông; Nhân Tông bị giết; Bảo Định lên ngôi; họ Bùi lưu vong; Bùi Trường Hải giết cả nhà Lý Kinh Hải; Lý Thiên Bảo trao thân phận Lý Bính cho Tử Anh mất trí nhớ"
+    },
+    {
+      "year": 1239,
+      "event": "Quan huyện Hoan Châu hiếp giết thôn nữ, đổ tội cho Lưu Trọng Huy; bà Huy bị xử tử thay; Thanh Anh thành tỳ nữ Như Ý"
     },
     {
       "year": 1240,
-      "event": "Lý Thiên Bảo bị đầu độc — truyện bắt đầu"
+      "event": "Lý Thiên Bảo bị đầu độc — truyện bắt đầu; huyết án Hoan Châu, Huy tự sát, Nhân Kiệt che giấu Như Ý"
     },
     {
       "year": 1253,
@@ -110,8 +114,8 @@
       "notes": "Nhân Kiệt đeo từ 1236; thực là vật của Đông cung"
     },
     {
-      "name": "Bình phong mười hai con phượng",
-      "notes": "mẫu thêu Đông cung cũ; kích hoạt ký ức đầu tiên"
+      "name": "Bài đồng dao thuở nhỏ",
+      "notes": "Như Ý ngân nga; kích hoạt ký ức đầu tiên của Nhân Kiệt (khu vườn, bé gái gọi Việt vương ca ca)"
     }
   ]
 }

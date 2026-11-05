@@ -1,6 +1,6 @@
 {
   "protagonist": {
-    "name": "Lý Bính, tự Nhân Kiệt (thân phận thật: Việt vương, thái tử Kim Tử Anh, sinh 1222; thân phận Lý Bính mượn của một người đã chết)",
+    "name": "Lý Bính, tự Nhân Kiệt (thân phận thật: Việt vương 1228, Anh Minh thái tử 1232, Kim Tử Anh, sinh 1222; tên Lý Bính do Lý Thiên Bảo trao)",
     "knows": [
       "Mình là đệ tử Nam Hải phái, được Lý Thế Vinh nuôi từ năm 1236",
       "Không có ký ức nào trước năm 14 tuổi"
@@ -11,11 +11,11 @@
     ],
     "does_not_know": [
       "Mình là Kim Tử Anh",
-      "Lý Bính thật đã chết năm 1236",
-      "Năm 1232 chính mình đã nghĩ kế đổ tội giết Thế Tông cho Lý Nhân Quý",
-      "Cha mình (Nhân Tông) đã ám sát Thế Tông",
+      "Lý Bính thật là con Lý Kinh Hải, chết 1236 dưới tay Bùi Trường Hải",
+      "Năm 1232 chính mình đã nghĩ kế đổ tội cho Lý Nhân Quý",
+      "Nhân Tông đã ám sát Thế Tông",
       "Mình bị theo dõi từ 1236",
-      "Thanh Anh là thanh mai trúc mã thuở nhỏ"
+      "Như Ý là Lý Thanh Anh, thanh mai trúc mã"
     ],
     "relationships": {
       "Lý Thế Vinh": "sư phụ, người cha thay thế",
@@ -25,20 +25,23 @@
     },
     "traits": [
       "thần đồng, suy luận phi thường",
-      "thể chất yếu, không giao đấu được"
+      "võ nghệ khá nhờ Lý Thế Vinh luyện bốn năm, không có tư chất",
+      "Tử Anh thuở nhỏ thể chất yếu"
     ]
   },
   "characters": {
     "Lý Thanh Anh": {
-      "role": "con gái Lý Nhân Quý (Đông kỳ bát đại gia tộc), người duy nhất sống sót vụ tru di 1232; tạm: nữ sử Thượng Cung cục, tai mắt của một thế lực",
+      "role": "con gái Lý Nhân Quý (Đông kỳ bát đại gia tộc); được Lưu Trọng Huy cứu 1232, lánh nạn Hoan Châu; tỳ nữ nhà quan huyện 1239; đồng phạm thảm sát nhà quan huyện 1240, được Nhân Kiệt che giấu",
       "knows": [
         "Nhà mình bị vu tội giết vua năm 1232"
       ],
       "believes": [
-        "Nhà Kim là kẻ thù; Việt vương có phần trong vụ án (tạm)",
-        "Tử Anh đã chết năm 1236"
+        "Nhà Kim là kẻ thù; căm Anh Minh thái tử",
+        "Tử Anh đã chết năm 1236",
+        "Tử Anh thuở nhỏ ốm yếu, không thể là người cầm kiếm"
       ],
-      "future": "hoàng hậu năm 1260"
+      "future": "hoàng hậu năm 1260",
+      "alias": "Như Ý (từ 1239)"
     },
     "Lý Thế Vinh": {
       "born": 1175,
@@ -48,11 +51,12 @@
       ]
     },
     "Lý Thiên Bảo": {
-      "role": "sư huynh, đại đệ tử",
-      "status": "chết đầu năm 1240 vì Hàn Tâm tán",
+      "role": "sư huynh, con Lý Thiên Sư; trao thân phận Lý Bính cho Tử Anh năm 1236",
+      "status": "chết 1240 vì Hàn Tâm tán",
       "knew_before_death": [
-        "đã tìm thấy mộ Lý Bính thật (chết 1236)",
-        "đoán ra thân thế sư đệ qua ngọc bội"
+        "Lý Bính là tên mượn",
+        "đang truy Bùi Trường Hải",
+        "đoán ra thân thế sư đệ (tạm)"
       ]
     },
     "Lý Hoài Sương": {
@@ -64,8 +68,11 @@
       "provisional": true
     },
     "Cái Thế Xung": {
-      "role": "em; bộ đầu Nội Vệ giám; nóng nảy, quyền cước (tạm)",
-      "provisional": true
+      "role": "bộ đầu Nội Vệ giám (tạm); về sau giả làm Phan Đình Nhân cho Trần Bình",
+      "seeds": [
+        "tài nhại giọng",
+        "biết Nhân Kiệt che tội cho Như Ý"
+      ]
     },
     "Khương Tử": {
       "role": "đệ tử Linh Sơn, thành viên Nội Vệ giám, tìm sư tỷ Đặng Tử Linh"
@@ -79,10 +86,6 @@
     },
     "Vua Bảo Định": {
       "role": "em Nhân Tông, chú ruột Tử Anh; trị vì 1236–1253"
-    },
-    "Thái sư Trịnh Bá Ngôn": {
-      "role": "quyền thần (tên và vai trò tạm, Q-C)",
-      "provisional": true
     },
     "Kim Nhân Tông": {
       "born": 1192,
@@ -109,34 +112,78 @@
       "status": "bị tru di 1232 vì tội giết vua do Tử Anh dựng"
     },
     "Lý Bính (thật)": {
-      "role": "thiếu niên thường dân đã chết; Tử Anh mượn thân phận",
-      "status": "chết 1236 (tạm)"
+      "role": "con Lý Kinh Hải",
+      "status": "bị giết cùng gia đình (1236)"
     },
     "Đặng Tử Linh": {
       "role": "sư tỷ Linh Sơn của Khương Tử, mất tích",
       "status": "tạm: mất tích khi điều tra hồ sơ Thái y viện 1232",
       "provisional": true
+    },
+    "Lưu Trọng Huy": {
+      "role": "bạn của Thanh Anh, mồ côi, sống với bà; cứu Thanh Anh 1232",
+      "status": "tự sát 1240 sau khi giết cả nhà quan huyện Hoan Châu"
+    },
+    "Quan huyện Hoan Châu": {
+      "role": "hiếp giết thôn nữ 1239, đổ tội cho Huy",
+      "status": "cả nhà bị giết 1240"
+    },
+    "Lý Thiên Sư": {
+      "role": "cha Thiên Bảo, bạn Lý Kinh Hải",
+      "status": "chưa rõ"
+    },
+    "Lý Kinh Hải": {
+      "role": "cha Lý Bính thật",
+      "status": "cả nhà bị Bùi Trường Hải giết (1236)"
+    },
+    "Bùi Nguyên Thuần": {
+      "role": "tể tướng của Nhân Tông",
+      "status": "lưu vong trong loạn 1236 (Q-K)"
+    },
+    "Bùi Trường Hải": {
+      "role": "cháu Bùi Nguyên Thuần; giết cả nhà Lý Kinh Hải",
+      "status": "lưu vong (Q-K)"
+    },
+    "Phan Đình Nhân": {
+      "role": "quyền thần giai đoạn 1; tham nhũng, bạo chính",
+      "status": "sẽ bị Trần Bình giết (mốc: Q-L)"
+    },
+    "Trần Bình": {
+      "role": "quan cai quản Nội Vệ giám; quyền thần giai đoạn 2; giết Phan Đình Nhân, dùng Cái Thế Xung đội lốt"
+    },
+    "Kim Tử Anh — tước hiệu": {
+      "titles": [
+        "Việt vương (1228)",
+        "Anh Minh thái tử (1232)"
+      ]
     }
   },
   "characters_created": [
+    "Bùi Nguyên Thuần",
+    "Bùi Trường Hải",
     "Cái Thế Lâm",
     "Cái Thế Xung",
     "Khương Tử",
     "Kim Nhân Tông",
     "Kim Thế Tông",
     "Kim Thừa Văn",
+    "Kim Tử Anh — tước hiệu",
     "Lê Duy Thành",
     "Lý Bính (thật)",
     "Lý Hoài Sương",
+    "Lý Kinh Hải",
     "Lý Nhân Quý",
     "Lý Thanh Anh",
     "Lý Thiên Bảo",
+    "Lý Thiên Sư",
     "Lý Thế Vinh",
+    "Lưu Trọng Huy",
     "Nguyễn Kính Thông",
     "Nguyễn Văn Đông",
-    "Thái sư Trịnh Bá Ngôn",
+    "Phan Đình Nhân",
+    "Quan huyện Hoan Châu",
+    "Trần Bình",
     "Vua Bảo Định",
-    "Đặng Tử Linh",
-    "Lý Bính/Kim Tử Anh"
+    "Đặng Tử Linh"
   ]
 }
