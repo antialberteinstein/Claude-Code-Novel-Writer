@@ -34,6 +34,18 @@
     {
       "name": "Nam Hải phái",
       "notes": "môn phái võ lâm do Quốc công bảo trợ; chưởng môn Lý Thế Vinh"
+    },
+    {
+      "name": "Đông kỳ bát đại gia tộc",
+      "notes": "tám thế tộc cực lớn; họ Lý của Lý Nhân Quý là một (chi tiết: Q-J)"
+    },
+    {
+      "name": "Ba Xuyên giáo",
+      "notes": "giáo phái chống triều đình; giáo chủ bí mật Lê Duy Thành"
+    },
+    {
+      "name": "Linh Sơn",
+      "notes": "môn phái của Khương Tử và Đặng Tử Linh"
     }
   ],
   "magic_rules": [],
@@ -44,8 +56,16 @@
   "cultures": [],
   "history_timeline": [
     {
+      "year": 1154,
+      "event": "Kim Thế Tông ra đời"
+    },
+    {
       "year": 1175,
       "event": "Lý Thế Vinh ra đời"
+    },
+    {
+      "year": 1185,
+      "event": "Thế Tông lên ngôi"
     },
     {
       "year": 1192,
@@ -56,22 +76,34 @@
       "event": "Kim Tử Anh ra đời (hoàng tử thứ năm)"
     },
     {
+      "year": 1228,
+      "event": "Tử Anh 6 tuổi được phong Việt vương"
+    },
+    {
       "year": 1232,
-      "event": "Hiến Tông băng (bí mật: Hàn Tâm tán); Lý gia bị diệt; Nhân Tông lên ngôi; Tử Anh làm thái tử"
+      "event": "Nhân Tông ám sát Thế Tông, sửa di chiếu, phế thái tử Thừa Văn, lên ngôi; Tử Anh đổ tội cho Lý Nhân Quý; nhà Lý Nhân Quý bị tru di, Thanh Anh thoát; Tử Anh làm thái tử"
     },
     {
       "year": 1236,
-      "event": "Loạn Nguyễn Kính Thông; Nhân Tông bị giết; Bảo Định lên ngôi; Tử Anh mất tích, mất trí nhớ"
+      "event": "Loạn Nguyễn Kính Thông; Nhân Tông bị giết; Bảo Định lên ngôi; Tử Anh mất trí nhớ, sống dưới thân phận Lý Bính"
     },
     {
       "year": 1240,
       "event": "Lý Thiên Bảo bị đầu độc — truyện bắt đầu"
+    },
+    {
+      "year": 1253,
+      "event": "Tử Anh đăng cơ"
+    },
+    {
+      "year": 1260,
+      "event": "Lý Thanh Anh được phong hoàng hậu"
     }
   ],
   "notable_items": [
     {
       "name": "Hàn Tâm tán",
-      "notes": "ngự dược cấm; triệu chứng: chân lưỡi thâm, mùi ngọt như nhãn khô, đồng tử co; xuất kho 1232 và xuân 1240, tên người lĩnh bị cạo"
+      "notes": "ngự dược cấm (tạm: thứ độc Nhân Tông dùng giết Thế Tông); triệu chứng: chân lưỡi thâm, mùi ngọt như nhãn khô, đồng tử co; xuất kho 1232 và xuân 1240, tên người lĩnh bị cạo"
     },
     {
       "name": "Ngọc bội hình rồng",
