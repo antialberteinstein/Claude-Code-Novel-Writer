@@ -1,14 +1,21 @@
 {
-  "title": "",
+  "title": "Thần Thám — Quyển I: Hàn Tâm Tán",
   "author": "",
-  "genre": "fantasy",
-  "series": "",
+  "genre": "cổ trang trinh thám (dị sử)",
+  "series": "Thần Thám — Kim Tử Anh truyện",
   "book_number": 1,
-  "created_date": "",
-  "last_modified": "",
+  "created_date": "2026-11-05",
+  "last_modified": "2026-11-05",
   "version": "1.0",
-  "status": "in_progress",
-  "summary": "",
-  "themes": [],
-  "target_audience": "adult"
+  "status": "planning",
+  "summary": "Thái tử mất trí nhớ Kim Tử Anh, sống dưới tên Lý Nhân Kiệt, điều tra cái chết của sư huynh và lần về chân tướng các cuộc chính biến 1232 và 1236.",
+  "themes": [
+    "công lý và cái giá của sự thật",
+    "tội lỗi vô tình",
+    "ký ức và căn tính",
+    "quyền lực và phản bội",
+    "tình yêu bị lịch sử chia cắt"
+  ],
+  "target_audience": "adult",
+  "language": "vi"
 }

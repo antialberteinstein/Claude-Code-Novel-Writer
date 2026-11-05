@@ -1,7 +1,85 @@
 {
-  "locations_established": [],
+  "setting": "Đại Việt dị sử dưới nhà Kim, thế kỷ XIII (quốc hiệu và kinh đô tạm — xem Q5)",
+  "locations_established": [
+    {
+      "name": "Kinh thành (tạm: Thăng Long)",
+      "notes": "hoàng thành, Đông cung cũ, Thái y viện, Thượng Cung cục, Nội Vệ giám"
+    },
+    {
+      "name": "Nam Hải",
+      "notes": "đất phong của Nam Hải Quốc công; sơn môn Nam Hải phái; cửa Hàm (cửa biển)"
+    },
+    {
+      "name": "Chùa Vạn Phúc",
+      "notes": "chùa hư cấu ở kinh thành, có tháp chuông (án 2)"
+    },
+    {
+      "name": "Hiệu thuốc Thiên Thọ đường",
+      "notes": "kinh thành; đầu mối dược liệu lậu"
+    }
+  ],
+  "institutions": [
+    {
+      "name": "Nội Vệ giám",
+      "notes": "cơ quan mật vụ/điều tra của triều đình; đứng đầu là Đề đốc; có bộ đầu, ngỗ tác, thám quan"
+    },
+    {
+      "name": "Thái y viện",
+      "notes": "giữ sổ ngự dược; xuất ngự dược cấm cần chỉ dụ"
+    },
+    {
+      "name": "Thượng Cung cục",
+      "notes": "lo y phục, thêu thùa trong cung"
+    },
+    {
+      "name": "Nam Hải phái",
+      "notes": "môn phái võ lâm do Quốc công bảo trợ; chưởng môn Lý Thế Vinh"
+    }
+  ],
   "magic_rules": [],
+  "rules": [
+    "Không có phép thuật; võ công ở mức võ hiệp nhẹ, thực tế",
+    "Mọi vụ án phải giải được bằng manh mối đặt trước cho người đọc"
+  ],
   "cultures": [],
-  "history_timeline": [],
-  "notable_items": []
+  "history_timeline": [
+    {
+      "year": 1175,
+      "event": "Lý Thế Vinh ra đời"
+    },
+    {
+      "year": 1192,
+      "event": "Kim Nhân Tông ra đời"
+    },
+    {
+      "year": 1222,
+      "event": "Kim Tử Anh ra đời (hoàng tử thứ năm)"
+    },
+    {
+      "year": 1232,
+      "event": "Hiến Tông băng (bí mật: Hàn Tâm tán); Lý gia bị diệt; Nhân Tông lên ngôi; Tử Anh làm thái tử"
+    },
+    {
+      "year": 1236,
+      "event": "Loạn Nguyễn Kính Thông; Nhân Tông bị giết; Bảo Định lên ngôi; Tử Anh mất tích, mất trí nhớ"
+    },
+    {
+      "year": 1240,
+      "event": "Lý Thiên Bảo bị đầu độc — truyện bắt đầu"
+    }
+  ],
+  "notable_items": [
+    {
+      "name": "Hàn Tâm tán",
+      "notes": "ngự dược cấm; triệu chứng: chân lưỡi thâm, mùi ngọt như nhãn khô, đồng tử co; xuất kho 1232 và xuân 1240, tên người lĩnh bị cạo"
+    },
+    {
+      "name": "Ngọc bội hình rồng",
+      "notes": "Nhân Kiệt đeo từ 1236; thực là vật của Đông cung"
+    },
+    {
+      "name": "Bình phong mười hai con phượng",
+      "notes": "mẫu thêu Đông cung cũ; kích hoạt ký ức đầu tiên"
+    }
+  ]
 }

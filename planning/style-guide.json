@@ -1,15 +1,18 @@
 {
+  "language": "vi",
   "voice": "third_person_limited",
   "tense": "past",
-  "pov_character": "protagonist",
-  "tone": "grounded, immediate prose",
+  "pov_character": "Lý Nhân Kiệt (chính); chương xen theo Lý Thanh Anh",
+  "tone": "cổ trang trinh thám: lạnh, sắc, giàu chi tiết quan sát; cảm xúc nén",
   "style_notes": [
-    "spare, efficient language",
-    "avoid overly ornate metaphors", 
-    "character-driven tension",
-    "natural dialogue",
-    "understated emotion"
+    "tiếng Việt hiện đại, từ Hán-Việt vừa đủ tạo không khí, tránh biền ngẫu nặng",
+    "suy luận phải hiện trên trang qua chi tiết cụ thể; manh mối đặt trước lời giải",
+    "đối thoại có ẩn ý, đúng vai vế và xưng hô cổ trang",
+    "không giảng giải bối cảnh thuần túy; để thế giới lộ ra qua hành động",
+    "ký ức trở về qua giác quan (hoa văn, mùi, âm thanh), không qua tự sự giải thích",
+    "giữ trớ trêu kịch tính: người đọc biết nhiều hơn nhân vật về Thanh Anh và thân thế"
   ],
-  "chapter_target_words": 3000,
-  "scene_break_marker": "***"
+  "chapter_target_words": 3500,
+  "scene_break_marker": "***",
+  "provisional": true
 }
