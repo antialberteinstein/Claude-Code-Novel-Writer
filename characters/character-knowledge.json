@@ -150,7 +150,9 @@
         "Kim Tử Đức",
         "Kim Tử Anh",
         "Kim Tử Danh"
-      ]
+      ],
+      "former_title": "Ngô vương",
+      "trio": "Châu Vinh – Nguyễn Trọng Nhân – Bùi Nguyên Thuần"
     },
     "Kim Thế Tông": {
       "born": 1154,
@@ -159,7 +161,8 @@
       "status": "bị Nhân Tông ám sát năm 1232 (bí mật); tạm: bằng Hàn Tâm tán",
       "aliases": [
         "Kim Vô Cực"
-      ]
+      ],
+      "trio": "Trương Quang Nghĩa – Lý Nhân Kiệt – Nghiêm Minh Viên (bộ ba thần thoại)"
     },
     "Kim Thừa Văn": {
       "role": "thái tử bị phế (1231 theo wiki)",
@@ -209,7 +212,8 @@
         "họ Lý bị oan (wiki)"
       ],
       "importance": "nhân vật quan trọng nhất, bộ óc xuất chúng của họ Bùi; không phải dòng trưởng",
-      "friend": "Khương Trung"
+      "friend": "Khương Trung",
+      "trio": "bộ ba của Nhân Tông; người duy nhất còn sống"
     },
     "Bùi Trường Hải": {
       "role": "con Bùi Nguyên Tồn, cháu Bùi Nguyên Thuần",
@@ -224,7 +228,8 @@
       "reader_role": "phản diện rõ ràng nhất trước 1247; cái chết 1245 giấu với người đọc",
       "crimes": [
         "hãm hại chết Cái Thế Hùng (1234)"
-      ]
+      ],
+      "trio": "bộ ba 'chúa hề' của Hồng Khải, theo từ thời Tấn vương"
     },
     "Trần Bình": {
       "born": 1204,
@@ -243,7 +248,8 @@
         "đầu độc Hồng Khải đế 1249 (wiki)"
       ],
       "mask": "người thầy nâng đỡ Nhân Kiệt; thực tế theo dõi, điều hướng, ngăn cản cuộc điều tra vụ Thiên Bảo",
-      "why_not_kill": "cần theo dõi tiến độ và điều hướng/ngăn cản cuộc điều tra"
+      "why_not_kill": "cần theo dõi tiến độ và điều hướng/ngăn cản cuộc điều tra",
+      "trio": "bộ ba 'chúa hề' của Hồng Khải, theo từ thời Tấn vương"
     },
     "Kim Tử Anh — tước hiệu": {
       "titles": [
@@ -289,7 +295,9 @@
       "consort": "Hà hoàng hậu",
       "heir": "Kim An Định (danh nghĩa)",
       "death": "bị Trần Bình đầu độc 1249 (wiki)",
-      "reign": "1236–1249"
+      "reign": "1236–1249",
+      "former_title": "Tấn vương",
+      "trio": "Phùng Quang Chính – Trần Bình – Phan Đình Nhân (bộ ba 'chúa hề')"
     },
     "Nguyễn Trường Thịnh": {
       "role": "Lạng Sơn Vương, phản loạn 1236, giết Nhân Tông",
@@ -395,6 +403,17 @@
       "born": 1161,
       "died": 1222,
       "role": "thừa tướng đại tài thời Thế Tông; bộ ba công thần"
+    },
+    "Phùng Quang Chính": {
+      "role": "thuộc bộ ba 'chúa hề' của Hồng Khải, theo từ thời Tấn vương; vai trò chưa chốt (Q-TRIO)"
+    },
+    "Châu Vinh": {
+      "role": "thuộc bộ ba của Nhân Tông, theo từ thời Ngô vương",
+      "status": "mất trong loạn Nguyễn Trường Thịnh 1236"
+    },
+    "Nguyễn Trọng Nhân": {
+      "role": "thuộc bộ ba của Nhân Tông, theo từ thời Ngô vương",
+      "status": "mất trong loạn Nguyễn Trường Thịnh 1236"
     }
   },
   "characters_created": [
@@ -404,6 +423,7 @@
     "Bùi Trường Giao",
     "Bùi Trường Hải",
     "Bùi Vân Chi",
+    "Châu Vinh",
     "Cái Thế Hùng",
     "Cái Thế Lâm",
     "Cái Thế Xung",
@@ -441,9 +461,11 @@
     "Lưu Trọng Huy",
     "Nghiêm Minh Viên",
     "Nguyễn Trường Thịnh",
+    "Nguyễn Trọng Nhân",
     "Nguyễn Văn Đông",
     "Nhà sư chùa Vạn Phúc",
     "Phan Đình Nhân",
+    "Phùng Quang Chính",
     "Quan huyện Hoan Châu",
     "Trương Quang Nghĩa",
     "Trần Bình",

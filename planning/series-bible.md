@@ -1,6 +1,6 @@
 # THẦN THÁM — Kim Tử Anh truyện (series bible)
 
-> Trạng thái: **kế hoạch tạm, bản 13**.
+> Trạng thái: **kế hoạch tạm, bản 14**.
 > - **[TG]** = canon tác giả xác nhận trong trò chuyện.
 > - **[WIKI]** = lấy từ wiki vũ trụ Huyền Huyễn (`antialberteinstein/fandomwiki-generator`, `content/`).
 > - ⚑ = đề xuất của tôi.
@@ -95,9 +95,9 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 ### Hoàng tộc họ Kim
 - **Kim Thế Tông** (Kim Vô Cực, 1154–1232) [TG][WIKI].
   - **Kim Thừa Văn** (1185–1236), thái tử bị phế năm 1231; bị Nhân Tông sai người ám sát năm 1236 [WIKI].
-  - **Kim Nhân Tông** = **Kim Thừa Ly**, Khải Huy đế (1193–1236; trị vì 1232–1236) [TG][WIKI].
+  - **Kim Nhân Tông** = **Kim Thừa Ly**, Khải Huy đế (1193–1236; trị vì 1232–1236) [TG][WIKI]. Trước khi lên ngôi là **Ngô vương**; tước này sau được phong cho Kim Tử Quân [TG].
     - Con: Kim Tử Quân (Ngô Vương, 1213); Tử Thanh, Tử Cơ, Tử Phúc (tử trận năm 1232); **Kim Tử Đức** (1218), tức **Lê Duy Thành**; **Kim Tử Anh** (1222); Kim Tử Danh (1236) [WIKI].
-  - **Kim Thừa Trinh**, **Hồng Khải đế** (trị vì 1236–1249) [TG][WIKI]. Vợ là **Hà hoàng hậu**; thái tử **Kim An Định** (1238).
+  - **Kim Thừa Trinh**, **Hồng Khải đế** (trị vì 1236–1249) [TG][WIKI]. Trước khi lên ngôi là **Tấn vương** [TG]. Vợ là **Hà hoàng hậu**; thái tử **Kim An Định** (1238).
 - **Kim Tử Anh**: Việt vương (1228); **Anh Mẫn thái tử**, cũng gọi Anh Minh (1232) [TG][WIKI]. Có hôn ước từ nhỏ với Lý Thanh Anh [WIKI].
 
 ### Mốc thời gian
@@ -271,12 +271,23 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 ### Phan Đình Nhân — thừa tướng; tham quan, bạo chính [TG].
 - Đã hãm hại chết Cái Thế Hùng, cha của Lâm và Xung (1234) [TG].
 
-### Bộ ba công thần thời Thế Tông [TG]
-- **Trương Quang Nghĩa** (1155–1216): võ tướng của Thế Tông, "thiên hạ đệ nhất võ tướng", Uy Mãnh đại tướng quân. Là thầy của Lý Nhân Quý.
-- **Lý Nhân Kiệt đời đầu** (1163–1225): "thiên hạ đệ nhất thần thám", quản lý Nội Vệ.
-- **Nghiêm Minh Viên** (1161–1222): một trong những vị thừa tướng đại tài nhất của nhà Kim.
-- Wiki ghi Trương Quang Nghĩa sinh năm 1154; dùng năm 1155 theo tác giả.
-- ⚑ Đây là thế hệ vàng mà nhà Kim đánh mất. Đối chiếu: Phan Đình Nhân là thừa tướng tham nhũng đối lập Nghiêm Minh Viên, còn Trần Bình là quan cai quản Nội Vệ phản bội đối lập Lý Nhân Kiệt. Nhân Kiệt mang tên vị thần thám thế hệ vàng, đứng giữa thời mạt vận.
+### Ba bộ ba của ba đời vua [TG]
+Thế Tông, Nhân Tông và Hồng Khải: hai vua sau đều là con của Thế Tông.
+
+| Đời vua | Bộ ba | Ghi chú |
+|---|---|---|
+| **Thế Tông** — bộ ba "thần thoại" | **Trương Quang Nghĩa** (1155–1216), **Lý Nhân Kiệt đời đầu** (1163–1225), **Nghiêm Minh Viên** (1161–1222) | Trương Quang Nghĩa: thiên hạ đệ nhất võ tướng, Uy Mãnh đại tướng quân, thầy của Lý Nhân Quý. Lý Nhân Kiệt: thiên hạ đệ nhất thần thám, quản lý Nội Vệ. Nghiêm Minh Viên: một trong những thừa tướng đại tài nhất nhà Kim. (Wiki ghi Trương Quang Nghĩa sinh 1154; dùng 1155 theo tác giả.) |
+| **Nhân Tông** | **Châu Vinh**, **Nguyễn Trọng Nhân**, **Bùi Nguyên Thuần** | Theo Nhân Tông từ khi ông còn là **Ngô vương** cho tới khi lên ngôi năm 1232. Tước Ngô vương sau đó được phong cho trưởng nữ Kim Tử Quân. Châu Vinh và Nguyễn Trọng Nhân đều mất trong loạn Nguyễn Trường Thịnh (1236); chỉ Bùi Nguyên Thuần sống sót. |
+| **Hồng Khải** — bộ ba "chúa hề" | **Phùng Quang Chính**, **Trần Bình**, **Phan Đình Nhân** | Theo Hồng Khải từ khi ông còn là **Tấn vương** cho tới khi lên ngôi năm 1236. |
+
+- ⚑ Đề xuất ghép vai cho cân xứng (chờ tác giả xác nhận, Q-TRIO):
+  - Ở bộ ba Thế Tông: võ tướng – Nội Vệ/thần thám – thừa tướng.
+  - Ở bộ ba Hồng Khải: Phùng Quang Chính là võ tướng; Trần Bình là Nội Vệ, phiên bản phản bội của Lý Nhân Kiệt; Phan Đình Nhân là thừa tướng, phiên bản tham nhũng của Nghiêm Minh Viên.
+  - Ở bộ ba Nhân Tông: Bùi Nguyên Thuần là tể tướng; Châu Vinh và Nguyễn Trọng Nhân là gì?
+- ⚑ Ý nghĩa với truyện:
+  - Bộ ba "chúa hề" lại là những kẻ cầm quyền thật trong thời Nhân Kiệt sống. Hai trong ba người (Trần Bình, Phan Đình Nhân) là trục phản diện của nửa đầu bộ truyện. Phùng Quang Chính đến nay chưa xuất hiện, nên là một quân cờ còn để ngỏ.
+  - Bộ ba của Nhân Tông, tức bộ ba của cha Tử Anh, giờ chỉ còn Bùi Nguyên Thuần đang lưu vong. Ông là di sản chính trị duy nhất còn lại của phe Khải Huy, và là người Tử Anh sẽ cần khi giành lại ngôi.
+  - Phùng là một trong Đông Kỳ thất đại gia tộc. Phùng Quang Chính có thể mang theo cả lợi ích của một thế tộc.
 
 ### Bộ ba Lâm – Xung – Sương [TG]
 - **Cái Thế Lâm** (anh) và **Cái Thế Xung** (em) là con của **Cái Thế Hùng**, một quan võ nhỏ bị Phan Đình Nhân hãm hại chết. Vì thế hai anh em có thù rất lớn với Phan [TG].
@@ -346,4 +357,5 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
   - Trần Bình nghi Nhân Kiệt nhưng không chứng minh được.
   - Trần Bình đóng vai người thầy; không làm lộ sớm.
   - Năm sinh năm mất của Lý Nhân Quý và Lý Nhân Kiệt đời đầu.
+- **Q-TRIO.** Vai trò của Phùng Quang Chính, Châu Vinh và Nguyễn Trọng Nhân? Phùng Quang Chính đang ở đâu và làm gì trong những năm 1243–1247?
 - **Đã chốt** (bản 13): Lý Nhân Quý sinh 1186, thầy là Trương Quang Nghĩa; bộ ba công thần; thân thế Lâm – Xung (con Cái Thế Hùng); Sương gặp hai anh em năm 1234.
