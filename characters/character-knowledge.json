@@ -31,12 +31,14 @@
       "Lê Duy Thành": "nghi phạm vụ 2, đối thủ trí tuệ"
     },
     "traits": [
-      "thần đồng, suy luận phi thường",
-      "võ nghệ khá nhờ Lý Thế Vinh luyện bốn năm, không có tư chất",
-      "Tử Anh thuở nhỏ thể chất yếu"
+      "suy luận và trí tuệ siêu việt — điểm nổi trội duy nhất",
+      "khỏe, kiếm thuật giỏi nhưng trung bình so với cao thủ (kém Thế Xung, Khương Tử)",
+      "hoàn hảo mọi mặt mà không nổi trội mặt nào khác"
     ],
     "memory_rule": "mất trí nhớ toàn phần; không ký ức chớp nhoáng; chỉ Đồng Thái Huy trả lại ký ức gần cuối bộ truyện",
-    "reader_reveal": "giấu với người đọc cho tới mốc Q-R; đánh lạc hướng về Lê Duy Thành"
+    "reader_reveal": "giấu với người đọc cho tới mốc Q-R; đánh lạc hướng về Lê Duy Thành",
+    "appearance": "da ngăm đen vì nắng; nửa trái mặt đầy sẹo lồi do bỏng; trông như lính hoặc dân chợ búa — trái ngược hẳn Kim Tử Anh yếu đuối, da trắng bệch",
+    "after_reveal": "~1247 xác định mình là Kim Tử Anh, tự lập kế hoạch giành ngôi dù không có ký ức"
   },
   "characters": {
     "Lý Thanh Anh": {
@@ -94,10 +96,12 @@
       "seeds": [
         "tài nhại giọng",
         "biết Nhân Kiệt che tội cho Như Ý"
-      ]
+      ],
+      "skill": "cao thủ quyền cước, võ hơn Nhân Kiệt"
     },
     "Khương Tử": {
-      "role": "đệ tử Linh Sơn; lên kinh tìm sư tỷ Đặng Tử Linh, vô tình thành nghi phạm vụ 1 (1243); về sau vào Nội Vệ"
+      "role": "đệ tử Linh Sơn; lên kinh tìm sư tỷ Đặng Tử Linh, vô tình thành nghi phạm vụ 1 (1243); về sau vào Nội Vệ",
+      "skill": "cao thủ, võ hơn Nhân Kiệt; giỏi độc dược và kỳ môn Linh Sơn"
     },
     "Lê Duy Thành": {
       "true_identity": "Kim Tử Đức (1218), anh ruột Tử Anh, Hắc Chiến Giáp (wiki)",
@@ -216,7 +220,8 @@
       "titles": [
         "Việt vương (1228)",
         "Anh Mẫn thái tử (1232; cũng gọi Anh Minh; được Hồng Khải đế truy phong)"
-      ]
+      ],
+      "appearance_before_1236": "yếu đuối, da trắng bệch"
     },
     "Hà hoàng hậu": {
       "born": 1218,
@@ -275,6 +280,13 @@
     "Ba tên trộm mộ": {
       "role": "đào mộ giả Anh Mẫn thái tử, trúng kho bạc của phe Phan",
       "status": "chết lần lượt 1243 (người thứ nhất vì cơ quan mộ, hai người sau bị sát thủ giết bắt chước lời nguyền — đề xuất)"
+    },
+    "Võ Tài Nhân": {
+      "role": "gia nhập nhóm về sau (tạm Quyển II); hơn Nhân Kiệt về đầu óc, thua về thể chất"
+    },
+    "Nhà sư chùa Vạn Phúc": {
+      "role": "cựu học trò Thái y viện, xuất gia 1232; giữ trang sổ ngự dược",
+      "status": "bị giết 1243 (vụ 3)"
     }
   },
   "characters_created": [
@@ -308,9 +320,11 @@
     "Lưu Trọng Huy",
     "Nguyễn Trường Thịnh",
     "Nguyễn Văn Đông",
+    "Nhà sư chùa Vạn Phúc",
     "Phan Đình Nhân",
     "Quan huyện Hoan Châu",
     "Trần Bình",
+    "Võ Tài Nhân",
     "Đặng Tử Linh",
     "Đồng Thái Huy"
   ]

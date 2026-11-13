@@ -14,7 +14,8 @@
     "Không tiết lộ với người đọc Nhân Kiệt là Kim Tử Anh cho tới mốc tiết lộ (Q-R)",
     "Đẩy nghi ngờ 'thái tử còn sống' về phía Lê Duy Thành",
     "Mất trí nhớ toàn phần: không ký ức chớp nhoáng, không giấc mơ gợi nhắc; chỉ Đồng Thái Huy trả lại ký ức gần cuối bộ truyện",
-    "Mọi gợi ý về thân phận đánh dấu REREAD phải có cách giải thích khác hợp lý khi đọc lần đầu"
+    "Mọi gợi ý về thân phận đánh dấu REREAD phải có cách giải thích khác hợp lý khi đọc lần đầu",
+    "Kim Tử Anh yếu, da trắng bệch; Lý Nhân Kiệt khỏe, da ngăm, nửa trái mặt sẹo bỏng lồi, trông như lính hoặc dân chợ búa"
   ],
   "timeline_anchor": {
     "story_start": "mùa xuân 1243",
@@ -49,7 +50,7 @@
         19,
         20
       ],
-      "theme": "Vụ 2: cái chết của Kim Trọng; vụ 3: chưa chốt"
+      "theme": "Vụ 2: cái chết của Kim Trọng; vụ 3: tháp chuông chùa Vạn Phúc (Hàn Tâm tán)"
     },
     "act_3": {
       "chapters": [
@@ -95,7 +96,7 @@
       "spine_clue": "Duy Thành thành tâm điểm nghi ngờ; Trần Bình nắm sổ rửa tiền của Phan"
     },
     "case-03": {
-      "name": "Chưa chốt",
+      "name": "Án tháp chuông chùa Vạn Phúc",
       "year": 1243,
       "chapters": [
         15,
@@ -105,11 +106,7 @@
         19,
         20
       ],
-      "options": [
-        "án tháp chuông chùa Vạn Phúc (đề xuất)",
-        "án yến tiệc Quốc công",
-        "án thuyền ma cửa Hàm"
-      ]
+      "spine_clue": "Thái y viện 1232; Hàn Tâm tán xuất kho 1232 và 1242; Đặng Tử Linh; Đồng Thái Huy"
     },
     "case-04": {
       "name": "Huyết án Hoan Châu",
@@ -139,15 +136,15 @@
     },
     "book_2": {
       "years": "1244-1245",
-      "spine": "truy kẻ giết Thiên Bảo; Ba Xuyên giáo lớn mạnh; Trần Bình giết Phan Đình Nhân (1245)"
+      "spine": "Võ Tài Nhân gia nhập (tạm); truy kẻ giết Thiên Bảo; Ba Xuyên giáo lớn mạnh; Trần Bình giết Phan Đình Nhân (1245)"
     },
     "book_3": {
       "years": "1245-1247",
-      "spine": "chiến tranh thiên hạ; Phan Đình Nhân giả; Thế Vinh tiết lộ thân phận; cú lật Duy Thành → Nhân Kiệt"
+      "spine": "chiến tranh thiên hạ; Phan Đình Nhân giả; ~1247 Thế Vinh tiết lộ thân phận; cú lật Duy Thành → Nhân Kiệt"
     },
     "book_4": {
       "years": "1247-1249",
-      "spine": "thực hiện kế hoạch của Tử Anh khi không nhớ; diệt Trần Bình; Thanh Anh giả Hà hoàng hậu"
+      "spine": "Nhân Kiệt tự nhận là Tử Anh và lập kế hoạch giành ngôi dù không có ký ức; diệt Trần Bình; Thanh Anh giả Hà hoàng hậu"
     },
     "book_5": {
       "years": "1249-1253; vĩ thanh 1260",
@@ -194,15 +191,22 @@
     "Vụ 1: lời nguyền mộ thái tử — ba kẻ trộm mộ giả của Anh Mẫn thái tử lần lượt chết bí ẩn; liên quan gián tiếp thương nhân Kim Trọng (rửa tiền cho Phan Đình Nhân); khởi đầu đối đầu Nội Vệ – Phan Đình Nhân; lộ bí mật mộ giả; tin đồn thái tử còn sống gầy dựng lực lượng chống Hồng Khải đế lan rộng. Truyện bắt đầu khi Khương Tử đến kinh thành và vô tình thành nghi phạm.",
     "Vụ 2: cái chết của Kim Trọng; Lê Duy Thành thành nghi phạm vì buôn bán với Kim Trọng. Vụ 3 chưa nghĩ.",
     "Phần lớn bộ truyện không tiết lộ Lý Nhân Kiệt là Kim Tử Anh; đẩy nghi ngờ về Lê Duy Thành để tạo plot twist.",
-    "Mất trí nhớ toàn phần: kể cả khi Lý Thế Vinh tiết lộ, Nhân Kiệt vẫn không nhớ nhưng vẫn sống và thực hiện kế hoạch của Kim Tử Anh; chỉ khi thần y Đồng Thái Huy chữa trị (gần cuối bộ truyện) mới nhớ lại tất cả."
+    "Mất trí nhớ toàn phần: kể cả khi Lý Thế Vinh tiết lộ, Nhân Kiệt vẫn không nhớ nhưng vẫn sống và thực hiện kế hoạch của Kim Tử Anh; chỉ khi thần y Đồng Thái Huy chữa trị (gần cuối bộ truyện) mới nhớ lại tất cả.",
+    "Lý Nhân Kiệt được Lý Thế Vinh huấn luyện khắc nghiệt nên rất khỏe, kiếm thuật giỏi nhưng chỉ trung bình so với cao thủ như Cái Thế Xung và Khương Tử; chỉ hơn họ về đầu óc.",
+    "Về sau nhóm có Võ Tài Nhân: hơn Nhân Kiệt về đầu óc, thua về thể chất.",
+    "Kim Tử Anh yếu đuối, da trắng bệch; Lý Nhân Kiệt da ngăm đen vì nắng, nhiều sẹo lồi do bỏng trên nửa trái mặt; không ai nghĩ hắn là thần thám, chỉ tưởng là dân chợ búa hoặc binh lính.",
+    "Lý Nhân Kiệt hoàn hảo về mọi mặt nhưng không nổi trội mặt nào trừ suy luận và trí tuệ siêu việt.",
+    "Vụ 3 là án tháp chuông chùa Vạn Phúc.",
+    "Mốc tiết lộ thân phận khoảng 1247.",
+    "Sau khi được tiết lộ, Nhân Kiệt xác định mình là Kim Tử Anh và tự lập kế hoạch giành lại ngôi vị dù chưa có ký ức.",
+    "Vụ Kim Trọng: quản gia giết theo lệnh phe Phan; Thế Xung lấy sổ cho Trần Bình.",
+    "Nhân Kiệt vào Nội Vệ cuối năm 1242."
   ],
   "open_questions": [
-    "Q-R mốc tiết lộ thân phận với người đọc (đề xuất ~1247)",
-    "Q-P kế hoạch của Kim Tử Anh là gì, để lại bằng cách nào",
-    "Q-V3 vụ 3 Quyển I",
-    "Q-K2 ai giết Kim Trọng / ai lấy sổ (đề xuất: quản gia theo lệnh Phan; Thế Xung lấy sổ cho Trần Bình)",
+    "Q-S nguồn gốc sẹo bỏng (tạm: lửa năm 1236)",
+    "Q-VTN Võ Tài Nhân: xuất thân, thời điểm gia nhập",
+    "Q-M3 ai giết nhà sư chùa Vạn Phúc và vì sao năm 1243",
     "Q-N Ngô Vương",
-    "Q-H2 Nhân Kiệt vào Nội Vệ khi nào (đề xuất cuối 1242)",
     "Q-A Hoài Sương",
     "Q-F Đặng Tử Linh",
     "Q-E tư thù Duy Thành – Hồng Khải",
@@ -216,12 +220,14 @@
       "purpose": "Mở truyện từ bên ngoài: kinh thành, lời nguyền, Khương Tử thành nghi phạm.",
       "beats": [
         "Mùa xuân 1243, Khương Tử lên kinh tìm sư tỷ Đặng Tử Linh; cả kinh thành bàn tán: một tên trộm mộ Anh Mẫn thái tử vừa chết mặt đen như mực — lời nguyền mộ thái tử.",
-        "Đêm đó, tên trộm thứ hai chết ở phòng bên cạnh trong cùng quán trọ. Khương Tử, người nghe tiếng động và chạy sang đầu tiên, bị bắt tại chỗ: trong tay nải có kim châm và thuốc bột Linh Sơn.",
-        "Trong ngục, ông gặp một thám quan Nội Vệ trẻ hỏi ông đúng ba câu, và ông nhận ra kẻ này đã biết ông vô tội từ trước khi bước vào."
+        "Đêm đó, tên trộm thứ hai chết ở phòng bên cạnh trong cùng quán trọ. Khương Tử, người nghe tiếng động và chạy sang đầu tiên, để cho lính bắt mà không chống — ông thừa sức thoát, nhưng bỏ chạy là nhận tội. Trong tay nải có kim châm và thuốc bột Linh Sơn.",
+        "Trong ngục, một gã da ngăm, nửa mặt trái sẹo bỏng lồi, mặc áo Nội Vệ bước vào. Khương Tử tưởng là lính cai ngục — cho tới khi gã hỏi đúng ba câu, và ông nhận ra kẻ này đã biết ông vô tội từ trước khi bước vào."
       ],
       "setups_payoffs": [
         "SETUP: Khương Tử tìm Đặng Tử Linh",
-        "SETUP: lời nguyền mộ thái tử"
+        "SETUP: lời nguyền mộ thái tử",
+        "SETUP: Khương Tử là cao thủ",
+        "SETUP: ngoại hình Nhân Kiệt — không ai đoán được là thần thám"
       ],
       "target_words": 3500,
       "status": "planned"
@@ -233,14 +239,16 @@
       "purpose": "Giới thiệu Nhân Kiệt, Thế Xung, Trần Bình, vết thương chưa lành là vụ Thiên Bảo.",
       "beats": [
         "Nhân Kiệt vào Nội Vệ cuối năm 1242, sau khi tự điều tra cái chết của sư huynh Thiên Bảo mà không tìm ra hung thủ; tập hồ sơ ấy vẫn nằm trong ngăn bàn hắn.",
-        "Hắn tin mình là Lý Bính, con mồ côi của Lý Kinh Hải, được Nam Hải phái nuôi; không nhớ gì trước năm mười bốn tuổi và từ lâu đã thôi cố nhớ. Tên tự Nhân Kiệt hắn tự đặt theo vị thần thám trong cuốn án lục đã sờn gáy.",
-        "Thế Xung — bộ đầu nóng tính, bạn đồng hành — trêu hắn là thư sinh cầm kiếm. Trần Bình giao vụ mộ thái tử với một câu dặn nhẹ: vụ này dính tới những người không nên dính.",
+        "Hắn tin mình là Lý Bính, con mồ côi của Lý Kinh Hải, được Nam Hải phái nuôi; không nhớ gì trước năm mười bốn tuổi, kể cả vì sao nửa mặt trái mình đầy sẹo bỏng. Sáu năm bị Lý Thế Vinh luyện khắc nghiệt cho hắn thân thể của một võ phu; tên tự Nhân Kiệt hắn tự đặt theo vị thần thám trong cuốn án lục đã sờn gáy.",
+        "Thế Xung — bộ đầu Nội Vệ, cao thủ quyền cước mà Nhân Kiệt chưa từng thắng nổi trong mười hiệp — trêu hắn: ai nhìn cũng tưởng ngươi là tay đâm thuê ngoài chợ. Trần Bình giao vụ mộ thái tử với một câu dặn nhẹ: vụ này dính tới những người không nên dính.",
         "Nhân Kiệt chỉ ra vì sao Khương Tử không thể là hung thủ, nhưng đề nghị giữ ông lại: ông hiểu độc dược Linh Sơn hơn bất cứ ngỗ tác nào của Nội Vệ."
       ],
       "setups_payoffs": [
         "SETUP: hồ sơ Thiên Bảo chưa đóng",
         "SETUP: tên tự lấy theo Lý Nhân Kiệt đời đầu",
-        "REREAD: tuổi trẻ không ký ức của Nhân Kiệt"
+        "REREAD: tuổi trẻ không ký ức của Nhân Kiệt",
+        "SETUP: sẹo bỏng không rõ nguồn gốc",
+        "SETUP: Thế Xung võ hơn Nhân Kiệt"
       ],
       "target_words": 3500,
       "status": "planned"
@@ -303,7 +311,7 @@
       "purpose": "Cuộc chạy đua cứu nhân chứng; thua một nửa.",
       "beats": [
         "Truy dấu tên trộm thứ ba qua chợ đêm và hiệu cầm đồ.",
-        "Đến nơi, hắn đang hấp hối; Nhân Kiệt đánh tay đôi với sát thủ trên mái nhà — đủ giỏi để không chết, không đủ giỏi để bắt sống.",
+        "Đến nơi, hắn đang hấp hối; Nhân Kiệt đánh tay đôi với sát thủ trên mái nhà — khỏe, kiếm chắc, nhưng không đủ để thắng một cao thủ thật; hắn đoán trước đường rút của sát thủ và chặn được một nửa, rồi bị đánh văng. Khương Tử đuổi theo nhưng mất dấu.",
         "Trước khi chết, tên trộm đưa ra một tờ biên nhận cầm đồ in dấu hiệu buôn Kim Trọng."
       ],
       "setups_payoffs": [
@@ -450,76 +458,103 @@
       "status": "planned"
     },
     "15": {
-      "title": "Vụ 3 — mở án",
+      "title": "Tháp chuông chùa Vạn Phúc",
       "case": "case-03",
       "pov": "Nhân Kiệt",
-      "purpose": "Chưa chốt; đề xuất (a) án tháp chuông chùa Vạn Phúc: dẫn tới Thái y viện, Hàn Tâm tán năm 1232, manh mối thật đầu tiên của vụ Thiên Bảo",
-      "beats": [],
+      "purpose": "Mở vụ 3: phòng kín, và lý do riêng của Khương Tử.",
+      "beats": [
+        "Thu 1243, một nhà sư già chùa Vạn Phúc treo cổ trong tháp chuông khóa trong; chìa khóa trong áo người chết; nha môn kết luận tự tử.",
+        "Khương Tử tái mặt khi nghe pháp danh: đây là người mà sư tỷ Đặng Tử Linh từng nhắc trong lá thư cuối cùng gửi về Linh Sơn.",
+        "Nhân Kiệt xin Trần Bình nhận vụ. Trần Bình đồng ý nhanh hơn thường lệ."
+      ],
       "setups_payoffs": [
-        "TBD"
+        "SETUP: Đặng Tử Linh liên quan nhà sư"
       ],
       "target_words": 3500,
-      "status": "tbd"
+      "status": "planned"
     },
     "16": {
-      "title": "Vụ 3 — điều tra",
+      "title": "Tiếng chuông lệch nhịp",
       "case": "case-03",
       "pov": "Nhân Kiệt",
-      "purpose": "Chưa chốt",
-      "beats": [],
+      "purpose": "Điều tra: thời gian, và quá khứ năm 1232.",
+      "beats": [
+        "Đêm án mạng, chuông canh ba đánh lệch một nhịp — các sư nghe thấy mà không ai để ý.",
+        "Dấu hằn dây kép; bụi trên xà; vết sáp nến sai chỗ.",
+        "Nhà sư từng là học trò Thái y viện, xuất gia đúng năm 1232 — năm Thế Tông băng."
+      ],
       "setups_payoffs": [
-        "TBD"
+        "SETUP: Thái y viện năm 1232"
       ],
       "target_words": 3500,
-      "status": "tbd"
+      "status": "planned"
     },
     "17": {
-      "title": "Vụ 3 — điều tra",
+      "title": "Sổ thuốc năm Đại Thịnh",
       "case": "case-03",
       "pov": "Nhân Kiệt",
-      "purpose": "Chưa chốt",
-      "beats": [],
+      "purpose": "Mảnh giấy nạn nhân giữ; dấu vết Đặng Tử Linh.",
+      "beats": [
+        "Trong chân tượng, một chỗ giấu trống rỗng: nạn nhân từng giữ một trang sổ thuốc của Thái y viện, giờ đã mất.",
+        "Một tiểu sa di nhớ: năm ngoái có một nữ nhân Linh Sơn đến hỏi chuyện cũ, rồi không thấy quay lại.",
+        "Hoài Sương nhận ra một vị thuốc trong hũ của nhà sư — thứ chỉ dùng để nhận biết một loại độc cung đình."
+      ],
       "setups_payoffs": [
-        "TBD"
+        "SETUP: trang sổ 1232",
+        "SETUP: Đặng Tử Linh mất tích sau khi điều tra"
       ],
       "target_words": 3500,
-      "status": "tbd"
+      "status": "planned"
     },
     "18": {
-      "title": "Vụ 3 — điều tra",
+      "title": "Lời thú tội của gỗ",
       "case": "case-03",
       "pov": "Nhân Kiệt",
-      "purpose": "Chưa chốt",
-      "beats": [],
-      "setups_payoffs": [
-        "TBD"
+      "purpose": "Lời giải phòng kín.",
+      "beats": [
+        "Nhân Kiệt dựng lại cơ chế: dây chuông kéo then cài từ bên ngoài; nhịp chuông lệch là lúc hung thủ giật dây.",
+        "Hung thủ là một nhà sư trong chùa, nhận tiền từ một người đeo thẻ bài của cung cấm mà hắn không thấy mặt.",
+        "Trang sổ đã được giao cho người đó."
       ],
+      "setups_payoffs": [],
       "target_words": 3500,
-      "status": "tbd"
+      "status": "planned"
     },
     "19": {
-      "title": "Vụ 3 — lời giải",
+      "title": "Thái y viện",
       "case": "case-03",
       "pov": "Nhân Kiệt",
-      "purpose": "Chưa chốt",
-      "beats": [],
+      "purpose": "Manh mối thật đầu tiên của vụ Thiên Bảo.",
+      "beats": [
+        "Nhân Kiệt xin được xem sổ ngự dược; Trần Bình cho phép — và sai Thế Xung đi cùng.",
+        "Đối chiếu triệu chứng trong hồ sơ riêng về Thiên Bảo: Hàn Tâm tán — ngự dược cấm.",
+        "Sổ ghi hai lần xuất: một lần năm 1232, một lần mùa xuân 1242. Tên người lĩnh bị cạo mất cả hai. Năm 1232 là năm Thế Tông băng.",
+        "Kẻ giết Thiên Bảo có đường vào cung cấm."
+      ],
       "setups_payoffs": [
-        "TBD"
+        "PAYOFF: hồ sơ Thiên Bảo có manh mối",
+        "SETUP: liên hệ 1232 – 1242"
       ],
       "target_words": 3500,
-      "status": "tbd"
+      "status": "planned"
     },
     "20": {
-      "title": "Vụ 3 — hệ quả",
+      "title": "Hai lần xuất kho",
       "case": "case-03",
       "pov": "Nhân Kiệt",
-      "purpose": "Chưa chốt; nên kết bằng manh mối Hàn Tâm tán và dấu vết Đặng Tử Linh",
-      "beats": [],
+      "purpose": "Hệ quả vụ 3; gieo Đồng Thái Huy.",
+      "beats": [
+        "Khương Tử tìm thấy trong kệ hồ sơ một sợi dây buộc tóc kiểu Linh Sơn: Đặng Tử Linh đã đến tận đây.",
+        "Hoài Sương nói: Hàn Tâm tán không có thuốc giải trong y thư nào; chỉ nghe đồn một thần y họ Đồng — Đồng Thái Huy — từng cứu được người trúng nó, nhưng không ai biết ông ở đâu.",
+        "Thế Xung báo về Trần Bình: Lý Nhân Kiệt đã biết tên độc.",
+        "Trần Bình đọc báo cáo, rồi thong thả xếp hồ sơ Hoan Châu lên bàn: đã đến lúc đưa thần thám ra khỏi kinh thành một thời gian."
+      ],
       "setups_payoffs": [
-        "TBD"
+        "SETUP: Đồng Thái Huy",
+        "SETUP: Trần Bình đẩy Nhân Kiệt đi Hoan Châu"
       ],
       "target_words": 3500,
-      "status": "tbd"
+      "status": "planned"
     },
     "21": {
       "title": "Mật lệnh",
