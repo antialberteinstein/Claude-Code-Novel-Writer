@@ -284,7 +284,7 @@
     "Lý Nhân Kiệt (đời đầu)": {
       "born": 1163,
       "died": 1225,
-      "role": "thiên hạ đệ nhất thần thám, quản lý Nội Vệ; bộ ba công thần thời Thế Tông; cha Lý Nhân Quý, ông nội Thanh Anh"
+      "role": "thiên hạ đệ nhất thần thám, quản lý Nội Vệ; bộ ba công thần thời Thế Tông; cha Lý Nhân Quý, ông nội Thanh Anh; đích thân lập Nội Vệ giám"
     },
     "Hồng Khải đế": {
       "aliases": [
@@ -405,14 +405,14 @@
       "role": "thừa tướng đại tài thời Thế Tông; bộ ba công thần"
     },
     "Phùng Quang Chính": {
-      "role": "thuộc bộ ba 'chúa hề' của Hồng Khải, theo từ thời Tấn vương; vai trò chưa chốt (Q-TRIO)"
+      "role": "võ tướng; bộ ba 'chúa hề' của Hồng Khải, theo từ thời Tấn vương"
     },
     "Châu Vinh": {
-      "role": "thuộc bộ ba của Nhân Tông, theo từ thời Ngô vương",
+      "role": "đại tướng quân của Nhân Tông, theo từ thời Ngô vương",
       "status": "mất trong loạn Nguyễn Trường Thịnh 1236"
     },
     "Nguyễn Trọng Nhân": {
-      "role": "thuộc bộ ba của Nhân Tông, theo từ thời Ngô vương",
+      "role": "đứng đầu Nội Vệ giám thời Nhân Tông, theo từ thời Ngô vương; sau 1236 Trần Bình thay",
       "status": "mất trong loạn Nguyễn Trường Thịnh 1236"
     }
   },

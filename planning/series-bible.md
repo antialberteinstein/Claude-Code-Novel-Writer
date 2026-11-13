@@ -1,6 +1,6 @@
 # THẦN THÁM — Kim Tử Anh truyện (series bible)
 
-> Trạng thái: **kế hoạch tạm, bản 14**.
+> Trạng thái: **kế hoạch tạm, bản 15**.
 > - **[TG]** = canon tác giả xác nhận trong trò chuyện.
 > - **[WIKI]** = lấy từ wiki vũ trụ Huyền Huyễn (`antialberteinstein/fandomwiki-generator`, `content/`).
 > - ⚑ = đề xuất của tôi.
@@ -75,7 +75,7 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
   - Phe Khải Huy (Nhân Tông, Tử Anh, Ngô Vương) mang danh Tây Kỳ.
   - Phe Hồng Khải đế và họ Lý hoàng hậu mang danh Đông Kỳ.
   - **Đông Kỳ thất đại gia tộc** [TG]: Trần, Kim, Võ, Lý, Đào, Dương, Phùng. Họ Lý của Lý Nhân Quý và họ Võ của Võ quốc công đều thuộc nhóm này. (Các bản trước ghi "bát đại"; đã sửa theo tác giả.)
-- **Nội Vệ giám**: do Thế Tông lập; từng do Lý Nhân Kiệt đời đầu quản lý [WIKI]; năm 1243 do **Trần Bình** cai quản [TG]. Từ vụ mộ thái tử, Nội Vệ công khai đối đầu phe thừa tướng Phan Đình Nhân [TG].
+- **Nội Vệ giám**: do **Lý Nhân Kiệt đời đầu đích thân lập ra** dưới triều Thế Tông [TG]. Người đứng đầu qua các thời: Lý Nhân Kiệt đời đầu → … → **Nguyễn Trọng Nhân** (thời Nhân Tông, mất năm 1236) → **Trần Bình** (từ sau 1236) [TG]; năm 1243 do **Trần Bình** cai quản [TG]. Từ vụ mộ thái tử, Nội Vệ công khai đối đầu phe thừa tướng Phan Đình Nhân [TG].
   - Hai nhánh [TG]: **Tả vệ** xử lý các vụ án trong dân; **Hữu vệ** điều tra quan lại trong cung.
   - ⚑ Nhân Kiệt và nhóm thuộc Tả vệ. Hữu vệ là nơi bí mật của triều đình được giữ, và là nơi Thế Xung chuyển tới năm 1245.
 - **Mộ Anh Mẫn thái tử**: mộ giả [TG]. ⚑ Do Hồng Khải đế cho xây sau khi tuyên bố Tử Anh đã chết năm 1236. Trong quan tài chỉ có áo liệm và đá. Phe Phan Đình Nhân lợi dụng ngôi mộ làm kho giấu bạc bẩn, vì không ai dám đào mộ một thái tử.
@@ -280,12 +280,13 @@ Thế Tông, Nhân Tông và Hồng Khải: hai vua sau đều là con của Th�
 | **Nhân Tông** | **Châu Vinh**, **Nguyễn Trọng Nhân**, **Bùi Nguyên Thuần** | Theo Nhân Tông từ khi ông còn là **Ngô vương** cho tới khi lên ngôi năm 1232. Tước Ngô vương sau đó được phong cho trưởng nữ Kim Tử Quân. Châu Vinh và Nguyễn Trọng Nhân đều mất trong loạn Nguyễn Trường Thịnh (1236); chỉ Bùi Nguyên Thuần sống sót. |
 | **Hồng Khải** — bộ ba "chúa hề" | **Phùng Quang Chính**, **Trần Bình**, **Phan Đình Nhân** | Theo Hồng Khải từ khi ông còn là **Tấn vương** cho tới khi lên ngôi năm 1236. |
 
-- ⚑ Đề xuất ghép vai cho cân xứng (chờ tác giả xác nhận, Q-TRIO):
-  - Ở bộ ba Thế Tông: võ tướng – Nội Vệ/thần thám – thừa tướng.
-  - Ở bộ ba Hồng Khải: Phùng Quang Chính là võ tướng; Trần Bình là Nội Vệ, phiên bản phản bội của Lý Nhân Kiệt; Phan Đình Nhân là thừa tướng, phiên bản tham nhũng của Nghiêm Minh Viên.
-  - Ở bộ ba Nhân Tông: Bùi Nguyên Thuần là tể tướng; Châu Vinh và Nguyễn Trọng Nhân là gì?
+- **Vai trò** [TG]. Ba bộ ba có cùng một cấu trúc: võ tướng – người đứng đầu Nội Vệ – thừa tướng/tể tướng.
+  - Thế Tông: Trương Quang Nghĩa (thiên hạ đệ nhất võ tướng) · Lý Nhân Kiệt (lập và đứng đầu Nội Vệ) · Nghiêm Minh Viên (thừa tướng).
+  - Nhân Tông: **Châu Vinh** (đại tướng quân) · **Nguyễn Trọng Nhân** (đứng đầu Nội Vệ giám) · **Bùi Nguyên Thuần** (tể tướng).
+  - Hồng Khải: **Phùng Quang Chính** (võ tướng) · **Trần Bình** (đứng đầu Nội Vệ, thay Nguyễn Trọng Nhân) · **Phan Đình Nhân** (thừa tướng).
+- ⚑ Nguyễn Trọng Nhân chết trong loạn năm 1236, và Trần Bình kế chân ông. Đây là một nghi vấn đáng gieo cho người đọc lần hai: ai được lợi khi người đứng đầu Nội Vệ của Nhân Tông chết giữa đêm loạn?
 - ⚑ Ý nghĩa với truyện:
-  - Bộ ba "chúa hề" lại là những kẻ cầm quyền thật trong thời Nhân Kiệt sống. Hai trong ba người (Trần Bình, Phan Đình Nhân) là trục phản diện của nửa đầu bộ truyện. Phùng Quang Chính đến nay chưa xuất hiện, nên là một quân cờ còn để ngỏ.
+  - Bộ ba "chúa hề" lại là những kẻ cầm quyền thật trong thời Nhân Kiệt sống. Hai trong ba người (Trần Bình, Phan Đình Nhân) là trục phản diện của nửa đầu bộ truyện. Phùng Quang Chính, võ tướng của Hồng Khải, đến nay chưa xuất hiện trong dàn ý, nên là một quân cờ còn để ngỏ.
   - Bộ ba của Nhân Tông, tức bộ ba của cha Tử Anh, giờ chỉ còn Bùi Nguyên Thuần đang lưu vong. Ông là di sản chính trị duy nhất còn lại của phe Khải Huy, và là người Tử Anh sẽ cần khi giành lại ngôi.
   - Phùng là một trong Đông Kỳ thất đại gia tộc. Phùng Quang Chính có thể mang theo cả lợi ích của một thế tộc.
 
@@ -357,5 +358,6 @@ Thế Tông, Nhân Tông và Hồng Khải: hai vua sau đều là con của Th�
   - Trần Bình nghi Nhân Kiệt nhưng không chứng minh được.
   - Trần Bình đóng vai người thầy; không làm lộ sớm.
   - Năm sinh năm mất của Lý Nhân Quý và Lý Nhân Kiệt đời đầu.
-- **Q-TRIO.** Vai trò của Phùng Quang Chính, Châu Vinh và Nguyễn Trọng Nhân? Phùng Quang Chính đang ở đâu và làm gì trong những năm 1243–1247?
+- **Đã chốt** (bản 15): vai trò của Phùng Quang Chính, Châu Vinh, Nguyễn Trọng Nhân; Nội Vệ giám do Lý Nhân Kiệt đời đầu lập.
+- **Q-PQC.** Trong những năm 1243–1247, Phùng Quang Chính đang ở đâu và làm gì?
 - **Đã chốt** (bản 13): Lý Nhân Quý sinh 1186, thầy là Trương Quang Nghĩa; bộ ba công thần; thân thế Lâm – Xung (con Cái Thế Hùng); Sương gặp hai anh em năm 1234.
