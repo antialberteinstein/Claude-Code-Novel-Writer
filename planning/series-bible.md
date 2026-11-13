@@ -1,6 +1,6 @@
 # THẦN THÁM — Kim Tử Anh truyện (series bible)
 
-> Trạng thái: **kế hoạch tạm, bản 16**.
+> Trạng thái: **kế hoạch tạm, bản 17**.
 > - **[TG]** = canon tác giả xác nhận trong trò chuyện.
 > - **[WIKI]** = lấy từ wiki vũ trụ Huyền Huyễn (`antialberteinstein/fandomwiki-generator`, `content/`).
 > - ⚑ = đề xuất của tôi.
@@ -89,6 +89,7 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
   - Linh Sơn vì thế là một môn phái **lai Lang – Bồn Tử**, do một người Lang lưu vong dựng nên trên đất Bồn Tử, rồi đến năm 1235 rơi vào tay một chưởng môn người Bồn Tử (Hạ Vĩnh Bình).
   - ⚑ Hoan Châu, đất của người Bồn Man [WIKI], nằm ngay phía nam: "Bắc Bồn Tử" và "Bồn Man" có thể cùng gốc.
 - **Hoan Châu**: đất phong của **Ngô Vương Kim Tử Quân** [WIKI][TG].
+- **Ung Châu** (12 huyện) [TG]: chia cho ba vương. **Tần vương** (Kim Thừa Tĩnh [WIKI]) giữ 4 huyện phía tây; **Tấn vương** (Kim Thừa Trinh, tức Hồng Khải đế trước 1236) giữ 4 huyện phía nam; **Triệu vương** (Kim Thừa Quân [WIKI]) giữ 4 huyện phía đông. Nhóm Cái Thế Hùng – Lâm – Xung – Hoài Sương là người 4 huyện phía nam.
 
 ## 4. Hoàng tộc và mốc lịch sử
 
@@ -367,5 +368,5 @@ Thế Tông, Nhân Tông và Hồng Khải: hai vua sau đều là con của Th�
   - Năm sinh năm mất của Lý Nhân Quý và Lý Nhân Kiệt đời đầu.
 - **Đã chốt** (bản 15): vai trò của Phùng Quang Chính, Châu Vinh, Nguyễn Trọng Nhân; Nội Vệ giám do Lý Nhân Kiệt đời đầu lập.
 - **Đã chốt** (bản 16): Phùng Quang Chính (thái úy, trung thành, không biết âm mưu, con là Phùng Hưng); bộ ba Hồng Khải ở Ung Châu tới năm 1236; nhóm Lâm – Xung – Sương – Cái Thế Hùng là người Ung Châu.
-- **Q-UC.** Wiki ghi Tần vương Kim Thừa Tĩnh giữ Ung Châu trong chiến tranh thiên hạ năm 1245. Ung Châu đổi chủ sau khi Tấn vương lên ngôi, hay cần chỉnh wiki?
+- **Đã chốt** (bản 17): Ung Châu 12 huyện chia ba: Tần vương (tây), Tấn vương (nam), Triệu vương (đông). Khớp với wiki.
 - **Đã chốt** (bản 13): Lý Nhân Quý sinh 1186, thầy là Trương Quang Nghĩa; bộ ba công thần; thân thế Lâm – Xung (con Cái Thế Hùng); Sương gặp hai anh em năm 1234.
