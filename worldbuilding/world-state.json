@@ -19,13 +19,13 @@
     },
     {
       "name": "Hoan Châu",
-      "notes": "đất phong của Ngô Vương Kim Tử Quân, phía nam Linh Sơn; nơi Thanh Anh lánh nạn; huyết án nhà quan huyện 1240"
+      "notes": "đất phong của Ngô Vương Kim Tử Quân, phía nam Linh Sơn; nơi Thanh Anh lánh nạn; huyết án nhà quan huyện 1243"
     }
   ],
   "institutions": [
     {
       "name": "Nội Vệ giám",
-      "notes": "do Thế Tông lập; giám sát quan chức và phá trọng án; từng do Lý Nhân Kiệt đời đầu quản lý; năm 1240 do Trần Bình cai quản"
+      "notes": "do Thế Tông lập; giám sát quan chức và phá trọng án; từng do Lý Nhân Kiệt đời đầu quản lý; năm 1242 do Trần Bình cai quản"
     },
     {
       "name": "Thái y viện",
@@ -49,7 +49,7 @@
     },
     {
       "name": "Đông Kỳ / Tây Kỳ",
-      "notes": "hai phe: Khải Huy (Nhân Tông, Tử Anh) là Tây Kỳ; Thừa Trinh (Bảo Định) và họ Lý hoàng hậu là Đông Kỳ"
+      "notes": "hai phe: Khải Huy (Nhân Tông, Tử Anh) là Tây Kỳ; Thừa Trinh (Hồng Khải đế) và họ Lý hoàng hậu là Đông Kỳ"
     },
     {
       "name": "Tử Nguyệt giáo",
@@ -72,7 +72,7 @@
       "event": "Lý Nhân Kiệt đời đầu ra đời"
     },
     {
-      "year": 1175,
+      "year": 1169,
       "event": "Lý Thế Vinh ra đời"
     },
     {
@@ -80,8 +80,8 @@
       "event": "Thế Tông lên ngôi"
     },
     {
-      "year": 1192,
-      "event": "Kim Nhân Tông (Thừa Ly) ra đời (wiki: 1193)"
+      "year": 1193,
+      "event": "Kim Nhân Tông (Thừa Ly) ra đời"
     },
     {
       "year": 1204,
@@ -113,11 +113,11 @@
     },
     {
       "year": 1232,
-      "event": "Đại bại Đinh Nhất (Tử Đức sống sót thành Lê Duy Thành); Thừa Ly ám sát Thế Tông, sửa di chiếu; Tử Anh đổ tội cho Lý Nhân Quý; họ Lý bị tru di, Thanh Anh thoát (Lưu Trọng Huy); Tử Anh làm thái tử"
+      "event": "Đại bại Đinh Nhất (Tử Đức sống sót thành Lê Duy Thành); Thừa Ly ám sát Thế Tông, sửa di chiếu; Tử Anh đổ tội cho Lý Nhân Quý; họ Lý bị tru di, Lưu Trọng Huy cứu Thanh Anh theo mật lệnh Tử Anh; Tử Anh làm thái tử"
     },
     {
       "year": 1236,
-      "event": "Thừa Văn bị ám sát; loạn kinh thành, Nhân Tông bị giết; Bảo Định (Thừa Trinh) lên ngôi; Hà hoàng hậu ám sát hụt Tử Anh, Tử Anh mất trí nhớ; họ Bùi lưu vong Linh Sơn; Bùi Trường Hải giết nhà Lý Kinh Hải; Thiên Bảo trao thân phận Lý Bính"
+      "event": "Thừa Văn bị ám sát; Lạng Sơn Vương Nguyễn Trường Thịnh nổi loạn, Nhân Tông bị giết; Thừa Trinh lên ngôi, niên hiệu Hồng Khải; Hà hoàng hậu ám sát hụt Tử Anh, Tử Anh mất trí nhớ; họ Bùi lưu vong Linh Sơn; Bùi Trường Hải giết nhà Lý Kinh Hải; Thiên Bảo trao thân phận Lý Bính"
     },
     {
       "year": 1238,
@@ -128,8 +128,12 @@
       "event": "Án oan Lưu Trọng Huy; Thanh Anh thành Như Ý"
     },
     {
-      "year": 1240,
-      "event": "Lý Thiên Bảo bị Trần Bình đầu độc — truyện bắt đầu; huyết án Hoan Châu"
+      "year": 1242,
+      "event": "Lý Thiên Bảo bị Trần Bình đầu độc — truyện bắt đầu"
+    },
+    {
+      "year": 1243,
+      "event": "Huyết án Hoan Châu (tạm): Huy và Như Ý giết nhà quan huyện; Huy tự sát; Nhân Kiệt che giấu Như Ý; Nhân Kiệt thám thính Ngô Vương"
     },
     {
       "year": 1245,
@@ -141,7 +145,7 @@
     },
     {
       "year": 1249,
-      "event": "Trần Bình đầu độc Bảo Định rồi bị diệt; Thanh Anh giả Hà hoàng hậu lập An Định; Tử Anh làm Việt Vương chấp chính (wiki)"
+      "event": "Trần Bình đầu độc Hồng Khải đế rồi bị diệt; Thanh Anh giả Hà hoàng hậu lập An Định; Tử Anh làm Việt Vương chấp chính (wiki)"
     },
     {
       "year": 1253,
@@ -155,7 +159,7 @@
   "notable_items": [
     {
       "name": "Hàn Tâm tán",
-      "notes": "ngự dược cấm (tạm: thứ độc Nhân Tông dùng giết Thế Tông); triệu chứng: chân lưỡi thâm, mùi ngọt như nhãn khô, đồng tử co; xuất kho 1232 và xuân 1240, tên người lĩnh bị cạo"
+      "notes": "ngự dược cấm (tạm: thứ độc Nhân Tông dùng giết Thế Tông); triệu chứng: chân lưỡi thâm, mùi ngọt như nhãn khô, đồng tử co; xuất kho 1232 và xuân 1242, tên người lĩnh bị cạo"
     },
     {
       "name": "Ngọc bội hình rồng",

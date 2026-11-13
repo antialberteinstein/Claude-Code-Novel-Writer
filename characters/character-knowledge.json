@@ -18,11 +18,12 @@
       "Lý Nhân Kiệt đời đầu là ông nội Thanh Anh",
       "Như Ý là Lý Thanh Anh, hôn thê thuở nhỏ",
       "Lê Duy Thành là anh ruột Kim Tử Đức",
-      "Trần Bình giết Thiên Bảo"
+      "Trần Bình giết Thiên Bảo",
+      "Lưu Trọng Huy là bạn thơ ấu của mình"
     ],
     "relationships": {
       "Lý Thế Vinh": "sư phụ, người cha thay thế",
-      "Lý Thiên Bảo": "sư huynh, như anh ruột (chết 1240)",
+      "Lý Thiên Bảo": "sư huynh, như anh ruột (chết 1242)",
       "Lý Hoài Sương": "sư muội, em gái Thiên Bảo",
       "Lý Thanh Anh": "chưa gặp ở đầu truyện"
     },
@@ -34,12 +35,12 @@
   },
   "characters": {
     "Lý Thanh Anh": {
-      "role": "con gái Lý Nhân Quý (Đông kỳ bát đại gia tộc); được Lưu Trọng Huy cứu 1232, lánh nạn Hoan Châu; tỳ nữ nhà quan huyện 1239; đồng phạm thảm sát nhà quan huyện 1240, được Nhân Kiệt che giấu",
+      "role": "con gái Lý Nhân Quý (Đông kỳ bát đại gia tộc); được Lưu Trọng Huy cứu 1232, lánh nạn Hoan Châu; tỳ nữ nhà quan huyện 1239; đồng phạm thảm sát nhà quan huyện 1243 (tạm), được Nhân Kiệt che giấu",
       "knows": [
         "Nhà mình bị vu tội giết vua năm 1232"
       ],
       "believes": [
-        "Nhà Kim là kẻ thù; căm Anh Minh thái tử",
+        "Nhà Kim là kẻ thù; căm Anh Mẫn thái tử",
         "Tử Anh đã chết năm 1236",
         "Tử Anh thuở nhỏ ốm yếu, không thể là người cầm kiếm"
       ],
@@ -47,21 +48,26 @@
       "alias": "Như Ý (từ 1239)",
       "grandfather": "Lý Nhân Kiệt đời đầu (đệ nhất thần thám)",
       "betrothed": "Kim Tử Anh (hôn ước từ nhỏ)",
-      "half_sister": "Hà hoàng hậu"
+      "half_sister": "Hà hoàng hậu",
+      "does_not_know": [
+        "Huy cứu nàng theo lệnh Tử Anh",
+        "Lý Nhân Kiệt là Tử Anh",
+        "Hà hoàng hậu là chị cùng cha"
+      ]
     },
     "Lý Thế Vinh": {
-      "born": 1175,
+      "born": 1169,
       "role": "chưởng môn Nam Hải phái; thường dân họ Lý",
       "knows": [
         "Lý Bính là Kim Tử Anh",
         "Trần Bình giết Thiên Bảo",
         "rất nhiều bí mật khác"
       ],
-      "stance": "ngồi yên xem kịch (Q-W)"
+      "stance": "ngồi yên xem kịch; âm mưu lớn hay đứng ngoài: chưa xác định"
     },
     "Lý Thiên Bảo": {
       "role": "sư huynh, con Lý Thiên Sư; trao thân phận Lý Bính cho Tử Anh năm 1236",
-      "status": "chết 1240 vì Hàn Tâm tán",
+      "status": "chết 1242 vì Hàn Tâm tán (Trần Bình)",
       "knew_before_death": [
         "Lý Bính là tên mượn",
         "An Định là con Trần Bình và Hà hoàng hậu",
@@ -78,7 +84,7 @@
       "provisional": true
     },
     "Cái Thế Xung": {
-      "role": "bộ đầu Nội Vệ, bạn đồng hành phá án của Nhân Kiệt; từ 1245 đội lốt Phan Đình Nhân cho Trần Bình",
+      "role": "bộ đầu Nội Vệ, bạn đồng hành phá án của Nhân Kiệt; phục tùng Trần Bình vô điều kiện từ đầu; từ 1245 đội lốt Phan Đình Nhân",
       "seeds": [
         "tài nhại giọng",
         "biết Nhân Kiệt che tội cho Như Ý"
@@ -89,30 +95,21 @@
     },
     "Lê Duy Thành": {
       "true_identity": "Kim Tử Đức (1218), anh ruột Tử Anh, Hắc Chiến Giáp (wiki)",
-      "role": "vỏ bọc thương nhân nhỏ; nghi phạm án thuyền ma; giáo chủ bí mật Ba Xuyên giáo; tư thù Bảo Định",
+      "role": "vỏ bọc thương nhân nhỏ; nghi phạm án thuyền ma; giáo chủ bí mật Ba Xuyên giáo; tư thù Hồng Khải đế",
       "seeds": [
         "vết bỏng, tật chân",
         "biết Thiên Bảo là Bạch Chiến Giáp"
-      ]
+      ],
+      "sect": "Tử Nguyệt giáo → đổi thành Ba Xuyên giáo sau cái chết của nữ giáo chủ (người cứu y, người y yêu)"
     },
     "Nguyễn Văn Đông": {
       "role": "Nam Hải Quốc công, bảo trợ Nam Hải phái",
-      "secret": "có thể cùng họ tộc Nguyễn Kính Thông (tạm)"
-    },
-    "Vua Bảo Định": {
-      "aliases": [
-        "Kim Thừa Trinh",
-        "Mục Tông"
-      ],
-      "role": "em Nhân Tông, chú ruột Tử Anh; trị vì 1236–1249; hưởng lạc, đa nghi",
-      "consort": "Hà hoàng hậu",
-      "heir": "Kim An Định (danh nghĩa)",
-      "death": "bị Trần Bình đầu độc 1249 (wiki)"
+      "secret": "có thể cùng họ tộc Lạng Sơn Vương Nguyễn Trường Thịnh (tạm)"
     },
     "Kim Nhân Tông": {
-      "born": 1192,
+      "born": 1193,
       "reign": "1232–1236",
-      "status": "bị giết trong loạn Nguyễn Kính Thông 1236",
+      "status": "bị Lạng Sơn Vương Nguyễn Trường Thịnh giết 1236",
       "secret": "ám sát Thế Tông, sửa di chiếu",
       "aliases": [
         "Kim Thừa Ly",
@@ -127,10 +124,6 @@
         "Kim Tử Anh",
         "Kim Tử Danh"
       ]
-    },
-    "Nguyễn Kính Thông": {
-      "role": "phản tướng 1236",
-      "status": "đã chết"
     },
     "Kim Thế Tông": {
       "born": 1154,
@@ -159,12 +152,16 @@
       "provisional": true
     },
     "Lưu Trọng Huy": {
-      "role": "bạn của Thanh Anh, mồ côi, sống với bà; cứu Thanh Anh 1232",
-      "status": "tự sát 1240 sau khi giết cả nhà quan huyện Hoan Châu"
+      "role": "dân thường, bạn thơ ấu của Tử Anh và Thanh Anh; 1232 cứu Thanh Anh theo mật lệnh Tử Anh (gộp La Vĩnh Quốc)",
+      "status": "tự sát 1243 (tạm) sau huyết án Hoan Châu",
+      "knows": [
+        "Tử Anh ra lệnh cứu Thanh Anh",
+        "nhận ra Nhân Kiệt là Tử Anh trước khi chết (đề xuất)"
+      ]
     },
     "Quan huyện Hoan Châu": {
       "role": "hiếp giết thôn nữ 1239, đổ tội cho Huy",
-      "status": "cả nhà bị giết 1240"
+      "status": "cả nhà bị giết 1243 (tạm)"
     },
     "Lý Thiên Sư": {
       "role": "cha Thiên Bảo, bạn Lý Kinh Hải",
@@ -203,20 +200,21 @@
         "Nhân Kiệt là Tử Anh"
       ],
       "acts": [
-        "giết Thiên Bảo 1240",
-        "giết Phan Đình Nhân 1245, dùng Cái Thế Xung đội lốt",
-        "đầu độc Bảo Định 1249 (wiki)"
+        "giết Thiên Bảo 1242",
+        "bí mật cử Nhân Kiệt thám thính Ngô Vương",
+        "giết Phan Đình Nhân 1245, dùng Thế Xung đội lốt",
+        "đầu độc Hồng Khải đế 1249 (wiki)"
       ]
     },
     "Kim Tử Anh — tước hiệu": {
       "titles": [
         "Việt vương (1228)",
-        "Anh Minh thái tử (1232)"
+        "Anh Mẫn thái tử (1232; cũng gọi Anh Minh; được Hồng Khải đế truy phong)"
       ]
     },
     "Hà hoàng hậu": {
       "born": 1218,
-      "role": "hoàng hậu của Bảo Định; con hoang của Lý Nhân Quý, chị cùng cha khác mẹ Thanh Anh, ngoại hình giống nàng",
+      "role": "hoàng hậu của Hồng Khải đế; con hoang của Lý Nhân Quý, chị cùng cha khác mẹ Thanh Anh, ngoại hình giống nàng",
       "secrets": [
         "ám sát hụt Tử Anh 1236",
         "An Định là con của nàng với Trần Bình",
@@ -225,7 +223,7 @@
     },
     "Kim An Định": {
       "born": 1238,
-      "role": "thái tử; danh nghĩa con Bảo Định, thực là con Trần Bình"
+      "role": "thái tử; danh nghĩa con Hồng Khải đế, thực là con Trần Bình"
     },
     "Bùi Trường Linh": {
       "role": "em gái Bùi Trường Hải, mang thai con Nhân Tông năm 1236",
@@ -238,12 +236,28 @@
     },
     "Kim Tử Quân": {
       "born": 1213,
-      "role": "Ngô Vương, chị ruột Tử Anh, cai quản Hoan Châu (wiki)"
+      "role": "Ngô Vương, trưởng nữ tiên đế Nhân Tông, chị ruột Tử Anh, cai quản Hoan Châu, uy tín rất cao; Trần Bình nghi mưu phản",
+      "proposal": "nhận ra em trai nhưng im lặng (Q-N)"
     },
     "Lý Nhân Kiệt (đời đầu)": {
       "born": 1165,
       "died": 1226,
       "role": "đệ nhất thần thám, thái sư, quản lý Nội Vệ; ông nội Thanh Anh (wiki)"
+    },
+    "Hồng Khải đế": {
+      "aliases": [
+        "Kim Thừa Trinh",
+        "Mục Tông"
+      ],
+      "role": "em Nhân Tông, chú ruột Tử Anh; trị vì 1236–1249; hưởng lạc, đa nghi",
+      "consort": "Hà hoàng hậu",
+      "heir": "Kim An Định (danh nghĩa)",
+      "death": "bị Trần Bình đầu độc 1249 (wiki)",
+      "reign": "1236–1249"
+    },
+    "Nguyễn Trường Thịnh": {
+      "role": "Lạng Sơn Vương, phản loạn 1236, giết Nhân Tông",
+      "status": "bị Thừa Trinh đánh bại"
     }
   },
   "characters_created": [
@@ -253,6 +267,7 @@
     "Cái Thế Lâm",
     "Cái Thế Xung",
     "Hà hoàng hậu",
+    "Hồng Khải đế",
     "Khương Tử",
     "Kim An Định",
     "Kim Nhân Tông",
@@ -272,12 +287,11 @@
     "Lý Thiên Sư",
     "Lý Thế Vinh",
     "Lưu Trọng Huy",
-    "Nguyễn Kính Thông",
+    "Nguyễn Trường Thịnh",
     "Nguyễn Văn Đông",
     "Phan Đình Nhân",
     "Quan huyện Hoan Châu",
     "Trần Bình",
-    "Vua Bảo Định",
     "Đặng Tử Linh"
   ]
 }
