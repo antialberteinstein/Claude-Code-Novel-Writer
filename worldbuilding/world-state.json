@@ -7,7 +7,7 @@
     },
     {
       "name": "Nam Hải",
-      "notes": "đất phong của Nam Hải Quốc công; sơn môn Nam Hải phái; cửa Hàm (cửa biển)"
+      "notes": "Diễn Châu, phía nam Phong Đô, khá gần kinh đô; sơn môn Nam Hải phái (chưởng môn Lý Thế Vinh); đất phong Nam Hải Quốc công"
     },
     {
       "name": "Hoan Châu",
@@ -45,7 +45,7 @@
   "institutions": [
     {
       "name": "Nội Vệ giám",
-      "notes": "vua Thế Tông lập; Lý Nhân Kiệt đời đầu đề xuất và đích thân thực hiện; đứng đầu: Lý Nhân Kiệt → … → Nguyễn Trọng Nhân (thời Nhân Tông, mất 1236) → Trần Bình; hai nhánh Tả vệ (án trong dân) và Hữu vệ (quan lại trong cung)"
+      "notes": "vua Thế Tông lập; Lý Nhân Kiệt đời đầu đề xuất và đích thân thực hiện; đứng đầu: Lý Nhân Kiệt → … → Nguyễn Trọng Nhân (thời Nhân Tông, mất 1236) → Trần Bình; hai nhánh Tả vệ (án trong dân) và Hữu vệ (quan lại trong cung); năm 1243 Tả vệ giám Dương Thiệu Ninh, Hữu vệ giám Lý Vĩnh Hưng; 'thám quan' chỉ là cách gọi"
     },
     {
       "name": "Thái y viện",
@@ -82,7 +82,7 @@
   ],
   "magic_rules": [],
   "rules": [
-    "Không có phép thuật; võ công ở mức võ hiệp nhẹ, thực tế",
+    "Không có phép thuật; võ công ở mức kiếm hiệp đầy đủ (nội công, khinh công, điểm huyệt)",
     "Mọi vụ án phải giải được bằng manh mối đặt trước cho người đọc"
   ],
   "cultures": [

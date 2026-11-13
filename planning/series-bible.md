@@ -1,6 +1,6 @@
 # THẦN THÁM — Kim Tử Anh truyện (series bible)
 
-> Trạng thái: **kế hoạch tạm, bản 17**.
+> Trạng thái: **kế hoạch tạm, bản 18**.
 > - **[TG]** = canon tác giả xác nhận trong trò chuyện.
 > - **[WIKI]** = lấy từ wiki vũ trụ Huyền Huyễn (`antialberteinstein/fandomwiki-generator`, `content/`).
 > - ⚑ = đề xuất của tôi.
@@ -60,6 +60,11 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 ## 2. Thể loại & giọng văn
 
 - Cổ trang trinh thám (án đơn) + cung đình chính trị + võ hiệp + bi kịch tình yêu.
+- **Văn phong** [TG]:
+  - Trinh thám dark hóa nhẹ nhàng, phá cách trên nền văn phong kiếm hiệp Kim Dung.
+  - Hán-Việt vừa phải.
+  - Mỗi chương 3.000–4.000 chữ.
+- **Mức võ công** [TG]: cao, kiếm hiệp đầy đủ.
 - Mỗi vụ án phải giải được công bằng và để lại một mảnh ghép cho tuyến chính.
 - **Sức mạnh của nhóm** [TG]:
   - Nhân Kiệt rất khỏe và kiếm thuật giỏi, nhưng chỉ ở mức trung bình so với cao thủ thật. Hắn hoàn hảo về mọi mặt mà không nổi trội mặt nào, trừ khả năng suy luận và trí tuệ siêu việt.
@@ -77,6 +82,10 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
   - **Đông Kỳ thất đại gia tộc** [TG]: Trần, Kim, Võ, Lý, Đào, Dương, Phùng. Họ Lý của Lý Nhân Quý và họ Võ của Võ quốc công đều thuộc nhóm này. (Các bản trước ghi "bát đại"; đã sửa theo tác giả.)
 - **Nội Vệ giám**: **vua Thế Tông lập ra**; Lý Nhân Kiệt đời đầu là người đề xuất và đích thân thực hiện [TG]. Người đứng đầu qua các thời: Lý Nhân Kiệt đời đầu → … → **Nguyễn Trọng Nhân** (thời Nhân Tông, mất năm 1236) → **Trần Bình** (từ sau 1236) [TG]; năm 1243 do **Trần Bình** cai quản [TG]. Từ vụ mộ thái tử, Nội Vệ công khai đối đầu phe thừa tướng Phan Đình Nhân [TG].
   - Hai nhánh [TG]: **Tả vệ** xử lý các vụ án trong dân; **Hữu vệ** điều tra quan lại trong cung.
+  - Năm 1243, **Tả vệ giám** là **Dương Thiệu Ninh** (sinh 1209), cấp trên trực tiếp của Nhân Kiệt. **Hữu vệ giám** là **Lý Vĩnh Hưng** (sinh 1223) [TG].
+    - ⚑ Họ Dương thuộc Đông Kỳ thất đại gia tộc.
+    - ⚑ Lý Vĩnh Hưng đứng đầu Hữu vệ khi mới 20 tuổi, trẻ hơn cả Nhân Kiệt. Năm 1245 Thế Xung chuyển sang dưới quyền y.
+  - "Thám quan" không phải chức vụ, chỉ là cách người ta gọi Nhân Kiệt [TG].
   - ⚑ Nhân Kiệt và nhóm thuộc Tả vệ. Hữu vệ là nơi bí mật của triều đình được giữ, và là nơi Thế Xung chuyển tới năm 1245.
 - **Mộ Anh Mẫn thái tử**: mộ giả [TG]. ⚑ Do Hồng Khải đế cho xây sau khi tuyên bố Tử Anh đã chết năm 1236. Trong quan tài chỉ có áo liệm và đá. Phe Phan Đình Nhân lợi dụng ngôi mộ làm kho giấu bạc bẩn, vì không ai dám đào mộ một thái tử.
 - **Linh Sơn = Bắc Bồn Tử** [TG]: thực chất là một nước ngoài, có tư thù với hoàng gia nhà Kim. Chưởng môn **Hạ Vĩnh Bình** có thể coi là người đứng đầu Bắc Bồn Tử. Tên này lấy theo wiki; các bản trước gọi là "Đặng Quang Bình" [TG].
@@ -159,6 +168,9 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 - Tên tự Nhân Kiệt hắn tự chọn, vì ngưỡng mộ đệ nhất thần thám Lý Nhân Kiệt đời đầu qua sách [WIKI]. Hắn không biết vị thần thám ấy là ông nội Thanh Anh.
 - Mất trí nhớ toàn phần cho tới khi gặp Đồng Thái Huy [TG].
 - Ngoại hình [TG]: da ngăm, nửa trái mặt sẹo bỏng lồi, dáng như lính tráng hoặc dân chợ búa.
+- **Tính cách** [TG]: cởi mở, hơi lắm lời, thích thể hiện hiểu biết, thích tỏ ra dáng lãnh đạo. Hoàn toàn trái ngược nét lạnh lùng, nguy hiểm của Kim Tử Anh.
+  - ⚑ Sự tương phản này là lớp ngụy trang thứ hai, sau gương mặt: không ai nối một gã lắm lời, khoe khoang với một thái tử thâm trầm.
+  - ⚑ Khi ký ức trở lại ở cuối truyện, câu hỏi "ai mới là hắn" trở nên sắc nét: cái tôi ồn ào hay cái tôi lạnh lùng?
 - Vào Nội Vệ cuối năm 1242 [TG].
 - **Sau khi Thế Vinh tiết lộ** (khoảng 1247) [TG]: hắn xác định mình là Kim Tử Anh và tự lập kế hoạch giành lại ngôi vị, dù vẫn chưa có ký ức. ⚑ Đây là một vị thái tử chọn trở thành thái tử bằng lý trí, dựa trên chứng cứ về chính mình như với một vụ án, chứ không bằng ký ức hay tình cảm.
 
@@ -260,6 +272,7 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 ### Trần Bình (1204)
 - Quan cai quản Nội Vệ; xuất thân ăn mày, được Lý Nhân Quý cứu rồi phản bội [WIKI].
 - Giết Thiên Bảo (1242) [TG]; cử Nhân Kiệt thám thính Ngô Vương (1244) [TG]; giết Phan Đình Nhân (1245) [TG]; đầu độc Hồng Khải đế (1249) [WIKI].
+- **Phong thái** [TG]: ấm áp, ít lời, chủ yếu khuyên nhủ.
 - **Mặt nạ "người thầy"** [TG]: trước mắt Nhân Kiệt và người đọc, y là cấp trên che chở, người đứng ra chống phe Phan và giúp hắn truy kẻ giết Thiên Bảo. Thực tế y theo dõi, điều hướng và ngăn cản cuộc điều tra.
 - ⚑ Các bước điều hướng trong Quyển I. Mỗi bước đều có một lý do "tốt" bề ngoài:
   - Vụ 1: che cho Nhân Kiệt trước thừa tướng. Bề ngoài là bảo vệ thuộc hạ; thật ra là dùng hắn làm dao đâm Phan.
@@ -316,7 +329,14 @@ Thế Tông, Nhân Tông và Hồng Khải: hai vua sau đều là con của Th�
 - ⚑ Sau vụ 1, tin đồn thái tử còn sống khiến bà sợ hãi. Bà nghi Duy Thành, và điều đó củng cố hướng lạc cho người đọc.
 
 ### Lý Thế Vinh (1169)
+- Chưởng môn **Nam Hải phái**, ở **Diễn Châu**, phía nam Phong Đô, khá gần kinh đô [TG]. Nhân Kiệt vẫn liên lạc với ông bình thường theo tình nghĩa thầy trò [TG].
 - Biết hết, ngồi yên xem kịch; động cơ chưa xác định [TG]. Người sẽ tiết lộ với Nhân Kiệt rằng hắn là Kim Tử Anh [TG].
+
+### Lý Thiên Bảo (chết 1242)
+- **Võ tướng trong triều**, phục vụ suốt ba đời vua Thế Tông, Nhân Tông và Hồng Khải [TG]. "Bạch Chiến Giáp" [WIKI].
+- Sư huynh của Nhân Kiệt ở Nam Hải phái; con của Lý Thiên Sư; người trao thân phận Lý Bính cho Tử Anh năm 1236 [TG].
+- Say mê Hạ Tử Linh; bị Trần Bình đầu độc ở quán trọ ngoại thành năm 1242 [TG].
+- ⚑ Là võ tướng ba triều, anh có đường vào cung, nên biết được bí mật về An Định.
 
 ### Họ Bùi [TG]
 - **Bùi Nguyên Tồn** (mất sớm), anh của Bùi Nguyên Thuần. Các con:
@@ -369,4 +389,6 @@ Thế Tông, Nhân Tông và Hồng Khải: hai vua sau đều là con của Th�
 - **Đã chốt** (bản 15): vai trò của Phùng Quang Chính, Châu Vinh, Nguyễn Trọng Nhân; Nội Vệ giám do Lý Nhân Kiệt đời đầu lập.
 - **Đã chốt** (bản 16): Phùng Quang Chính (thái úy, trung thành, không biết âm mưu, con là Phùng Hưng); bộ ba Hồng Khải ở Ung Châu tới năm 1236; nhóm Lâm – Xung – Sương – Cái Thế Hùng là người Ung Châu.
 - **Đã chốt** (bản 17): Ung Châu 12 huyện chia ba: Tần vương (tây), Tấn vương (nam), Triệu vương (đông). Khớp với wiki.
+- **Đã chốt** (bản 18): văn phong; tính cách Nhân Kiệt và Trần Bình; mức võ công; Thiên Bảo là võ tướng ba triều; Nam Hải phái ở Diễn Châu; Dương Thiệu Ninh, Lý Vĩnh Hưng; "thám quan" chỉ là cách gọi.
+- **Q-MO.** Mộ Anh Mẫn thái tử: do Hồng Khải cho xây sau 1236, ở ngoại thành Phong Đô (tạm)?
 - **Đã chốt** (bản 13): Lý Nhân Quý sinh 1186, thầy là Trương Quang Nghĩa; bộ ba công thần; thân thế Lâm – Xung (con Cái Thế Hùng); Sương gặp hai anh em năm 1234.

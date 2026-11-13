@@ -33,7 +33,8 @@
       "Lê Duy Thành": "nghi phạm vụ 2, đối thủ trí tuệ",
       "Cái Thế Lâm": "đồng liêu Nội Vệ",
       "Hạ Tử Linh": "nghi phạm chính thức vụ Thiên Bảo; hắn không tin nàng có tội",
-      "Trần Bình": "cấp trên, người thầy hắn tin tưởng"
+      "Trần Bình": "cấp trên, người thầy hắn tin tưởng",
+      "Dương Thiệu Ninh": "cấp trên trực tiếp (Tả vệ giám)"
     },
     "traits": [
       "suy luận và trí tuệ siêu việt — điểm nổi trội duy nhất",
@@ -45,7 +46,8 @@
     "appearance": "da ngăm đen vì nắng; nửa trái mặt đầy sẹo lồi do bỏng; trông như lính hoặc dân chợ búa — trái ngược hẳn Kim Tử Anh yếu đuối, da trắng bệch",
     "after_reveal": "~1247 xác định mình là Kim Tử Anh, tự lập kế hoạch giành ngôi dù không có ký ức",
     "scar": "nửa trái mặt sẹo bỏng lồi từ vụ Hà hoàng hậu phóng hỏa năm 1236 (hắn không biết)",
-    "unit": "Tả vệ Nội Vệ"
+    "unit": "Tả vệ Nội Vệ",
+    "personality": "cởi mở, hơi lắm lời, thích phô hiểu biết, thích ra dáng lãnh đạo (trái ngược Kim Tử Anh lạnh lùng nguy hiểm)"
   },
   "characters": {
     "Lý Thanh Anh": {
@@ -78,10 +80,12 @@
         "rất nhiều bí mật khác"
       ],
       "stance": "ngồi yên xem kịch; âm mưu lớn hay đứng ngoài: chưa xác định",
-      "will": "tiết lộ với Nhân Kiệt rằng hắn là Kim Tử Anh (mốc Q-R)"
+      "will": "tiết lộ với Nhân Kiệt rằng hắn là Kim Tử Anh (mốc Q-R)",
+      "location": "Nam Hải phái, Diễn Châu (phía nam Phong Đô)",
+      "contact": "Nhân Kiệt vẫn liên lạc bình thường"
     },
     "Lý Thiên Bảo": {
-      "role": "sư huynh, con Lý Thiên Sư; trao thân phận Lý Bính cho Tử Anh năm 1236",
+      "role": "sư huynh Nam Hải phái; võ tướng trong triều phục vụ ba đời Thế Tông – Nhân Tông – Hồng Khải; con Lý Thiên Sư; trao thân phận Lý Bính cho Tử Anh 1236",
       "status": "chết 1242 vì Hàn Tâm tán (Trần Bình)",
       "knew_before_death": [
         "Lý Bính là tên mượn",
@@ -252,7 +256,8 @@
       ],
       "mask": "người thầy nâng đỡ Nhân Kiệt; thực tế theo dõi, điều hướng, ngăn cản cuộc điều tra vụ Thiên Bảo",
       "why_not_kill": "cần theo dõi tiến độ và điều hướng/ngăn cản cuộc điều tra",
-      "trio": "bộ ba 'chúa hề' của Hồng Khải, theo từ thời Tấn vương"
+      "trio": "bộ ba 'chúa hề' của Hồng Khải, theo từ thời Tấn vương",
+      "manner": "ấm áp, ít lời, chủ yếu khuyên nhủ"
     },
     "Kim Tử Anh — tước hiệu": {
       "titles": [
@@ -424,6 +429,14 @@
     },
     "Phùng Hưng": {
       "role": "con Phùng Quang Chính; gần cuối truyện theo Kim Tử Anh chống Hồng Khải"
+    },
+    "Dương Thiệu Ninh": {
+      "born": 1209,
+      "role": "Tả vệ giám năm 1243; cấp trên trực tiếp của Nhân Kiệt"
+    },
+    "Lý Vĩnh Hưng": {
+      "born": 1223,
+      "role": "Hữu vệ giám năm 1243; năm 1245 Thế Xung chuyển sang dưới quyền"
     }
   },
   "characters_created": [
@@ -437,6 +450,7 @@
     "Cái Thế Hùng",
     "Cái Thế Lâm",
     "Cái Thế Xung",
+    "Dương Thiệu Ninh",
     "Hà hoàng hậu",
     "Hạ Tử Linh",
     "Hạ Vĩnh Bình",
@@ -468,6 +482,7 @@
     "Lý Thiên Bảo",
     "Lý Thiên Sư",
     "Lý Thế Vinh",
+    "Lý Vĩnh Hưng",
     "Lưu Trọng Huy",
     "Nghiêm Minh Viên",
     "Nguyễn Trường Thịnh",

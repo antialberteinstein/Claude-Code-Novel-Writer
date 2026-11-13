@@ -237,9 +237,17 @@
     "Phùng Quang Chính là võ tướng; Châu Vinh là đại tướng quân; Nguyễn Trọng Nhân đứng đầu Nội Vệ giám (sau thay bằng Trần Bình); Nội Vệ giám do vua Thế Tông lập ra; Lý Nhân Kiệt đời đầu đề xuất và đích thân thực hiện.",
     "Bộ ba Hồng Khải ở đất phong Ung Châu của Tấn vương tới khi Hồng Khải lên ngôi mới được tiến cử; Lý Hoài Sương, Cái Thế Xung, Cái Thế Lâm, Cái Thế Hùng đều là người Ung Châu, phục vụ Tấn vương, theo Tấn vương lên Phong Đô lập nghiệp.",
     "Phùng Quang Chính năm ấy là thái úy, đứng đầu quan võ, nắm quân đội ở Phong Đô; liêm chính, chí công vô tư, cực kỳ trung thành với Hồng Khải; không biết âm mưu của Phan Đình Nhân hay Trần Bình; xuất hiện nhiều khi con ông là Phùng Hưng theo Kim Tử Anh chống Hồng Khải gần cuối truyện.",
-    "Ung Châu có 12 huyện: Tần vương giữ 4 huyện phía tây, Tấn vương 4 huyện phía nam, Triệu vương 4 huyện phía đông."
+    "Ung Châu có 12 huyện: Tần vương giữ 4 huyện phía tây, Tấn vương 4 huyện phía nam, Triệu vương 4 huyện phía đông.",
+    "Văn phong: trinh thám dark hóa nhẹ nhàng, phá cách văn phong kiếm hiệp Kim Dung; Hán-Việt vừa phải; mỗi chương 3000–4000 chữ.",
+    "Lý Nhân Kiệt cởi mở, hơi lắm lời, thích thể hiện hiểu biết, thích tỏ ra dáng lãnh đạo — trái ngược Kim Tử Anh lạnh lùng nguy hiểm. Trần Bình ấm áp, ít lời, chủ yếu khuyên nhủ.",
+    "Mức võ công cao, như kiếm hiệp.",
+    "Lý Thiên Bảo là võ tướng trong triều, phục vụ ba đời vua Thế Tông – Nhân Tông – Hồng Khải.",
+    "Nam Hải phái ở Diễn Châu, phía nam Phong Đô, khá gần kinh đô; Nhân Kiệt vẫn liên lạc với Lý Thế Vinh theo tình thầy trò.",
+    "Tả vệ giám là Dương Thiệu Ninh (1209); Hữu vệ giám là Lý Vĩnh Hưng (1223); 'thám quan' không phải chức vụ mà là cách gọi."
   ],
-  "open_questions": [],
+  "open_questions": [
+    "Q-MO mộ Anh Mẫn thái tử: Hồng Khải xây sau 1236, ngoại thành Phong Đô (tạm)"
+  ],
   "chapters": {
     "1": {
       "title": "Người từ Linh Sơn",
@@ -250,7 +258,7 @@
         "Mùa xuân 1243, Khương Tử — hai mươi bốn tuổi, con út của một cựu chưởng môn Linh Sơn — bí mật rời xứ Bắc Bồn Tử mà Đại Tần coi là ngoại bang thù địch, lên kinh đô Phong Đô tìm sư tỷ Hạ Tử Linh, người bị bắt vì tội giết Lý Thiên Bảo. Tổ tiên y là người Lang, nên y nói giọng bản xứ và xưng là thầy thuốc giang hồ; không ai đoán được y từ đâu tới.",
         "Cả kinh thành bàn tán: một tên trộm mộ Anh Mẫn thái tử vừa chết mặt đen như mực — lời nguyền mộ thái tử. Đêm đó, tên trộm thứ hai chết ở phòng bên cạnh trong cùng quán trọ.",
         "Khương Tử chạy sang đầu tiên và bị bắt tại chỗ; trong hòm thuốc có mấy vị độc hiếm. Y để lính bắt mà không chống — thừa sức thoát, nhưng bỏ chạy là nhận tội, và một người Linh Sơn bị truy nã thì không bao giờ tới được chỗ sư tỷ.",
-        "Trong ngục, một gã da ngăm, nửa mặt trái sẹo bỏng lồi, mặc áo Nội Vệ bước vào. Khương Tử tưởng là lính cai ngục — cho tới khi gã hỏi đúng ba câu, và y nhận ra kẻ này đã biết y vô tội từ trước khi bước vào."
+        "Trong ngục, một gã da ngăm, nửa mặt trái sẹo bỏng lồi, mặc áo Nội Vệ bước vào. Khương Tử tưởng là lính cai ngục — cho tới khi gã ngồi xuống và nói không ngừng: đoán ra y đi bộ mười ngày, thuận tay trái, chưa từng ở kinh thành, và chưa hề giết tên trộm kia. Gã nói nhiều tới mức Khương Tử phát mệt, và đúng tới mức y lạnh gáy."
       ],
       "setups_payoffs": [
         "SETUP: Khương Tử là người Linh Sơn (bí mật với mọi nhân vật)",
@@ -270,8 +278,8 @@
         "Nhân Kiệt vào Tả vệ Nội Vệ cuối năm 1242, sau khi tức tốc lên kinh điều tra cái chết của sư huynh Thiên Bảo ở một quán trọ ngoại thành mà không tìm ra hung thủ. Kẻ bị bắt là nữ nhân đẹp như tiên mà Thiên Bảo say mê, giữ ở quán trọ ấy như một trò đùa — Hạ Tử Linh. Nhân Kiệt chưa bao giờ tin nàng là hung thủ; hắn không chứng minh được. Tập hồ sơ vẫn nằm trong ngăn bàn.",
         "Hắn tin mình là Lý Bính, con mồ côi của Lý Kinh Hải, được Nam Hải phái nuôi; không nhớ gì trước năm mười bốn tuổi, kể cả vì sao nửa mặt trái đầy sẹo bỏng. Sáu năm bị Lý Thế Vinh luyện khắc nghiệt cho hắn thân thể của một võ phu; tên tự Nhân Kiệt hắn tự đặt theo vị thần thám trong cuốn án lục đã sờn gáy.",
         "Đồng liêu: Cái Thế Xung, cao thủ quyền cước mà hắn chưa từng thắng nổi trong mười hiệp; anh trai Cái Thế Lâm điềm đạm — hai con trai của một quan võ nhỏ bị thừa tướng Phan Đình Nhân hãm hại chết, nhắc tới Phan là nghiến răng; và Lý Hoài Sương, con nuôi của quan cai quản Trần Bình, thân với hai anh em từ năm 1234. Nhân Kiệt để ý Xung luôn nhìn Sương, còn Sương luôn nhìn Lâm.",
-        "Nội Vệ có hai nhánh: Tả vệ lo án trong dân, Hữu vệ điều tra quan lại trong cung. Nhóm của Nhân Kiệt thuộc Tả vệ; Hữu vệ là nơi những cánh cửa luôn đóng.",
-        "Trần Bình giao vụ mộ thái tử với một câu dặn nhẹ: vụ này dính tới những người không nên dính. Nhân Kiệt chỉ ra vì sao người thầy thuốc lạ không thể là hung thủ, nhưng đề nghị giữ y lại làm việc cho Nội Vệ: y hiểu độc dược hơn bất cứ ngỗ tác nào."
+        "Nội Vệ có hai nhánh: Tả vệ lo án trong dân, Hữu vệ điều tra quan lại trong cung. Cấp trên trực tiếp của Nhân Kiệt là Tả vệ giám Dương Thiệu Ninh; Hữu vệ do Lý Vĩnh Hưng — mới hai mươi tuổi — đứng đầu, nơi những cánh cửa luôn đóng. Người ta gọi Nhân Kiệt là thám quan, dù chẳng có chức nào tên như vậy.",
+        "Trần Bình giao vụ mộ thái tử, ít lời như mọi khi: vụ này dính tới những người không nên dính; cẩn thận. Nhân Kiệt thì nói đủ cho cả hai: hắn phân tích vì sao người thầy thuốc lạ không thể là hung thủ, rồi đề nghị — như thể mình đã là chỉ huy — giữ y lại làm việc cho Nội Vệ."
       ],
       "setups_payoffs": [
         "SETUP: hồ sơ Thiên Bảo chưa đóng vì Hạ Tử Linh",
@@ -280,7 +288,9 @@
         "SETUP: sẹo bỏng không rõ nguồn gốc",
         "SETUP: tên tự lấy theo Lý Nhân Kiệt đời đầu",
         "SETUP: Tả vệ / Hữu vệ (Thế Xung chuyển sang Hữu vệ năm 1245)",
-        "SETUP: anh em họ Cái thù Phan Đình Nhân (cha bị hãm hại)"
+        "SETUP: anh em họ Cái thù Phan Đình Nhân (cha bị hãm hại)",
+        "SETUP: Nhân Kiệt lắm lời, thích phô trương và ra dáng chỉ huy (ngụy trang tự nhiên)",
+        "SETUP: Dương Thiệu Ninh, Lý Vĩnh Hưng"
       ],
       "target_words": 3500,
       "status": "planned"
