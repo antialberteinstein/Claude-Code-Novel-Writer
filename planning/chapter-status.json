@@ -1,1 +1,8 @@
-{}
+{
+  "chapter_1": {
+    "status": "complete",
+    "words": 4029,
+    "file_exists": true,
+    "path": "manuscript/chapters/chapter-1.md"
+  }
+}

@@ -5,7 +5,8 @@
       "Mình là thám quan Nội Vệ từ cuối 1242 (tạm)",
       "Không nhớ gì trước năm 14 tuổi (mất trí nhớ toàn phần)",
       "Khương Tử là người Linh Sơn (từ vụ 3; giữ bí mật)",
-      "Hạ Tử Linh vô tội (đã bí mật giải thoát nàng)"
+      "Hạ Tử Linh vô tội (đã bí mật giải thoát nàng)",
+      "ch1: Khương Tử vô tội; sát thủ là cao thủ khinh công thuận tay phải; nghi Khương Tử 'thính tai' bất thường nhưng bỏ qua"
     ],
     "believes": [
       "Mình là Lý Bính, con mồ côi của Lý Kinh Hải, được Nam Hải phái nuôi",
@@ -124,7 +125,12 @@
       "born": 1219,
       "lineage": "chắt Khương Duy; con út Khương Ức (chưởng môn 1210–1230); cháu Khương Trung",
       "pronoun_note": "24 tuổi năm 1243 — không gọi là 'ông'",
-      "arc_book1": "lộ thân phận với Nhân Kiệt ở vụ 3; ở lại Tả vệ sau khi Tử Linh về Linh Sơn"
+      "arc_book1": "lộ thân phận với Nhân Kiệt ở vụ 3; ở lại Tả vệ sau khi Tử Linh về Linh Sơn",
+      "knows_ch1": [
+        "Hạ Tử Linh có lẽ bị giam ở thiên lao Nội Vệ",
+        "Lý Nhân Kiệt là người của Tả vệ — cánh cửa vào Nội Vệ"
+      ],
+      "traits_shown": "thuận tay trái; tai rất thính; khinh công cao; nhẫn nhịn chịu bị bắt"
     },
     "Lê Duy Thành": {
       "true_identity": "Kim Tử Đức (1218), anh ruột Tử Anh, Hắc Chiến Giáp (wiki)",
@@ -319,8 +325,12 @@
       "role": "thần y; chữa cho Nhân Kiệt gần cuối bộ truyện, trả lại ký ức"
     },
     "Ba tên trộm mộ": {
-      "role": "đào mộ giả Anh Mẫn thái tử, trúng kho bạc của phe Phan",
-      "status": "chết lần lượt 1243 (người thứ nhất vì cơ quan mộ, hai người sau bị sát thủ giết bắt chước lời nguyền — đề xuất)"
+      "names": [
+        "Trương Hắc (đào trộm, chết trước — ba hôm trước ch1)",
+        "Cù Lục (thợ khóa, mặt rỗ, ngón tay dài; chết đêm ch1 ở quán Phúc Lai, buồng 6)",
+        "Ba Quắn (chân thấp chân cao, chạy nhanh; còn sống cuối ch1)"
+      ],
+      "status": "Cù Lục chết vì thạch tín kém tinh; mặt bị bôi muội đèn bằng tay phải, từ má trái sang má phải để giả lời nguyền; đèn bị đổ bớt dầu"
     },
     "Võ Tài Nhân": {
       "role": "con đích tử Võ Thượng Nguyên (Võ quốc công, Sơn Đông huyện – Kinh Châu); Đông Kỳ thất đại gia tộc; xuất hiện sau 1245 thay Thế Xung; thua Nhân Kiệt ở hội thi văn võ xuất chúng",
@@ -437,6 +447,9 @@
     "Lý Vĩnh Hưng": {
       "born": 1223,
       "role": "Hữu vệ giám năm 1243; năm 1245 Thế Xung chuyển sang dưới quyền"
+    },
+    "Sát thủ vụ 1": {
+      "role": "gõ cửa Cù Lục (hai nhanh một chậm) đêm ch1; cao thủ khinh công — xuống 14 bậc thang mục không kêu; giọng trầm, đều như đọc sổ; thuận tay phải (suy luận)"
     }
   },
   "characters_created": [

@@ -1,12 +1,14 @@
 {
-  "current_chapter": 1,
+  "current_chapter": 2,
   "current_scene": 1,
-  "total_words": 0,
+  "total_words": 4029,
   "chapter_status": "not_started",
   "last_action": "state_synchronized",
-  "next_milestone": "complete_chapter_1",
+  "next_milestone": "complete_chapter_2",
   "novel_title": "Untitled",
   "target_words": 90000,
-  "chapters_completed": [],
-  "last_sync_time": "2026-11-13T21:43:22.655334Z"
+  "chapters_completed": [
+    1
+  ],
+  "last_sync_time": "2026-11-13T21:46:57.334962Z"
 }

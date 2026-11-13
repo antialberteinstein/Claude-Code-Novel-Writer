@@ -1,0 +1,15 @@
+{
+  "chapters": {
+    "chapter_1": {
+      "timestamp": "2026-11-13T21:46:57.270664Z",
+      "path": "manuscript/chapters/chapter-1.md",
+      "word_count": 4023,
+      "paragraph_count": 114,
+      "avg_paragraph_words": 35.3,
+      "max_paragraph_words": 145,
+      "dialogue_share": 0.261,
+      "warnings": [],
+      "note": "Mechanical signals only. These values do not measure literary quality."
+    }
+  }
+}

@@ -40,6 +40,22 @@
     {
       "name": "Ung Châu",
       "notes": "12 huyện: Tần vương giữ 4 huyện tây, Tấn vương (Hồng Khải trước 1236) 4 huyện nam, Triệu vương 4 huyện đông; quê Cái Thế Hùng, Lâm, Xung, Hoài Sương (phía nam); nơi bộ ba Phùng – Trần – Phan khởi nghiệp"
+    },
+    {
+      "name": "Đồi Vọng Tiên",
+      "notes": "ngoại thành phía tây Phong Đô; mộ áo mũ Anh Mẫn thái tử; cửa mộ khắc: Kẻ nào kinh động, máu đen trào ra"
+    },
+    {
+      "name": "Quán trọ Phúc Lai",
+      "notes": "sát cổng Tây; tầng trên 6 buồng vách ván; cầu thang 14 bậc, ít nhất 7 bậc kêu; nơi Cù Lục chết"
+    },
+    {
+      "name": "Nhà giam phủ Phong Đô",
+      "notes": "dưới đất, ẩm; năm trước 17 tù 'chết bệnh'"
+    },
+    {
+      "name": "Cổng Tây / cổng Nam Phong Đô",
+      "notes": "cổng Nam xếp hàng ngắn hơn"
     }
   ],
   "institutions": [
@@ -231,6 +247,10 @@
     {
       "year": 1260,
       "event": "Lý Thanh Anh được phong hoàng hậu"
+    },
+    {
+      "year": 1236,
+      "event": "Bản kể chính thức (dân gian): Anh Mẫn thái tử 14 tuổi chết trong lửa Đông cung, không còn xương; Hồng Khải lập mộ áo mũ trên đồi Vọng Tiên"
     }
   ],
   "notable_items": [
