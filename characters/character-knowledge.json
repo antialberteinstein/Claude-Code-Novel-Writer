@@ -3,7 +3,9 @@
     "name": "Lý Bính, tự Nhân Kiệt — thật là Kim Tử Anh (1222), Việt vương 1228, thái tử 1232; thân phận Lý Bính do Lý Thiên Bảo trao; tên tự Nhân Kiệt tự chọn theo Lý Nhân Kiệt đời đầu",
     "knows": [
       "Mình là thám quan Nội Vệ từ cuối 1242 (tạm)",
-      "Không nhớ gì trước năm 14 tuổi (mất trí nhớ toàn phần)"
+      "Không nhớ gì trước năm 14 tuổi (mất trí nhớ toàn phần)",
+      "Khương Tử là người Linh Sơn (từ vụ 3; giữ bí mật)",
+      "Hạ Tử Linh vô tội (đã bí mật giải thoát nàng)"
     ],
     "believes": [
       "Mình là Lý Bính, con mồ côi của Lý Kinh Hải, được Nam Hải phái nuôi",
@@ -105,13 +107,14 @@
       "unit": "Tả vệ; 1245 bề ngoài chuyển sang Hữu vệ (thực tế đội lốt Phan Đình Nhân)"
     },
     "Khương Tử": {
-      "role": "đệ tử Linh Sơn bí mật xuất sơn tìm Hạ Tử Linh; xưng là thầy thuốc giang hồ; nghi phạm vụ 1; vào Nội Vệ cuối vụ 3 để tới gần thiên lao",
+      "role": "đệ tử Linh Sơn bí mật xuất sơn tìm Hạ Tử Linh; xưng là thầy thuốc giang hồ; nghi phạm vụ 1; làm việc cho Nội Vệ để tới gần thiên lao; sau khi Tử Linh được giải thoát vẫn ở lại Tả vệ",
       "skill": "cao thủ, võ hơn Nhân Kiệt; giỏi độc dược",
       "secret": "không ai biết thân phận Linh Sơn",
       "ethnicity": "sống ở Bồn Tử, tổ tiên người Lang",
       "born": 1219,
       "lineage": "chắt Khương Duy; con út Khương Ức (chưởng môn 1210–1230); cháu Khương Trung",
-      "pronoun_note": "24 tuổi năm 1243 — không gọi là 'ông'"
+      "pronoun_note": "24 tuổi năm 1243 — không gọi là 'ông'",
+      "arc_book1": "lộ thân phận với Nhân Kiệt ở vụ 3; ở lại Tả vệ sau khi Tử Linh về Linh Sơn"
     },
     "Lê Duy Thành": {
       "true_identity": "Kim Tử Đức (1218), anh ruột Tử Anh, Hắc Chiến Giáp (wiki)",
@@ -171,7 +174,7 @@
       "former_name": "Đặng Tử Linh",
       "ethnicity": "người Bồn Tử",
       "role": "em gái Hạ Vĩnh Bình; sư tỷ Khương Tử; đẹp như tiên giáng trần; Lý Thiên Bảo say mê nàng",
-      "status": "Thiên Bảo đùa giữ nàng ở quán trọ ngoại thành; khi anh bị giết, nàng ở trong phòng nên bị bắt (tạm: thiên lao Nội Vệ)"
+      "status": "bị bắt oan năm 1242; năm 1243 được Nhân Kiệt xác nhận vô can và bí mật giải thoát khỏi thiên lao, trở về Linh Sơn"
     },
     "Lưu Trọng Huy": {
       "role": "dân thường, bạn thơ ấu của Tử Anh và Thanh Anh; 1232 cứu Thanh Anh theo mật lệnh Tử Anh (gộp La Vĩnh Quốc)",
@@ -318,7 +321,8 @@
     "Khương Duy": {
       "born": 1110,
       "died": 1210,
-      "role": "người Lang, đại thần triều Thông Thiên hoàng đế; bị Trần Vô Đạo tru di cửu tộc; lập Linh Sơn; chưởng môn 1180–1190 và 1201–1210"
+      "role": "người Lang, đại thần triều Thông Thiên hoàng đế; bị Trần Vô Đạo tru di cửu tộc; lập Linh Sơn; chưởng môn 1180–1190 và 1201–1210",
+      "death": "bị Lý Nhân Quý giết năm 1210"
     },
     "Khương Hận": {
       "born": 1170,
@@ -328,12 +332,14 @@
     "Khương Tú": {
       "born": 1172,
       "died": 1235,
-      "role": "con Khương Duy; chưởng môn 1230–1235"
+      "role": "con Khương Duy; chưởng môn 1230–1235",
+      "note": "nhường ngôi chưởng môn cho Hạ Vĩnh Bình năm 1235 vì Linh Sơn suy yếu sau 20 năm Khương Ức cai trị"
     },
     "Khương Ức": {
       "born": 1187,
       "died": 1230,
-      "role": "con Khương Hận; chưởng môn 1210–1230; cha Khương Tử"
+      "role": "con Khương Hận; chưởng môn 1210–1230; cha Khương Tử",
+      "note": "20 năm cai trị làm Linh Sơn suy yếu nặng"
     },
     "Khương Trung": {
       "born": 1191,
@@ -361,8 +367,9 @@
     "Bùi Vân Chi": {
       "role": "em gái Bùi Trường Hải; phi tần Nhân Tông, mang thai con vua khi chạy loạn 1236",
       "note": "có thể là Bùi Vân Chi trong wiki; con: Kim Tử Danh (Bùi Tuấn)",
-      "alias_previous": "Bùi Trường Linh (Q-BV)",
-      "child": "Kim Tử Danh"
+      "alias_previous": "Bùi Trường Linh (cùng một người)",
+      "child": "Kim Tử Danh",
+      "died": "1236, khi sinh Kim Tử Danh"
     }
   },
   "characters_created": [

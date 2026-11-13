@@ -7,7 +7,7 @@
   "status": "provisional_plan",
   "series_bible": "planning/series-bible.md",
   "target_word_count": 105000,
-  "total_chapters": 28,
+  "total_chapters": 29,
   "premise": "Năm 1243, thám quan Nội Vệ Lý Nhân Kiệt điều tra lời nguyền mộ Anh Mẫn thái tử; ngôi mộ hóa ra trống rỗng, kéo theo cuộc đối đầu với thừa tướng Phan Đình Nhân và tin đồn thái tử còn sống. Người đọc không biết rằng thái tử ấy chính là Nhân Kiệt, kẻ đã mất trí nhớ toàn phần.",
   "central_question": "Một người đòi công lý cho người khác sẽ làm gì khi chân tướng cuối cùng buộc tội chính mình — và cái tôi mất trí nhớ có phải gánh tội của cái tôi đã quên?",
   "narrative_rules": [
@@ -49,20 +49,21 @@
         17,
         18,
         19,
-        20
+        20,
+        21
       ],
-      "theme": "Vụ 2: cái chết của Kim Trọng; vụ 3: tháp chuông chùa Vạn Phúc (Hàn Tâm tán)"
+      "theme": "Vụ 2: cái chết của Kim Trọng; vụ 3: tháp chuông chùa Vạn Phúc, Hàn Tâm tán, Hạ Tử Linh"
     },
     "act_3": {
       "chapters": [
-        21,
         22,
         23,
         24,
         25,
         26,
         27,
-        28
+        28,
+        29
       ],
       "theme": "Vụ 4: huyết án Hoan Châu; kết quyển: tìm thái tử"
     }
@@ -105,21 +106,22 @@
         17,
         18,
         19,
-        20
+        20,
+        21
       ],
-      "spine_clue": "biên bản khám nghiệm Thiên Bảo bị làm sai; đường dây ngự dược chui của Phan; Hàn Tâm tán xuất kho 1232 và 1242; Khương Tử vào Nội Vệ; Đồng Thái Huy"
+      "spine_clue": "biên bản khám nghiệm Thiên Bảo bị làm sai; đường dây ngự dược chui của Phan; Hàn Tâm tán xuất kho 1232 và 1242; Khương Tử vào Nội Vệ; Đồng Thái Huy; Khương Tử lộ thân phận; Nhân Kiệt giải thoát Hạ Tử Linh"
     },
     "case-04": {
       "name": "Huyết án Hoan Châu",
       "year": 1244,
       "chapters": [
-        21,
         22,
         23,
         24,
         25,
         26,
-        27
+        27,
+        28
       ],
       "spine_clue": "thám thính Ngô Vương; Như Ý (Thanh Anh); Huy chết; bản án thiếu tên"
     }
@@ -220,12 +222,15 @@
     "Họ Bùi không có quan hệ với Hạ Vĩnh Bình; Bùi Nguyên Thuần là bạn thân Khương Trung — chú Khương Tử, trưởng lão Linh Sơn.",
     "Linh Sơn do Khương Duy (1110–1210) lập; ông là người Lang, đại thần triều Thông Thiên hoàng đế, bị Trần Vô Đạo tru di cửu tộc, trốn tới Linh Sơn cưới vợ Bồn Tử; con Khương Hận (1170–1201), Khương Tú (1172–1235); Khương Hận sinh Khương Ức (1187–1230), Khương Trung (1191–), Khương Trúc (1199–); Khương Ức sinh Khương Hoa (1210–1229), Khương Bình (1215), Khương Tử (1219).",
     "Chưởng môn Linh Sơn: Khương Duy (1180–1190), Khương Hận (1190–1201), Khương Duy (1201–1210), Khương Ức (1210–1230), Khương Tú (1230–1235), Hạ Vĩnh Bình (sinh 1210; 1235–).",
-    "Bùi Nguyên Thuần là nhân vật quan trọng nhất, bộ óc xuất chúng của họ Bùi nhưng không phải dòng trưởng; trưởng tộc là Bùi Trường Giao, anh của Bùi Trường Hải và Bùi Vân Chi, con trưởng của Bùi Nguyên Tồn (mất sớm, anh Bùi Nguyên Thuần)."
+    "Bùi Nguyên Thuần là nhân vật quan trọng nhất, bộ óc xuất chúng của họ Bùi nhưng không phải dòng trưởng; trưởng tộc là Bùi Trường Giao, anh của Bùi Trường Hải và Bùi Vân Chi, con trưởng của Bùi Nguyên Tồn (mất sớm, anh Bùi Nguyên Thuần).",
+    "Lý Nhân Quý là người giết Khương Duy (1210).",
+    "Khương Tú nhường ngôi chưởng môn cho Hạ Vĩnh Bình vì cho rằng Vĩnh Bình đủ năng lực vực dậy Linh Sơn; 20 năm cai trị của Khương Ức khiến Linh Sơn suy yếu nặng nề.",
+    "Bùi Trường Linh và Bùi Vân Chi là một người, tên chính là Bùi Vân Chi; bà mất khi sinh Kim Tử Danh (Bùi Tuấn).",
+    "Ở vụ 3, Khương Tử nhờ Lý Nhân Kiệt mới bí mật gặp được Hạ Tử Linh; Nhân Kiệt xác nhận Tử Linh không liên quan và giúp nàng thoát khỏi thiên lao trở về Linh Sơn; Khương Tử muốn ở lại."
   ],
   "open_questions": [
-    "Q-TL2 Hạ Tử Linh xuất hiện ở vụ 3 (đề xuất)",
-    "Q-LS vì sao năm 1235 Hạ Vĩnh Bình làm chưởng môn; Khương Duy có chết trong trận 1210",
-    "Q-BV Bùi Trường Linh = Bùi Vân Chi?"
+    "Q-ESC Nhân Kiệt dựng vụ vượt ngục thế nào; ai bị đổ tội",
+    "Q-TBX Trần Bình có biết/nghi Nhân Kiệt đứng sau vụ vượt ngục"
   ],
   "chapters": {
     "1": {
@@ -561,27 +566,47 @@
       "status": "planned"
     },
     "20": {
-      "title": "Hai lần xuất kho",
+      "title": "Thiên lao",
       "case": "case-03",
       "pov": "Nhân Kiệt",
-      "purpose": "Hệ quả vụ 3: Khương Tử vào Nội Vệ; gieo Đồng Thái Huy; Trần Bình đẩy Nhân Kiệt đi xa.",
+      "purpose": "Khương Tử lộ thân phận với Nhân Kiệt; gặp Hạ Tử Linh; Nhân Kiệt phá luật để trả tự do cho một người vô tội.",
       "beats": [
         "Nhân Kiệt dâng tờ trình xin lật lại án Hạ Tử Linh. Trần Bình đọc, gật gù, rồi cất vào ngăn: chưa phải lúc đụng tới thừa tướng.",
-        "Khương Tử xin chính thức vào Nội Vệ dưới tên thầy thuốc giang hồ — lý do thật: thiên lao giam sư tỷ nằm trong khuôn viên Nội Vệ.",
-        "Nhân Kiệt dẫn Khương Tử vào thiên lao hỏi cung Hạ Tử Linh lần nữa. Nàng đẹp tới mức lính canh không dám nhìn lâu. Nàng không nhận ra Khương Tử — hoặc giả vờ rất giỏi — và chỉ nói với Nhân Kiệt: Hắn chưa bao giờ có ý bắt ta. Hắn chỉ đùa.",
-        "Khương Tử nói Hàn Tâm tán không có thuốc giải trong y thư nào; chỉ nghe đồn một thần y họ Đồng — Đồng Thái Huy — từng cứu được người trúng nó, nhưng không ai biết ông ở đâu.",
-        "Thế Xung báo về Trần Bình: Lý Nhân Kiệt đã biết tên độc. Trần Bình thong thả xếp hồ sơ Hoan Châu lên bàn: đã đến lúc đưa thần thám ra khỏi kinh thành một thời gian."
+        "Đêm đó Khương Tử tìm Nhân Kiệt, quỳ xuống và nói thật: y là người Linh Sơn, con út của cựu chưởng môn Khương Ức; nữ tù trong thiên lao là sư tỷ y. Y xin được gặp nàng một lần.",
+        "Nhân Kiệt đưa y vào thiên lao bằng lệnh hỏi cung riêng. Hạ Tử Linh đẹp tới mức lính canh không dám nhìn lâu. Nàng kể đêm 1242: Thiên Bảo say mê nàng, giữ nàng ở quán trọ như một trò đùa, chưa bao giờ có ý bắt thật; nàng ở phòng trong khi anh gục xuống ở phòng ngoài.",
+        "Đối chiếu lời nàng với chứng cứ Hàn Tâm tán, Nhân Kiệt xác nhận nàng không liên quan. Luật không cho hắn thả nàng; hắn tự tay dựng một cuộc vượt ngục để mọi dấu vết đổ cho người Linh Sơn tới cướp tù.",
+        "Ở cổng thành lúc gần sáng, Tử Linh bảo Khương Tử về cùng. Y lắc đầu: y muốn ở lại."
       ],
       "setups_payoffs": [
-        "SETUP: Khương Tử vào Nội Vệ để tới gần thiên lao",
-        "SETUP: Đồng Thái Huy",
-        "SETUP: Trần Bình đẩy Nhân Kiệt đi Hoan Châu",
-        "SETUP: Hạ Tử Linh xuất hiện lần đầu (Q-TL2)"
+        "SETUP: Nhân Kiệt biết và giữ bí mật thân phận Khương Tử",
+        "SETUP: Nhân Kiệt phá luật vì công lý — lần đầu trong truyện",
+        "SETUP: món nợ của Linh Sơn với Nhân Kiệt (đồng minh về sau)",
+        "SETUP: cặp gương với 1232 — lần này hắn cứu một người vô tội"
       ],
       "target_words": 3500,
       "status": "planned"
     },
     "21": {
+      "title": "Hai lần xuất kho",
+      "case": "case-03",
+      "pov": "Nhân Kiệt",
+      "purpose": "Hệ quả vụ 3: Khương Tử chính thức ở lại; gieo Đồng Thái Huy; Trần Bình mất con dê tế thần và đẩy Nhân Kiệt đi xa.",
+      "beats": [
+        "Thiên lao náo loạn; Nội Vệ truy bắt bóng ma người Linh Sơn. Nhân Kiệt đứng giữa đám lính, chỉ ra hướng chạy sai một cách thuyết phục.",
+        "Khương Tử xin chính thức vào Tả vệ dưới tên thầy thuốc giang hồ. Lý do y nói với Nhân Kiệt: chừng nào chưa tìm ra kẻ giết Thiên Bảo, tên sư tỷ y vẫn chưa sạch; và y nợ hắn một mạng người.",
+        "Khương Tử nói Hàn Tâm tán không có thuốc giải trong y thư nào; chỉ nghe đồn một thần y họ Đồng — Đồng Thái Huy — từng cứu được người trúng nó, nhưng không ai biết ông ở đâu.",
+        "Thế Xung báo về Trần Bình: Lý Nhân Kiệt đã biết tên độc. Trần Bình đọc báo cáo, nhìn sang tờ trình xin lật án Tử Linh nằm trong ngăn, rồi nhìn sang báo cáo vụ vượt ngục. Y không nói gì, chỉ xếp hồ sơ Hoan Châu lên bàn: đã đến lúc đưa thần thám ra khỏi kinh thành một thời gian."
+      ],
+      "setups_payoffs": [
+        "SETUP: Khương Tử ở lại vì món nợ và để rửa tên sư tỷ",
+        "SETUP: Đồng Thái Huy",
+        "SETUP: Trần Bình nghi Nhân Kiệt dính tới vụ vượt ngục",
+        "SETUP: Trần Bình đẩy Nhân Kiệt đi Hoan Châu"
+      ],
+      "target_words": 3500,
+      "status": "planned"
+    },
+    "22": {
       "title": "Mật lệnh",
       "case": "case-04",
       "pov": "Nhân Kiệt",
@@ -598,7 +623,7 @@
       "target_words": 3500,
       "status": "planned"
     },
-    "22": {
+    "23": {
       "title": "Đất của Ngô Vương",
       "case": "case-04",
       "pov": "Nhân Kiệt / Thanh Anh",
@@ -617,7 +642,7 @@
       "target_words": 3500,
       "status": "planned"
     },
-    "23": {
+    "24": {
       "title": "Bà cụ bị chém",
       "case": "case-04",
       "pov": "Nhân Kiệt",
@@ -634,7 +659,7 @@
       "target_words": 3500,
       "status": "planned"
     },
-    "24": {
+    "25": {
       "title": "Thôn nữ",
       "case": "case-04",
       "pov": "Nhân Kiệt",
@@ -650,7 +675,7 @@
       "target_words": 3500,
       "status": "planned"
     },
-    "25": {
+    "26": {
       "title": "Người thứ ba",
       "case": "case-04",
       "pov": "Nhân Kiệt",
@@ -668,7 +693,7 @@
       "target_words": 3500,
       "status": "planned"
     },
-    "26": {
+    "27": {
       "title": "Bản án không có tên nàng",
       "case": "case-04",
       "pov": "Nhân Kiệt",
@@ -686,7 +711,7 @@
       "target_words": 3500,
       "status": "planned"
     },
-    "27": {
+    "28": {
       "title": "Tiễn biệt Hoan Châu",
       "case": "case-04",
       "pov": "Nhân Kiệt / Thanh Anh",
@@ -702,7 +727,7 @@
       "target_words": 3500,
       "status": "planned"
     },
-    "28": {
+    "29": {
       "title": "Tìm thái tử",
       "case": "spine",
       "pov": "Nhân Kiệt",

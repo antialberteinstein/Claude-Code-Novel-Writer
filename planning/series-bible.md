@@ -1,6 +1,6 @@
 # THẦN THÁM — Kim Tử Anh truyện (series bible)
 
-> Trạng thái: **kế hoạch tạm, bản 10**.
+> Trạng thái: **kế hoạch tạm, bản 11**.
 > - **[TG]** = canon tác giả xác nhận trong trò chuyện.
 > - **[WIKI]** = lấy từ wiki vũ trụ Huyền Huyễn (`antialberteinstein/fandomwiki-generator`, `content/`).
 > - ⚑ = đề xuất của tôi.
@@ -41,6 +41,12 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 **Bộ ba thời thơ ấu** [TG]: Việt vương Kim Tử Anh (hoàng tộc), Lý Thanh Anh (quý tộc) và Lưu Trọng Huy (dân thường).
 - Năm 1232: một người diệt gia tộc của người thứ hai, rồi sai người thứ ba cứu nàng.
 - Năm 1244: người thứ ba chết trong vụ án do người thứ nhất xử, và người thứ nhất bẻ cong bản án để cứu người thứ hai.
+
+**Ba lần bẻ luật** ⚑:
+- Năm 1232, Tử Anh dựng án giả để diệt một gia tộc vô tội.
+- Năm 1243, Nhân Kiệt dựng một vụ vượt ngục giả để cứu một người vô tội (Hạ Tử Linh).
+- Năm 1244, Nhân Kiệt viết bản án thiếu để che tội cho một người có tội (Như Ý).
+- Cùng một trí tuệ dựng chuyện giả, lần lượt hướng về ba phía khác nhau.
 
 **Cặp gương soi** ⚑:
 - Năm 1232, Tử Anh dựng án giả để vu tội một người vô tội.
@@ -157,11 +163,14 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 - Sinh năm 1219, tức **24 tuổi** khi truyện mở đầu, lớn hơn Nhân Kiệt ba tuổi [TG]. Các bản trước gọi Khương Tử là "ông" là sai; khi viết dùng "y" hoặc "hắn".
 - Chắt của Khương Duy, người lập Linh Sơn; con út của **Khương Ức**, chưởng môn đời thứ tư (1210–1230); cháu của trưởng lão **Khương Trung** [TG]. ⚑ Nói cách khác, y là con trai một cựu chưởng môn, nay sống dưới quyền một chưởng môn khác họ.
 - Đệ tử Linh Sơn, **bí mật xuất sơn** đi tìm sư tỷ Hạ Tử Linh. Không ai biết thân phận của y [TG]. Sống ở Bồn Tử nhưng tổ tiên là người Lang [TG].
-- Lên kinh và vô tình thành nghi phạm vụ 1 [TG]; về sau vào Nội Vệ [TG]. ⚑ Y vào Nội Vệ để được tới gần thiên lao, nơi giam Tử Linh.
+- Lên kinh và vô tình thành nghi phạm vụ 1 [TG]; về sau vào Nội Vệ [TG]. ⚑ Ban đầu y làm việc cho Nội Vệ để được tới gần thiên lao, nơi giam Tử Linh. Sau khi nàng được giải thoát, y vẫn chọn ở lại (xem dưới).
 - Là cao thủ, võ công hơn Nhân Kiệt [TG].
 - ⚑ Y giỏi độc dược; y để mình bị bắt chứ không phải không thoát được.
 - ⚑ Chương 1 không được để lộ y là người Linh Sơn. Y xưng là thầy thuốc giang hồ.
 - ⚑ Bước ngoặt: y phát hiện chính viên thám quan đã minh oan cho mình là người duy nhất từng nghi ngờ tội của sư tỷ y.
+- **Vụ 3** [TG]: nhờ Nhân Kiệt, y bí mật gặp được Hạ Tử Linh. Nhân Kiệt xác nhận nàng vô can và giúp nàng thoát khỏi thiên lao, trở về Linh Sơn. Khương Tử chọn ở lại.
+  - ⚑ Để làm được việc đó, y phải lộ thân phận với Nhân Kiệt, và Nhân Kiệt giữ kín bí mật ấy.
+  - ⚑ Y ở lại vì nợ Nhân Kiệt một mạng người, và vì tên sư tỷ chỉ sạch khi tìm ra kẻ giết Thiên Bảo thật.
 
 ### Họ Khương và các đời chưởng môn Linh Sơn [TG]
 - **Khương Duy** (1110–1210), người Lang, lập Linh Sơn.
@@ -185,13 +194,15 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 | 6 | Hạ Vĩnh Bình (sinh 1210) | 1235– |
 
 - ⚑ Nhận xét về các mốc, chưa phải canon:
-  - Khương Duy mất năm 1210, trùng năm Lý Nhân Quý đánh Linh Sơn [WIKI]. Ông có thể đã chết trong trận ấy. Nếu đúng, mối thù của Linh Sơn với họ Lý có thêm một tầng máu của nhà sáng lập.
-  - Ngôi chưởng môn rời khỏi họ Khương năm 1235, khi Hạ Vĩnh Bình mới 25 tuổi, trong lúc vẫn còn Khương Trung, Khương Trúc, Khương Bình. Vì sao? (Q-LS)
+  - **Lý Nhân Quý giết Khương Duy** trong trận năm 1210 [TG]. Mối thù của Linh Sơn với họ Lý vì thế là thù giết người sáng lập. ⚑ Thanh Anh là cháu nội của kẻ đã giết cụ tổ Khương Tử, một mầm xung đột tiềm tàng giữa hai người đồng hành tương lai.
+  - Năm 1235, **Khương Tú nhường ngôi** cho Hạ Vĩnh Bình, vì tin ông đủ sức vực dậy Linh Sơn sau 20 năm Khương Ức cai trị làm môn phái suy yếu nặng [TG]. ⚑ Khương Tử là con của vị chưởng môn bị coi là đã làm Linh Sơn suy tàn; đó là một gánh nặng y mang theo.
 
 ### Hạ Tử Linh [TG]
 - Họ cũ trong các bản trước: Đặng. Người Bồn Tử; em gái Hạ Vĩnh Bình, chưởng môn Linh Sơn.
 - Đẹp như tiên giáng trần. Xuất sơn làm nhiệm vụ, gặp Lý Thiên Bảo; anh say mê nàng.
 - Thiên Bảo biết thân phận nàng, giữ nàng ở một quán trọ ngoại thành như một trò đùa. Lúc Thiên Bảo bị giết, nàng ở trong phòng ấy, nên bị nghi và bị bắt.
+- Năm 1243 (vụ 3), Nhân Kiệt xác nhận nàng vô can và giúp nàng thoát khỏi thiên lao, trở về Linh Sơn [TG].
+  - ⚑ Linh Sơn nợ Nhân Kiệt một ân lớn. Đây là mầm cho một liên minh giữa Tử Anh và Bắc Bồn Tử về sau, dù hắn đã giải thoát nàng khi còn chưa biết mình là ai.
 
 ### Hạ Vĩnh Bình [TG]
 - Họ tên cũ trong các bản trước: Đặng Quang Bình. Sinh 1210; người Bồn Tử; chưởng môn đời thứ sáu của Linh Sơn từ 1235, có thể coi là người đứng đầu Bắc Bồn Tử [TG].
@@ -256,7 +267,7 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 - **Bùi Nguyên Tồn** (mất sớm), anh của Bùi Nguyên Thuần. Các con:
   - **Bùi Trường Giao**: con trưởng, **trưởng tộc** họ Bùi.
   - **Bùi Trường Hải**: giết cả nhà Lý Kinh Hải năm 1236.
-  - **Bùi Vân Chi**: em gái, phi tần của Nhân Tông, mang thai con vua khi chạy loạn. ⚑ Tức là "Bùi Trường Linh" trong các bản trước (tác giả liệt kê Vân Chi là em gái của Trường Hải). Con: Kim Tử Danh [WIKI].
+  - **Bùi Vân Chi**: em gái, phi tần của Nhân Tông, mang thai con vua khi chạy loạn; mất khi sinh **Kim Tử Danh (Bùi Tuấn)** [TG]. Các bản trước gọi là "Bùi Trường Linh"; đã gộp làm một [TG].
 - **Bùi Nguyên Thuần**: tể tướng của Nhân Tông. Không phải dòng trưởng, nhưng là nhân vật quan trọng nhất và là một trong những bộ óc xuất chúng của họ Bùi.
   - Bạn thân của **Khương Trung**, trưởng lão Linh Sơn, chú của Khương Tử. Đây là lý do họ Bùi lưu vong tới Linh Sơn.
   - Không có quan hệ với Hạ Vĩnh Bình.
@@ -290,10 +301,10 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
   - Tả vệ / Hữu vệ; Thế Xung chuyển sang Hữu vệ.
   - Vết sẹo bỏng từ vụ phóng hỏa năm 1236.
   - Tư thù của Duy Thành với Hồng Khải đế.
-- **Đã chốt** (bản 10):
-  - Kinh đô Phong Đô.
-  - Họ Khương và các đời chưởng môn Linh Sơn.
-  - Họ Bùi; Bùi Nguyên Thuần là bạn thân của Khương Trung.
-- **Q-TL2.** Người đọc có được gặp Hạ Tử Linh trong Quyển I không? (Đề xuất: Nhân Kiệt và Khương Tử gặp nàng một lần ở thiên lao, trong vụ 3.)
-- **Q-LS.** Vì sao năm 1235 ngôi chưởng môn Linh Sơn chuyển sang Hạ Vĩnh Bình, người ngoài họ Khương? Khương Duy có chết trong trận năm 1210 không?
-- **Q-BV.** "Bùi Trường Linh" có đúng là Bùi Vân Chi không?
+- **Đã chốt** (bản 10–11):
+  - Kinh đô Phong Đô; họ Khương và các đời chưởng môn; họ Bùi.
+  - Lý Nhân Quý giết Khương Duy; Khương Tú nhường ngôi cho Hạ Vĩnh Bình.
+  - Bùi Vân Chi (= Bùi Trường Linh) mất khi sinh Kim Tử Danh.
+  - Tử Linh xuất hiện ở vụ 3 và được Nhân Kiệt giải thoát.
+- **Q-ESC.** Nhân Kiệt dựng vụ vượt ngục bằng cách nào, và ai bị đổ tội? (Đề xuất: dựng thành một vụ người Linh Sơn tới cướp tù.)
+- **Q-TBX.** Trần Bình có nghi Nhân Kiệt đứng sau vụ vượt ngục không? (Đề xuất: có nghi nhưng không chứng minh được. Đây là lý do thật để y đẩy Nhân Kiệt đi Hoan Châu.)
