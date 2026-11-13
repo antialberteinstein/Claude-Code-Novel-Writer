@@ -91,11 +91,12 @@
       "alias": "Bạch Chiến Giáp"
     },
     "Lý Hoài Sương": {
-      "role": "con nuôi Trần Bình; người Nội Vệ; lớn lên cùng anh em họ Cái",
+      "role": "con nuôi Trần Bình; người Nội Vệ; thân với anh em họ Cái từ 1234",
       "love": "yêu Cái Thế Lâm; được Cái Thế Xung yêu"
     },
     "Cái Thế Lâm": {
-      "role": "anh Cái Thế Xung; Nội Vệ; được Hoài Sương yêu"
+      "role": "anh Cái Thế Xung; Nội Vệ; được Hoài Sương yêu",
+      "grudge": "thù Phan Đình Nhân (giết cha)"
     },
     "Cái Thế Xung": {
       "role": "bộ đầu Nội Vệ, bạn đồng hành phá án của Nhân Kiệt; phục tùng Trần Bình vô điều kiện từ đầu; từ 1245 đội lốt Phan Đình Nhân",
@@ -105,7 +106,8 @@
       ],
       "skill": "cao thủ quyền cước, võ hơn Nhân Kiệt",
       "love": "yêu Lý Hoài Sương",
-      "unit": "Tả vệ; 1245 bề ngoài chuyển sang Hữu vệ (thực tế đội lốt Phan Đình Nhân)"
+      "unit": "Tả vệ; 1245 bề ngoài chuyển sang Hữu vệ (thực tế đội lốt Phan Đình Nhân)",
+      "grudge": "thù Phan Đình Nhân (giết cha) — về sau phải đội lốt chính kẻ thù"
     },
     "Khương Tử": {
       "role": "đệ tử Linh Sơn bí mật xuất sơn tìm Hạ Tử Linh; xưng là thầy thuốc giang hồ; nghi phạm vụ 1; làm việc cho Nội Vệ để tới gần thiên lao; sau khi Tử Linh được giải thoát vẫn ở lại Tả vệ",
@@ -166,8 +168,9 @@
     "Lý Nhân Quý": {
       "role": "con trưởng Lý Nhân Kiệt đời đầu; cha Thanh Anh và Hà hoàng hậu; giết Khương Duy năm 1210; bị Tử Anh đổ oan và tru di cửu tộc năm 1232",
       "status": "bị tru di 1232 vì tội giết vua do Tử Anh dựng",
-      "born": 1195,
-      "died": 1232
+      "born": 1186,
+      "died": 1232,
+      "military": "cầm binh từ 16 tuổi; học trò Trương Quang Nghĩa"
     },
     "Lý Bính (thật)": {
       "role": "con Lý Kinh Hải",
@@ -218,7 +221,10 @@
     "Phan Đình Nhân": {
       "role": "thừa tướng; tham nhũng, bạo chính",
       "status": "bị Trần Bình giết 1245",
-      "reader_role": "phản diện rõ ràng nhất trước 1247; cái chết 1245 giấu với người đọc"
+      "reader_role": "phản diện rõ ràng nhất trước 1247; cái chết 1245 giấu với người đọc",
+      "crimes": [
+        "hãm hại chết Cái Thế Hùng (1234)"
+      ]
     },
     "Trần Bình": {
       "born": 1204,
@@ -272,7 +278,7 @@
     "Lý Nhân Kiệt (đời đầu)": {
       "born": 1163,
       "died": 1225,
-      "role": "đệ nhất thần thám, thái sư, quản lý Nội Vệ; ông nội Thanh Anh (wiki)"
+      "role": "thiên hạ đệ nhất thần thám, quản lý Nội Vệ; bộ ba công thần thời Thế Tông; cha Lý Nhân Quý, ông nội Thanh Anh"
     },
     "Hồng Khải đế": {
       "aliases": [
@@ -375,6 +381,20 @@
       "alias_previous": "Bùi Trường Linh (cùng một người)",
       "child": "Kim Tử Danh",
       "died": "1236, khi sinh Kim Tử Danh"
+    },
+    "Cái Thế Hùng": {
+      "role": "quan võ nhỏ; cha Cái Thế Lâm, Cái Thế Xung",
+      "status": "bị Phan Đình Nhân hãm hại chết (1234)"
+    },
+    "Trương Quang Nghĩa": {
+      "born": 1155,
+      "died": 1216,
+      "role": "võ tướng Thế Tông, thiên hạ đệ nhất võ tướng, Uy Mãnh đại tướng quân; thầy Lý Nhân Quý"
+    },
+    "Nghiêm Minh Viên": {
+      "born": 1161,
+      "died": 1222,
+      "role": "thừa tướng đại tài thời Thế Tông; bộ ba công thần"
     }
   },
   "characters_created": [
@@ -384,6 +404,7 @@
     "Bùi Trường Giao",
     "Bùi Trường Hải",
     "Bùi Vân Chi",
+    "Cái Thế Hùng",
     "Cái Thế Lâm",
     "Cái Thế Xung",
     "Hà hoàng hậu",
@@ -418,11 +439,13 @@
     "Lý Thiên Sư",
     "Lý Thế Vinh",
     "Lưu Trọng Huy",
+    "Nghiêm Minh Viên",
     "Nguyễn Trường Thịnh",
     "Nguyễn Văn Đông",
     "Nhà sư chùa Vạn Phúc",
     "Phan Đình Nhân",
     "Quan huyện Hoan Châu",
+    "Trương Quang Nghĩa",
     "Trần Bình",
     "Võ Thiên Hỷ",
     "Võ Thượng Nguyên",

@@ -1,6 +1,6 @@
 # THẦN THÁM — Kim Tử Anh truyện (series bible)
 
-> Trạng thái: **kế hoạch tạm, bản 12**.
+> Trạng thái: **kế hoạch tạm, bản 13**.
 > - **[TG]** = canon tác giả xác nhận trong trò chuyện.
 > - **[WIKI]** = lấy từ wiki vũ trụ Huyền Huyễn (`antialberteinstein/fandomwiki-generator`, `content/`).
 > - ⚑ = đề xuất của tôi.
@@ -106,14 +106,20 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 | 1169 | Lý Thế Vinh ra đời [TG]. |
 | 1204 | Trần Bình ra đời [WIKI]. |
 | 1163 | Lý Nhân Kiệt đời đầu ra đời [TG]. |
-| 1195 | Lý Nhân Quý, con trưởng của Lý Nhân Kiệt đời đầu, ra đời [TG]. |
-| 1210 | Lý Nhân Quý đánh Linh Sơn, giết Khương Duy [WIKI][TG]. |
+| 1155 | Trương Quang Nghĩa ra đời [TG]. |
+| 1161 | Nghiêm Minh Viên ra đời [TG]. |
+| 1186 | Lý Nhân Quý, con trưởng của Lý Nhân Kiệt đời đầu, ra đời [TG]. |
+| 1202 | Lý Nhân Quý, 16 tuổi, bắt đầu cầm binh [TG]. |
+| 1210 | Lý Nhân Quý (24 tuổi) đánh Linh Sơn, giết Khương Duy [WIKI][TG]. |
+| 1216 | Trương Quang Nghĩa mất [TG]. |
+| 1222 | Nghiêm Minh Viên mất [TG]. |
 | 1225 | Lý Nhân Kiệt đời đầu mất [TG]. |
 | 1218 | Hà hoàng hậu và Kim Tử Đức ra đời [WIKI]. |
 | 1222 | Kim Tử Anh và Lý Thanh Anh ra đời [WIKI]. |
 | 1228 | Tử Anh được phong Việt vương. |
+| 1234 | Cái Thế Hùng bị Phan Đình Nhân hãm hại chết; hai con là Lâm và Xung gặp Lý Hoài Sương (con nuôi Trần Bình) [TG]. |
 | 1231 | Thừa Văn bị phế [WIKI]. |
-| 1232 | Đại bại Đinh Nhất; Tử Đức thoát chết, thành Lê Duy Thành [WIKI]. Thừa Ly ám sát Thế Tông, sửa di chiếu [TG][WIKI]. Tử Anh nghĩ kế đổ tội cho Lý Nhân Quý (1195–1232); họ Lý bị **tru di cửu tộc** [TG]. Lưu Trọng Huy, theo mật lệnh của Tử Anh, cứu Thanh Anh về Hoan Châu [TG]. Tử Anh làm thái tử. |
+| 1232 | Đại bại Đinh Nhất; Tử Đức thoát chết, thành Lê Duy Thành [WIKI]. Thừa Ly ám sát Thế Tông, sửa di chiếu [TG][WIKI]. Tử Anh nghĩ kế đổ tội cho Lý Nhân Quý (1186–1232); họ Lý bị **tru di cửu tộc** [TG]. Lưu Trọng Huy, theo mật lệnh của Tử Anh, cứu Thanh Anh về Hoan Châu [TG]. Tử Anh làm thái tử. |
 | 1236 | Thừa Văn bị ám sát [WIKI]. Lạng Sơn Vương Nguyễn Trường Thịnh nổi loạn, giết Nhân Tông [TG][WIKI]. Hồng Khải đế lên ngôi. Hà hoàng hậu ám sát hụt Tử Anh, khiến ông mất trí nhớ [WIKI]. Họ Bùi lưu vong tới Linh Sơn; Bùi Trường Hải giết cả nhà Lý Kinh Hải [TG]. Lý Thiên Bảo trao cho Tử Anh thân phận Lý Bính [TG]. ⚑ Triều đình tuyên bố thái tử đã chết và xây mộ giả. |
 | 1238 | Kim An Định ra đời, con ruột của Trần Bình [TG][WIKI]. |
 | 1239 | Án oan Lưu Trọng Huy ở Hoan Châu; Thanh Anh thành tỳ nữ Như Ý [TG]. |
@@ -203,7 +209,7 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 
 - ⚑ Nhận xét về các mốc, chưa phải canon:
   - **Lý Nhân Quý giết Khương Duy** trong trận năm 1210 [TG]. Mối thù của Linh Sơn với họ Lý vì thế là thù giết người sáng lập. ⚑ Thanh Anh là **con gái** của kẻ đã giết cụ tổ Khương Tử, một mầm xung đột tiềm tàng giữa hai người đồng hành tương lai. (Bản 11 ghi nhầm là "cháu nội"; đã sửa.)
-  - Lưu ý mốc: theo năm sinh tác giả đưa (1195), năm 1210 Lý Nhân Quý mới 15 tuổi. Có thể ông ra trận rất sớm dưới trướng người khác; cần tác giả xác nhận (Q-NQ).
+  - Lý Nhân Quý sinh năm 1186, cầm binh từ năm 16 tuổi, có tài chiến trận đáng nể. Ông được **Trương Quang Nghĩa** đào tạo. Năm 1210 ông 24 tuổi [TG].
   - Năm 1235, **Khương Tú nhường ngôi** cho Hạ Vĩnh Bình, vì tin ông đủ sức vực dậy Linh Sơn sau 20 năm Khương Ức cai trị làm môn phái suy yếu nặng [TG]. ⚑ Khương Tử là con của vị chưởng môn bị coi là đã làm Linh Sơn suy tàn; đó là một gánh nặng y mang theo.
 
 ### Hạ Tử Linh [TG]
@@ -263,9 +269,22 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 - ⚑ Y ủng hộ Nhân Kiệt chống phe Phan vì cần một lưỡi dao sạch tay.
 
 ### Phan Đình Nhân — thừa tướng; tham quan, bạo chính [TG].
+- Đã hãm hại chết Cái Thế Hùng, cha của Lâm và Xung (1234) [TG].
+
+### Bộ ba công thần thời Thế Tông [TG]
+- **Trương Quang Nghĩa** (1155–1216): võ tướng của Thế Tông, "thiên hạ đệ nhất võ tướng", Uy Mãnh đại tướng quân. Là thầy của Lý Nhân Quý.
+- **Lý Nhân Kiệt đời đầu** (1163–1225): "thiên hạ đệ nhất thần thám", quản lý Nội Vệ.
+- **Nghiêm Minh Viên** (1161–1222): một trong những vị thừa tướng đại tài nhất của nhà Kim.
+- Wiki ghi Trương Quang Nghĩa sinh năm 1154; dùng năm 1155 theo tác giả.
+- ⚑ Đây là thế hệ vàng mà nhà Kim đánh mất. Đối chiếu: Phan Đình Nhân là thừa tướng tham nhũng đối lập Nghiêm Minh Viên, còn Trần Bình là quan cai quản Nội Vệ phản bội đối lập Lý Nhân Kiệt. Nhân Kiệt mang tên vị thần thám thế hệ vàng, đứng giữa thời mạt vận.
 
 ### Bộ ba Lâm – Xung – Sương [TG]
-- **Cái Thế Lâm** (anh), **Cái Thế Xung** (em) và **Lý Hoài Sương** lớn lên cùng nhau, hết sức thân thiết.
+- **Cái Thế Lâm** (anh) và **Cái Thế Xung** (em) là con của **Cái Thế Hùng**, một quan võ nhỏ bị Phan Đình Nhân hãm hại chết. Vì thế hai anh em có thù rất lớn với Phan [TG].
+- **Lý Hoài Sương** là con nuôi của Trần Bình. Nàng chỉ gặp Lâm và Xung từ năm 1234, sau khi Cái Thế Hùng mất. Ba người thân thiết từ đó, nhưng không lớn lên cùng nhau từ nhỏ [TG].
+- ⚑ Hệ quả:
+  - Có lẽ Trần Bình đã cưu mang hai đứa con mồ côi của Cái Thế Hùng năm 1234. Lòng phục tùng vô điều kiện của Xung là lòng biết ơn của một đứa trẻ được cứu, cộng với lời hứa báo thù Phan.
+  - Năm 1245, khi Trần Bình giết Phan, Xung được báo thù cho cha. Cái giá là y phải **đeo mặt nạ của chính kẻ đã giết cha mình**.
+  - Mối thù với Phan cũng khiến Lâm và Xung rất hợp làm "dao" trong cuộc đối đầu Nội Vệ – Phan ở Quyển I, và khiến người đọc càng tin Phan là phản diện chính.
 - Có mối tình tay ba nhập nhằng: **Xung yêu Sương, Sương yêu Lâm**.
 - **Cái Thế Xung**: bạn đồng hành phá án của Nhân Kiệt (Tả vệ); cao thủ, võ hơn Nhân Kiệt; phục tùng Trần Bình vô điều kiện. Năm 1245 bề ngoài thuyên chuyển sang Hữu vệ; thực tế đội lốt Phan Đình Nhân [TG].
 - **Lý Hoài Sương**: con nuôi của Trần Bình, đồng thời là người của Nội Vệ [TG]. Không phải người Nam Hải phái, cũng không phải em Thiên Bảo; các bản trước sai điểm này, đã sửa.
@@ -327,4 +346,4 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
   - Trần Bình nghi Nhân Kiệt nhưng không chứng minh được.
   - Trần Bình đóng vai người thầy; không làm lộ sớm.
   - Năm sinh năm mất của Lý Nhân Quý và Lý Nhân Kiệt đời đầu.
-- **Q-NQ.** Năm 1210 Lý Nhân Quý mới 15 tuổi mà đã đánh Linh Sơn và giết Khương Duy: giữ nguyên, hay chỉnh năm sinh hoặc người cầm quân?
+- **Đã chốt** (bản 13): Lý Nhân Quý sinh 1186, thầy là Trương Quang Nghĩa; bộ ba công thần; thân thế Lâm – Xung (con Cái Thế Hùng); Sương gặp hai anh em năm 1234.
