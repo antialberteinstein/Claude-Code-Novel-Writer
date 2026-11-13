@@ -1,8 +1,8 @@
 {
-  "setting": "Vũ trụ Huyền Huyễn; nước Đại Tần dưới nhà Kim; dân tộc chủ thể là người Lang; tên kinh đô chưa chốt",
+  "setting": "Vũ trụ Huyền Huyễn; nước Đại Tần dưới nhà Kim; dân tộc chủ thể người Lang; kinh đô Phong Đô",
   "locations_established": [
     {
-      "name": "Kinh thành (tạm: Thăng Long)",
+      "name": "Phong Đô (kinh đô Đại Tần)",
       "notes": "hoàng thành, Đông cung cũ, Thái y viện, Thượng Cung cục, Nội Vệ giám"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "name": "Linh Sơn",
-      "notes": "thực chất là ngoại quốc Bắc Bồn Tử, tư thù với hoàng gia Kim; chưởng môn Hạ Vĩnh Bình; bị Lý Nhân Quý đánh hàng 1210; họ Bùi lưu vong tới đây 1236; sư môn Khương Tử, Hạ Tử Linh"
+      "notes": "do Khương Duy (người Lang lưu vong) lập; thực chất ngoại quốc Bắc Bồn Tử; chưởng môn: Khương Duy, Khương Hận, Khương Duy, Khương Ức, Khương Tú, Hạ Vĩnh Bình (từ 1235); bị Lý Nhân Quý đánh hàng 1210; họ Bùi lưu vong tới đây 1236 nhờ Khương Trung – Bùi Nguyên Thuần"
     },
     {
       "name": "Đông Kỳ / Tây Kỳ",
@@ -93,6 +93,10 @@
   ],
   "history_timeline": [
     {
+      "year": 1110,
+      "event": "Khương Duy ra đời"
+    },
+    {
       "year": 1154,
       "event": "Kim Thế Tông (Vô Cực) ra đời"
     },
@@ -103,6 +107,10 @@
     {
       "year": 1169,
       "event": "Lý Thế Vinh ra đời"
+    },
+    {
+      "year": 1180,
+      "event": "Khương Duy làm chưởng môn Linh Sơn"
     },
     {
       "year": 1185,
@@ -125,6 +133,10 @@
       "event": "Hà hoàng hậu và Kim Tử Đức ra đời"
     },
     {
+      "year": 1219,
+      "event": "Khương Tử ra đời"
+    },
+    {
       "year": 1222,
       "event": "Kim Tử Anh và Lý Thanh Anh ra đời"
     },
@@ -143,6 +155,10 @@
     {
       "year": 1232,
       "event": "Đại bại Đinh Nhất (Tử Đức sống sót thành Lê Duy Thành); Thừa Ly ám sát Thế Tông, sửa di chiếu; Tử Anh đổ tội cho Lý Nhân Quý; họ Lý bị tru di, Lưu Trọng Huy cứu Thanh Anh theo mật lệnh Tử Anh; Tử Anh làm thái tử"
+    },
+    {
+      "year": 1235,
+      "event": "Hạ Vĩnh Bình làm chưởng môn Linh Sơn"
     },
     {
       "year": 1236,

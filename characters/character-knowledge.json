@@ -108,7 +108,10 @@
       "role": "đệ tử Linh Sơn bí mật xuất sơn tìm Hạ Tử Linh; xưng là thầy thuốc giang hồ; nghi phạm vụ 1; vào Nội Vệ cuối vụ 3 để tới gần thiên lao",
       "skill": "cao thủ, võ hơn Nhân Kiệt; giỏi độc dược",
       "secret": "không ai biết thân phận Linh Sơn",
-      "ethnicity": "sống ở Bồn Tử, tổ tiên người Lang"
+      "ethnicity": "sống ở Bồn Tử, tổ tiên người Lang",
+      "born": 1219,
+      "lineage": "chắt Khương Duy; con út Khương Ức (chưởng môn 1210–1230); cháu Khương Trung",
+      "pronoun_note": "24 tuổi năm 1243 — không gọi là 'ông'"
     },
     "Lê Duy Thành": {
       "true_identity": "Kim Tử Đức (1218), anh ruột Tử Anh, Hắc Chiến Giáp (wiki)",
@@ -195,10 +198,12 @@
       "status": "1236 ở lại đánh phản quân tìm cứu thái tử, nghe tin Tử Anh chết thì rút; lưu vong Linh Sơn",
       "knows": [
         "họ Lý bị oan (wiki)"
-      ]
+      ],
+      "importance": "nhân vật quan trọng nhất, bộ óc xuất chúng của họ Bùi; không phải dòng trưởng",
+      "friend": "Khương Trung"
     },
     "Bùi Trường Hải": {
-      "role": "cháu Bùi Nguyên Thuần",
+      "role": "con Bùi Nguyên Tồn, cháu Bùi Nguyên Thuần",
       "acts": [
         "1236 đưa Bùi Trường Linh chạy trốn, ở nhờ nhà Lý Kinh Hải, vì nghi ngờ giết cả nhà"
       ],
@@ -245,10 +250,6 @@
     "Kim An Định": {
       "born": 1238,
       "role": "thái tử; danh nghĩa con Hồng Khải đế, thực là con Trần Bình"
-    },
-    "Bùi Trường Linh": {
-      "role": "em gái Bùi Trường Hải, mang thai con Nhân Tông năm 1236",
-      "note": "có thể là Bùi Vân Chi trong wiki; con: Kim Tử Danh (Bùi Tuấn)"
     },
     "Kim Tử Danh": {
       "born": 1236,
@@ -303,27 +304,89 @@
     "Hạ Vĩnh Bình": {
       "former_name": "Đặng Quang Bình",
       "ethnicity": "người Bồn Tử",
-      "role": "chưởng môn Linh Sơn, lãnh đạo Bắc Bồn Tử; mang thù họ Lý từ 1210"
+      "role": "chưởng môn Linh Sơn, lãnh đạo Bắc Bồn Tử; mang thù họ Lý từ 1210",
+      "born": 1210,
+      "tenure": "chưởng môn đời 6 từ 1235",
+      "relations": "không liên quan họ Bùi"
     },
     "Võ Thượng Nguyên": {
       "role": "Võ quốc công, trấn giữ Sơn Đông huyện – Kinh Châu; cha Võ Tài Nhân"
     },
     "Võ Thiên Hỷ": {
       "role": "hoàng hậu Kim Thái Tổ, mẹ Kim Thái Tông (tác giả xác nhận; wiki ghi sai là Võ Thiện Nhân)"
+    },
+    "Khương Duy": {
+      "born": 1110,
+      "died": 1210,
+      "role": "người Lang, đại thần triều Thông Thiên hoàng đế; bị Trần Vô Đạo tru di cửu tộc; lập Linh Sơn; chưởng môn 1180–1190 và 1201–1210"
+    },
+    "Khương Hận": {
+      "born": 1170,
+      "died": 1201,
+      "role": "con Khương Duy; chưởng môn 1190–1201"
+    },
+    "Khương Tú": {
+      "born": 1172,
+      "died": 1235,
+      "role": "con Khương Duy; chưởng môn 1230–1235"
+    },
+    "Khương Ức": {
+      "born": 1187,
+      "died": 1230,
+      "role": "con Khương Hận; chưởng môn 1210–1230; cha Khương Tử"
+    },
+    "Khương Trung": {
+      "born": 1191,
+      "role": "con Khương Hận; trưởng lão Linh Sơn; chú Khương Tử; bạn thân Bùi Nguyên Thuần"
+    },
+    "Khương Trúc": {
+      "born": 1199,
+      "role": "con Khương Hận"
+    },
+    "Khương Hoa": {
+      "born": 1210,
+      "died": 1229,
+      "role": "con Khương Ức, anh cả Khương Tử"
+    },
+    "Khương Bình": {
+      "born": 1215,
+      "role": "con Khương Ức, anh Khương Tử"
+    },
+    "Bùi Nguyên Tồn": {
+      "role": "anh Bùi Nguyên Thuần; mất sớm; cha Bùi Trường Giao, Bùi Trường Hải, Bùi Vân Chi"
+    },
+    "Bùi Trường Giao": {
+      "role": "con trưởng Bùi Nguyên Tồn; trưởng tộc họ Bùi"
+    },
+    "Bùi Vân Chi": {
+      "role": "em gái Bùi Trường Hải; phi tần Nhân Tông, mang thai con vua khi chạy loạn 1236",
+      "note": "có thể là Bùi Vân Chi trong wiki; con: Kim Tử Danh (Bùi Tuấn)",
+      "alias_previous": "Bùi Trường Linh (Q-BV)",
+      "child": "Kim Tử Danh"
     }
   },
   "characters_created": [
     "Ba tên trộm mộ",
     "Bùi Nguyên Thuần",
+    "Bùi Nguyên Tồn",
+    "Bùi Trường Giao",
     "Bùi Trường Hải",
-    "Bùi Trường Linh",
+    "Bùi Vân Chi",
     "Cái Thế Lâm",
     "Cái Thế Xung",
     "Hà hoàng hậu",
     "Hạ Tử Linh",
     "Hạ Vĩnh Bình",
     "Hồng Khải đế",
+    "Khương Bình",
+    "Khương Duy",
+    "Khương Hoa",
+    "Khương Hận",
+    "Khương Trung",
+    "Khương Trúc",
+    "Khương Tú",
     "Khương Tử",
+    "Khương Ức",
     "Kim An Định",
     "Kim Nhân Tông",
     "Kim Thế Tông",

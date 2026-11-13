@@ -215,12 +215,17 @@
     "Hạ Tử Linh đẹp như tiên giáng trần; Lý Thiên Bảo say mê nàng.",
     "Nội Vệ có hai nhánh: Tả vệ xử lý án trong dân, Hữu vệ điều tra quan lại trong cung; năm 1245 Thế Xung chỉ thuyên chuyển từ Tả vệ sang Hữu vệ.",
     "Vết sẹo bỏng của Nhân Kiệt từ năm 1236, khi Hà hoàng hậu cho quân phóng hỏa thiêu Tử Anh.",
-    "Duy Thành (Tử Đức) nghi Hồng Khải đế đứng sau cái chết của cha (Nhân Tông) và em (Anh Mẫn thái tử)."
+    "Duy Thành (Tử Đức) nghi Hồng Khải đế đứng sau cái chết của cha (Nhân Tông) và em (Anh Mẫn thái tử).",
+    "Kinh đô Đại Tần là Phong Đô.",
+    "Họ Bùi không có quan hệ với Hạ Vĩnh Bình; Bùi Nguyên Thuần là bạn thân Khương Trung — chú Khương Tử, trưởng lão Linh Sơn.",
+    "Linh Sơn do Khương Duy (1110–1210) lập; ông là người Lang, đại thần triều Thông Thiên hoàng đế, bị Trần Vô Đạo tru di cửu tộc, trốn tới Linh Sơn cưới vợ Bồn Tử; con Khương Hận (1170–1201), Khương Tú (1172–1235); Khương Hận sinh Khương Ức (1187–1230), Khương Trung (1191–), Khương Trúc (1199–); Khương Ức sinh Khương Hoa (1210–1229), Khương Bình (1215), Khương Tử (1219).",
+    "Chưởng môn Linh Sơn: Khương Duy (1180–1190), Khương Hận (1190–1201), Khương Duy (1201–1210), Khương Ức (1210–1230), Khương Tú (1230–1235), Hạ Vĩnh Bình (sinh 1210; 1235–).",
+    "Bùi Nguyên Thuần là nhân vật quan trọng nhất, bộ óc xuất chúng của họ Bùi nhưng không phải dòng trưởng; trưởng tộc là Bùi Trường Giao, anh của Bùi Trường Hải và Bùi Vân Chi, con trưởng của Bùi Nguyên Tồn (mất sớm, anh Bùi Nguyên Thuần)."
   ],
   "open_questions": [
-    "Q-K1 tên kinh đô Đại Tần",
     "Q-TL2 Hạ Tử Linh xuất hiện ở vụ 3 (đề xuất)",
-    "Q-HV quan hệ họ Bùi – Hạ Vĩnh Bình"
+    "Q-LS vì sao năm 1235 Hạ Vĩnh Bình làm chưởng môn; Khương Duy có chết trong trận 1210",
+    "Q-BV Bùi Trường Linh = Bùi Vân Chi?"
   ],
   "chapters": {
     "1": {
@@ -229,10 +234,10 @@
       "pov": "Khương Tử",
       "purpose": "Mở truyện từ bên ngoài: kinh thành, lời nguyền, Khương Tử thành nghi phạm.",
       "beats": [
-        "Mùa xuân 1243, Khương Tử bí mật rời Linh Sơn — xứ Bắc Bồn Tử mà Đại Tần coi là ngoại bang thù địch — lên kinh tìm sư tỷ Hạ Tử Linh, người bị bắt vì tội giết Lý Thiên Bảo. Tổ tiên ông là người Lang, nên ông nói giọng bản xứ và xưng là thầy thuốc giang hồ; không ai đoán được ông từ đâu tới.",
+        "Mùa xuân 1243, Khương Tử — hai mươi bốn tuổi, con út của một cựu chưởng môn Linh Sơn — bí mật rời xứ Bắc Bồn Tử mà Đại Tần coi là ngoại bang thù địch, lên kinh đô Phong Đô tìm sư tỷ Hạ Tử Linh, người bị bắt vì tội giết Lý Thiên Bảo. Tổ tiên y là người Lang, nên y nói giọng bản xứ và xưng là thầy thuốc giang hồ; không ai đoán được y từ đâu tới.",
         "Cả kinh thành bàn tán: một tên trộm mộ Anh Mẫn thái tử vừa chết mặt đen như mực — lời nguyền mộ thái tử. Đêm đó, tên trộm thứ hai chết ở phòng bên cạnh trong cùng quán trọ.",
-        "Khương Tử chạy sang đầu tiên và bị bắt tại chỗ; trong hòm thuốc có mấy vị độc hiếm. Ông để lính bắt mà không chống — thừa sức thoát, nhưng bỏ chạy là nhận tội, và một người Linh Sơn bị truy nã thì không bao giờ tới được chỗ sư tỷ.",
-        "Trong ngục, một gã da ngăm, nửa mặt trái sẹo bỏng lồi, mặc áo Nội Vệ bước vào. Khương Tử tưởng là lính cai ngục — cho tới khi gã hỏi đúng ba câu, và ông nhận ra kẻ này đã biết ông vô tội từ trước khi bước vào."
+        "Khương Tử chạy sang đầu tiên và bị bắt tại chỗ; trong hòm thuốc có mấy vị độc hiếm. Y để lính bắt mà không chống — thừa sức thoát, nhưng bỏ chạy là nhận tội, và một người Linh Sơn bị truy nã thì không bao giờ tới được chỗ sư tỷ.",
+        "Trong ngục, một gã da ngăm, nửa mặt trái sẹo bỏng lồi, mặc áo Nội Vệ bước vào. Khương Tử tưởng là lính cai ngục — cho tới khi gã hỏi đúng ba câu, và y nhận ra kẻ này đã biết y vô tội từ trước khi bước vào."
       ],
       "setups_payoffs": [
         "SETUP: Khương Tử là người Linh Sơn (bí mật với mọi nhân vật)",
@@ -253,7 +258,7 @@
         "Hắn tin mình là Lý Bính, con mồ côi của Lý Kinh Hải, được Nam Hải phái nuôi; không nhớ gì trước năm mười bốn tuổi, kể cả vì sao nửa mặt trái đầy sẹo bỏng. Sáu năm bị Lý Thế Vinh luyện khắc nghiệt cho hắn thân thể của một võ phu; tên tự Nhân Kiệt hắn tự đặt theo vị thần thám trong cuốn án lục đã sờn gáy.",
         "Đồng liêu: Cái Thế Xung, cao thủ quyền cước mà hắn chưa từng thắng nổi trong mười hiệp; anh trai Cái Thế Lâm điềm đạm; và Lý Hoài Sương, con nuôi của quan cai quản Trần Bình. Ba người lớn lên cùng nhau — Nhân Kiệt để ý Xung luôn nhìn Sương, còn Sương luôn nhìn Lâm.",
         "Nội Vệ có hai nhánh: Tả vệ lo án trong dân, Hữu vệ điều tra quan lại trong cung. Nhóm của Nhân Kiệt thuộc Tả vệ; Hữu vệ là nơi những cánh cửa luôn đóng.",
-        "Trần Bình giao vụ mộ thái tử với một câu dặn nhẹ: vụ này dính tới những người không nên dính. Nhân Kiệt chỉ ra vì sao người thầy thuốc lạ không thể là hung thủ, nhưng đề nghị giữ ông lại làm việc cho Nội Vệ: ông hiểu độc dược hơn bất cứ ngỗ tác nào."
+        "Trần Bình giao vụ mộ thái tử với một câu dặn nhẹ: vụ này dính tới những người không nên dính. Nhân Kiệt chỉ ra vì sao người thầy thuốc lạ không thể là hung thủ, nhưng đề nghị giữ y lại làm việc cho Nội Vệ: y hiểu độc dược hơn bất cứ ngỗ tác nào."
       ],
       "setups_payoffs": [
         "SETUP: hồ sơ Thiên Bảo chưa đóng vì Hạ Tử Linh",
@@ -292,7 +297,7 @@
       "beats": [
         "Khám lại xác thứ nhất: tên trộm chết vì hơi độc từ lớp sơn và thủy ngân trong mộ — một cơ quan bảo vệ mộ cổ. Lời nguyền là thật với hắn.",
         "Xác thứ hai khác ở ba chi tiết: thời điểm phát độc, vị trí vết đen, và mùi trong phòng. Kẻ giết người đã bắt chước một cái chết mà hắn chỉ nghe kể lại.",
-        "Khương Tử chứng minh độc ở xác thứ hai là thứ bán ở chợ đen kinh thành chứ không phải độc hiếm như nha môn nghĩ. Ông được tha, và ở lại."
+        "Khương Tử chứng minh độc ở xác thứ hai là thứ bán ở chợ đen kinh thành chứ không phải độc hiếm như nha môn nghĩ. Y được tha, và ở lại."
       ],
       "setups_payoffs": [
         "SETUP: kẻ giết người chỉ biết lời nguyền qua lời đồn"
@@ -619,7 +624,7 @@
       "purpose": "Đào lại án oan 1239; Ngô Vương có động cơ.",
       "beats": [
         "Hồ sơ huyện: năm 1239 Lưu Trọng Huy giết thôn nữ rồi trốn; bà nội hắn bị xử tử thay. Hồ sơ quá gọn.",
-        "Khương Tử dò được Huy trốn lên vùng núi giáp Linh Sơn; càng tới gần biên giới ông càng ít nói, và tránh mặt mọi đội tuần biên.",
+        "Khương Tử dò được Huy trốn lên vùng núi giáp Linh Sơn; càng tới gần biên giới y càng ít nói, và tránh mặt mọi đội tuần biên.",
         "Thế Xung tìm ra người của Ngô Vương từng âm thầm thu thập tội trạng quan huyện — cái cớ Trần Bình cần."
       ],
       "setups_payoffs": [
