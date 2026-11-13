@@ -32,7 +32,8 @@
       "Khương Tử": "gặp ở vụ 1",
       "Lê Duy Thành": "nghi phạm vụ 2, đối thủ trí tuệ",
       "Cái Thế Lâm": "đồng liêu Nội Vệ",
-      "Hạ Tử Linh": "nghi phạm chính thức vụ Thiên Bảo; hắn không tin nàng có tội"
+      "Hạ Tử Linh": "nghi phạm chính thức vụ Thiên Bảo; hắn không tin nàng có tội",
+      "Trần Bình": "cấp trên, người thầy hắn tin tưởng"
     },
     "traits": [
       "suy luận và trí tuệ siêu việt — điểm nổi trội duy nhất",
@@ -163,8 +164,10 @@
       "status": "bị Nhân Tông sai cận vệ họ Bùi ám sát 1236"
     },
     "Lý Nhân Quý": {
-      "role": "tướng thời Thế Tông, cha Thanh Anh và Hà hoàng hậu; con Lý Nhân Kiệt đời đầu; từng đánh Linh Sơn 1210 (wiki)",
-      "status": "bị tru di 1232 vì tội giết vua do Tử Anh dựng"
+      "role": "con trưởng Lý Nhân Kiệt đời đầu; cha Thanh Anh và Hà hoàng hậu; giết Khương Duy năm 1210; bị Tử Anh đổ oan và tru di cửu tộc năm 1232",
+      "status": "bị tru di 1232 vì tội giết vua do Tử Anh dựng",
+      "born": 1195,
+      "died": 1232
     },
     "Lý Bính (thật)": {
       "role": "con Lý Kinh Hải",
@@ -232,7 +235,9 @@
         "bí mật cử Nhân Kiệt thám thính Ngô Vương",
         "giết Phan Đình Nhân 1245, dùng Thế Xung đội lốt",
         "đầu độc Hồng Khải đế 1249 (wiki)"
-      ]
+      ],
+      "mask": "người thầy nâng đỡ Nhân Kiệt; thực tế theo dõi, điều hướng, ngăn cản cuộc điều tra vụ Thiên Bảo",
+      "why_not_kill": "cần theo dõi tiến độ và điều hướng/ngăn cản cuộc điều tra"
     },
     "Kim Tử Anh — tước hiệu": {
       "titles": [
@@ -265,8 +270,8 @@
       "recognition": "không nhận ra em trai; lần cuối gặp năm 1234"
     },
     "Lý Nhân Kiệt (đời đầu)": {
-      "born": 1165,
-      "died": 1226,
+      "born": 1163,
+      "died": 1225,
       "role": "đệ nhất thần thám, thái sư, quản lý Nội Vệ; ông nội Thanh Anh (wiki)"
     },
     "Hồng Khải đế": {

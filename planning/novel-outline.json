@@ -16,7 +16,8 @@
     "Mất trí nhớ toàn phần: không ký ức chớp nhoáng, không giấc mơ gợi nhắc; chỉ Đồng Thái Huy trả lại ký ức gần cuối bộ truyện",
     "Mọi gợi ý về thân phận đánh dấu REREAD phải có cách giải thích khác hợp lý khi đọc lần đầu",
     "Kim Tử Anh yếu, da trắng bệch; Lý Nhân Kiệt khỏe, da ngăm, nửa trái mặt sẹo bỏng lồi, trông như lính hoặc dân chợ búa",
-    "Phan Đình Nhân là phản diện rõ ràng nhất với người đọc trước 1247; cái chết của ông năm 1245 bị giấu; manh mối về Trần Bình đi qua kênh của Phan"
+    "Phan Đình Nhân là phản diện rõ ràng nhất với người đọc trước 1247; cái chết của ông năm 1245 bị giấu; manh mối về Trần Bình đi qua kênh của Phan",
+    "Không làm lộ sớm Trần Bình là chủ mưu; y đóng vai người thầy nâng đỡ Nhân Kiệt; mọi hành động của y đọc lần đầu là che chở, đọc lại là theo dõi và ngăn cản; không câu kể nào nói thẳng ý đồ của y"
   ],
   "timeline_anchor": {
     "story_start": "mùa xuân 1243",
@@ -226,11 +227,13 @@
     "Lý Nhân Quý là người giết Khương Duy (1210).",
     "Khương Tú nhường ngôi chưởng môn cho Hạ Vĩnh Bình vì cho rằng Vĩnh Bình đủ năng lực vực dậy Linh Sơn; 20 năm cai trị của Khương Ức khiến Linh Sơn suy yếu nặng nề.",
     "Bùi Trường Linh và Bùi Vân Chi là một người, tên chính là Bùi Vân Chi; bà mất khi sinh Kim Tử Danh (Bùi Tuấn).",
-    "Ở vụ 3, Khương Tử nhờ Lý Nhân Kiệt mới bí mật gặp được Hạ Tử Linh; Nhân Kiệt xác nhận Tử Linh không liên quan và giúp nàng thoát khỏi thiên lao trở về Linh Sơn; Khương Tử muốn ở lại."
+    "Ở vụ 3, Khương Tử nhờ Lý Nhân Kiệt mới bí mật gặp được Hạ Tử Linh; Nhân Kiệt xác nhận Tử Linh không liên quan và giúp nàng thoát khỏi thiên lao trở về Linh Sơn; Khương Tử muốn ở lại.",
+    "Lý Thanh Anh (1222) là con gái Lý Nhân Quý (1195–1232); Lý Nhân Quý là con trưởng của Lý Nhân Kiệt đời đầu (1163–1225); Lý Nhân Quý bị Tử Anh đổ oan năm 1232 và bị tru di cửu tộc.",
+    "Vụ vượt ngục của Hạ Tử Linh đổ cho người Linh Sơn cướp tù; Trần Bình nghi Nhân Kiệt nhưng không chứng minh được.",
+    "Không làm lộ ngay Trần Bình là chủ mưu; đẩy nghi ngờ về Phan Đình Nhân và phe cánh. Trần Bình tỏ ra là người thầy nâng đỡ Nhân Kiệt, giúp tìm hung thủ vụ Thiên Bảo, nhưng thực tế âm thầm theo dõi, điều hướng và ngăn cản, bắt đầu bằng việc cử Nhân Kiệt đi Hoan Châu. Trần Bình không loại Nhân Kiệt vì cần theo dõi tiến độ và điều hướng/ngăn cản cuộc điều tra."
   ],
   "open_questions": [
-    "Q-ESC Nhân Kiệt dựng vụ vượt ngục thế nào; ai bị đổ tội",
-    "Q-TBX Trần Bình có biết/nghi Nhân Kiệt đứng sau vụ vượt ngục"
+    "Q-NQ năm 1210 Lý Nhân Quý mới 15 tuổi khi đánh Linh Sơn, giết Khương Duy"
   ],
   "chapters": {
     "1": {
@@ -352,7 +355,7 @@
       "beats": [
         "Kim Trọng: tròn trịa, lịch thiệp, sổ sách hoàn hảo; ông ta chỉ là một thương nhân đồ cổ.",
         "Người của thừa tướng Phan Đình Nhân xuất hiện giữa buổi thẩm vấn, đòi Nội Vệ trả người.",
-        "Trần Bình đứng ra che cho Nhân Kiệt trước mặt thừa tướng — lần đầu Nội Vệ không cúi đầu. Nhân Kiệt không biết Trần Bình đang dùng mình làm dao.",
+        "Trần Bình đứng ra che cho Nhân Kiệt trước mặt thừa tướng — lần đầu Nội Vệ không cúi đầu. Đêm đó y rót rượu cho hắn: Ta già rồi, cả đời cúi đầu trước những kẻ như Phan. Ngươi thì không cần.",
         "Một thương nhân đi lệch chân, áo tay dài, ra khỏi Kim phủ đúng lúc Nhân Kiệt bước vào. Hai người nhìn nhau một nhịp."
       ],
       "setups_payoffs": [
@@ -419,7 +422,7 @@
       "beats": [
         "Dấu vết dòng bạc từ phủ thừa tướng qua các hiệu buôn Kim Trọng.",
         "Phe Phan muốn kết án Duy Thành: một kẻ lạ mặt, không gốc gác, tiện lợi.",
-        "Trần Bình cho Nhân Kiệt thêm thời gian — và hỏi kỹ về cuốn sổ."
+        "Trần Bình cho Nhân Kiệt thêm thời gian, dặn hắn cẩn thận: nếu tìm được sổ sách của Kim Trọng, phải mang thẳng về cho y, đừng để lọt vào tay ai khác."
       ],
       "setups_payoffs": [
         "SETUP: Trần Bình muốn cuốn sổ"
@@ -472,7 +475,7 @@
         "Hung thủ là quản gia Kim phủ, giết chủ theo lệnh phe Phan để bịt đầu mối, rồi đổ cho Duy Thành.",
         "Nhưng quản gia không lấy cuốn sổ: đêm đó còn một người thứ hai vào thư phòng sau khi Kim Trọng đã chết. Nhân Kiệt chỉ tìm được một vết ủng kiểu Nội Vệ.",
         "Duy Thành được thả, để lại cho Nhân Kiệt một câu: Ta nợ huynh một lần.",
-        "Cảnh cuối: Thế Xung đặt một cuốn sổ bọc vải dầu lên bàn Trần Bình."
+        "Cảnh cuối: Thế Xung đặt một cuốn sổ bọc vải dầu lên bàn Trần Bình. Trần Bình vỗ vai y: Giữ kín. Có ngày ta sẽ dùng nó để lật Phan Đình Nhân."
       ],
       "setups_payoffs": [
         "SETUP: Trần Bình nắm sổ rửa tiền của Phan (trả 1245)",
@@ -571,7 +574,7 @@
       "pov": "Nhân Kiệt",
       "purpose": "Khương Tử lộ thân phận với Nhân Kiệt; gặp Hạ Tử Linh; Nhân Kiệt phá luật để trả tự do cho một người vô tội.",
       "beats": [
-        "Nhân Kiệt dâng tờ trình xin lật lại án Hạ Tử Linh. Trần Bình đọc, gật gù, rồi cất vào ngăn: chưa phải lúc đụng tới thừa tướng.",
+        "Nhân Kiệt dâng tờ trình xin lật lại án Hạ Tử Linh. Trần Bình đọc kỹ, thở dài như người thầy thương học trò: ngươi đúng, nhưng lật án này lúc này là tuyên chiến với thừa tướng khi ta chưa đủ chứng cứ. Đợi ta. Rồi y cất tờ trình vào ngăn.",
         "Đêm đó Khương Tử tìm Nhân Kiệt, quỳ xuống và nói thật: y là người Linh Sơn, con út của cựu chưởng môn Khương Ức; nữ tù trong thiên lao là sư tỷ y. Y xin được gặp nàng một lần.",
         "Nhân Kiệt đưa y vào thiên lao bằng lệnh hỏi cung riêng. Hạ Tử Linh đẹp tới mức lính canh không dám nhìn lâu. Nàng kể đêm 1242: Thiên Bảo say mê nàng, giữ nàng ở quán trọ như một trò đùa, chưa bao giờ có ý bắt thật; nàng ở phòng trong khi anh gục xuống ở phòng ngoài.",
         "Đối chiếu lời nàng với chứng cứ Hàn Tâm tán, Nhân Kiệt xác nhận nàng không liên quan. Luật không cho hắn thả nàng; hắn tự tay dựng một cuộc vượt ngục để mọi dấu vết đổ cho người Linh Sơn tới cướp tù.",
@@ -595,13 +598,12 @@
         "Thiên lao náo loạn; Nội Vệ truy bắt bóng ma người Linh Sơn. Nhân Kiệt đứng giữa đám lính, chỉ ra hướng chạy sai một cách thuyết phục.",
         "Khương Tử xin chính thức vào Tả vệ dưới tên thầy thuốc giang hồ. Lý do y nói với Nhân Kiệt: chừng nào chưa tìm ra kẻ giết Thiên Bảo, tên sư tỷ y vẫn chưa sạch; và y nợ hắn một mạng người.",
         "Khương Tử nói Hàn Tâm tán không có thuốc giải trong y thư nào; chỉ nghe đồn một thần y họ Đồng — Đồng Thái Huy — từng cứu được người trúng nó, nhưng không ai biết ông ở đâu.",
-        "Thế Xung báo về Trần Bình: Lý Nhân Kiệt đã biết tên độc. Trần Bình đọc báo cáo, nhìn sang tờ trình xin lật án Tử Linh nằm trong ngăn, rồi nhìn sang báo cáo vụ vượt ngục. Y không nói gì, chỉ xếp hồ sơ Hoan Châu lên bàn: đã đến lúc đưa thần thám ra khỏi kinh thành một thời gian."
+        "Thế Xung báo về Trần Bình: Lý Nhân Kiệt đã biết tên độc. Hôm sau Trần Bình gọi Nhân Kiệt lên, giọng lo lắng: sau vụ vượt ngục, phe Phan đang đánh hơi quanh Tả vệ; ngươi cần rời kinh một thời gian. Y trao cho hắn hồ sơ Hoan Châu như trao một tấm khiên."
       ],
       "setups_payoffs": [
         "SETUP: Khương Tử ở lại vì món nợ và để rửa tên sư tỷ",
         "SETUP: Đồng Thái Huy",
-        "SETUP: Trần Bình nghi Nhân Kiệt dính tới vụ vượt ngục",
-        "SETUP: Trần Bình đẩy Nhân Kiệt đi Hoan Châu"
+        "REREAD: Trần Bình 'che chở' thực chất là đẩy Nhân Kiệt khỏi cuộc điều tra (bước ngăn cản đầu tiên)"
       ],
       "target_words": 3500,
       "status": "planned"
@@ -612,9 +614,9 @@
       "pov": "Nhân Kiệt",
       "purpose": "Mở vụ 4: nhiệm vụ mật thám thính Ngô Vương.",
       "beats": [
-        "Đầu năm 1244, cả nhà một quan huyện ở Hoan Châu bị giết trong một đêm. Trần Bình gọi riêng Nhân Kiệt: công khai là điều tra án mạng; thật ra là thám thính Ngô Vương Kim Tử Quân, trưởng nữ tiên đế, kẻ y nghi mưu phản. Chỉ một mình Nhân Kiệt được biết.",
+        "Đầu năm 1244, cả nhà một quan huyện ở Hoan Châu bị giết trong một đêm. Trần Bình gọi riêng Nhân Kiệt: công khai là điều tra án mạng; thật ra là thám thính Ngô Vương Kim Tử Quân, trưởng nữ tiên đế, người y lo đang mưu phản. Ta chỉ tin giao việc này cho ngươi.",
         "Nhân Kiệt chọn người đi cùng: Khương Tử, Hoài Sương và Thế Xung. Lâm ở lại kinh; trên đường đi, Xung tìm mọi cớ đi cạnh Sương, còn Sương viết thư về cho Lâm mỗi tối.",
-        "Không ai thấy Thế Xung ghé phủ Trần Bình đêm trước khi lên đường."
+        "Đêm trước khi lên đường, Thế Xung ghé phủ Trần Bình — chuyện bình thường, Hoài Sương là con nuôi của y, anh em họ Cái lớn lên trong phủ ấy."
       ],
       "setups_payoffs": [
         "SETUP: mật lệnh thám thính Ngô Vương",
@@ -734,13 +736,15 @@
       "purpose": "Khép Quyển I: Nhân Kiệt được giao săn lùng chính mình; nghi ngờ dồn về Duy Thành.",
       "beats": [
         "Tin đồn thái tử đã thành phong trào; Ba Xuyên giáo nổi dậy lẻ tẻ ở các châu. Hồng Khải đế hạ chỉ: Nội Vệ phải tìm ra kẻ mạo danh Anh Mẫn thái tử.",
-        "Trần Bình giao việc ấy cho Nhân Kiệt — thần thám danh tiếng nhất kinh thành — và đặt lên bàn lá thư của Thế Xung, không nói gì.",
+        "Trần Bình giao việc ấy cho Nhân Kiệt — thần thám danh tiếng nhất kinh thành. Y cho hắn biết Thế Xung đã viết thư tố hắn bỏ sót trong vụ Hoan Châu, rồi đốt lá thư trước mặt hắn: Ta biết ngươi có lý do. Ta tin ngươi. Không ai thấy bản sao nằm trong ngăn bàn y.",
         "Nhân Kiệt trải mọi manh mối ra: dấu sóng nước, gã thương nhân không gốc gác, lễ nghi hoàng tộc, ngày tháng. Tất cả chỉ về một người.",
         "Hình ảnh khép quyển: hắn viết lên giấy ba chữ Lê Duy Thành, khoanh tròn, rồi đặt bút xuống cạnh cuốn án lục của vị thần thám mà hắn mượn tên."
       ],
       "setups_payoffs": [
         "MISDIRECT: kết quyển trỏ thẳng vào Duy Thành",
-        "REREAD: Nhân Kiệt được giao tìm chính mình"
+        "REREAD: Nhân Kiệt được giao tìm chính mình",
+        "MISDIRECT: Trần Bình là người thầy đáng tin",
+        "REREAD: bản sao thư tố giác — đòn bẩy của Trần Bình"
       ],
       "target_words": 3500,
       "status": "planned"

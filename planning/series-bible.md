@@ -1,6 +1,6 @@
 # THẦN THÁM — Kim Tử Anh truyện (series bible)
 
-> Trạng thái: **kế hoạch tạm, bản 11**.
+> Trạng thái: **kế hoạch tạm, bản 12**.
 > - **[TG]** = canon tác giả xác nhận trong trò chuyện.
 > - **[WIKI]** = lấy từ wiki vũ trụ Huyền Huyễn (`antialberteinstein/fandomwiki-generator`, `content/`).
 > - ⚑ = đề xuất của tôi.
@@ -29,6 +29,10 @@
    - Lý do bề ngoài [TG]: năm 1245 Thế Xung chỉ **thuyên chuyển từ Tả vệ sang Hữu vệ**. Võ Tài Nhân thay vào chỗ trống. ⚑ Việc thuyên chuyển hợp lý tới mức không ai hỏi; Hữu vệ chuyên điều tra quan lại trong cung, nên Xung có lý do để biến mất khỏi tầm mắt của nhóm.
    - ⚑ Năm 1247 có thể nổ cú lật kép: Nhân Kiệt là thái tử, và "thừa tướng" là bạn cũ của hắn đeo mặt nạ.
    - ⚑ Mọi manh mối dẫn tới Trần Bình trước 1247 phải đi qua kênh của phe Phan, để người đọc đổ cho Phan.
+7. **Không làm lộ sớm Trần Bình là chủ mưu** [TG]. Nghi ngờ phải dồn về Phan Đình Nhân và phe cánh.
+   - Trần Bình đóng vai **"người thầy"**: nâng đỡ Nhân Kiệt, giúp hắn tìm hung thủ vụ Thiên Bảo. Thực tế y âm thầm theo dõi tiến độ, điều hướng cuộc điều tra, thậm chí ngăn cản nó. Bước đầu tiên là cử Nhân Kiệt đi Hoan Châu [TG].
+   - **Vì sao y không loại Nhân Kiệt** [TG]: y cần âm thầm theo dõi tiến độ, điều hướng hoặc ngăn cản cuộc điều tra. ⚑ Giết Nhân Kiệt chỉ khiến kẻ khác, mà y không kiểm soát được, nhặt lại hồ sơ. Giữ hắn bên mình thì y biết hắn biết gì, vào lúc nào.
+   - ⚑ Quy tắc viết: mọi hành động của Trần Bình trước 1247 phải đọc được như của một người thầy tốt khi đọc lần đầu, và như của kẻ cản đường khi đọc lại. Không có câu kể chuyện nào được nói thẳng ý đồ của y.
 
 ## 1. Premise
 
@@ -101,12 +105,15 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 |---|---|
 | 1169 | Lý Thế Vinh ra đời [TG]. |
 | 1204 | Trần Bình ra đời [WIKI]. |
-| 1210 | Lý Nhân Quý đánh Linh Sơn [WIKI]. |
+| 1163 | Lý Nhân Kiệt đời đầu ra đời [TG]. |
+| 1195 | Lý Nhân Quý, con trưởng của Lý Nhân Kiệt đời đầu, ra đời [TG]. |
+| 1210 | Lý Nhân Quý đánh Linh Sơn, giết Khương Duy [WIKI][TG]. |
+| 1225 | Lý Nhân Kiệt đời đầu mất [TG]. |
 | 1218 | Hà hoàng hậu và Kim Tử Đức ra đời [WIKI]. |
 | 1222 | Kim Tử Anh và Lý Thanh Anh ra đời [WIKI]. |
 | 1228 | Tử Anh được phong Việt vương. |
 | 1231 | Thừa Văn bị phế [WIKI]. |
-| 1232 | Đại bại Đinh Nhất; Tử Đức thoát chết, thành Lê Duy Thành [WIKI]. Thừa Ly ám sát Thế Tông, sửa di chiếu [TG][WIKI]. Tử Anh nghĩ kế đổ tội cho Lý Nhân Quý; họ Lý bị tru di [TG]. Lưu Trọng Huy, theo mật lệnh của Tử Anh, cứu Thanh Anh về Hoan Châu [TG]. Tử Anh làm thái tử. |
+| 1232 | Đại bại Đinh Nhất; Tử Đức thoát chết, thành Lê Duy Thành [WIKI]. Thừa Ly ám sát Thế Tông, sửa di chiếu [TG][WIKI]. Tử Anh nghĩ kế đổ tội cho Lý Nhân Quý (1195–1232); họ Lý bị **tru di cửu tộc** [TG]. Lưu Trọng Huy, theo mật lệnh của Tử Anh, cứu Thanh Anh về Hoan Châu [TG]. Tử Anh làm thái tử. |
 | 1236 | Thừa Văn bị ám sát [WIKI]. Lạng Sơn Vương Nguyễn Trường Thịnh nổi loạn, giết Nhân Tông [TG][WIKI]. Hồng Khải đế lên ngôi. Hà hoàng hậu ám sát hụt Tử Anh, khiến ông mất trí nhớ [WIKI]. Họ Bùi lưu vong tới Linh Sơn; Bùi Trường Hải giết cả nhà Lý Kinh Hải [TG]. Lý Thiên Bảo trao cho Tử Anh thân phận Lý Bính [TG]. ⚑ Triều đình tuyên bố thái tử đã chết và xây mộ giả. |
 | 1238 | Kim An Định ra đời, con ruột của Trần Bình [TG][WIKI]. |
 | 1239 | Án oan Lưu Trọng Huy ở Hoan Châu; Thanh Anh thành tỳ nữ Như Ý [TG]. |
@@ -124,6 +131,7 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 
 - Kẻ giết: Trần Bình [TG], theo lời xúi của Hà hoàng hậu [WIKI].
 - Lý do: Thiên Bảo biết thái tử Kim An Định là con của Trần Bình với Hà hoàng hậu [TG], và biết Hà hoàng hậu từng mưu hại hoàng tử [WIKI].
+- Trần Bình không loại Nhân Kiệt mà giữ hắn bên mình để theo dõi và điều hướng cuộc điều tra [TG] (xem mục 0, điều 7).
 - ⚑ Hung khí: Hàn Tâm tán, ngự dược trong cung. Năm 1232 thuốc từng được xuất kho để giết Thế Tông.
 - **Nơi Thiên Bảo chết** [TG]: gần kinh thành.
 - **Kẻ bị bắt thay** [TG]: **Hạ Tử Linh**, đẹp như tiên giáng trần; Thiên Bảo say mê nàng.
@@ -194,7 +202,8 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 | 6 | Hạ Vĩnh Bình (sinh 1210) | 1235– |
 
 - ⚑ Nhận xét về các mốc, chưa phải canon:
-  - **Lý Nhân Quý giết Khương Duy** trong trận năm 1210 [TG]. Mối thù của Linh Sơn với họ Lý vì thế là thù giết người sáng lập. ⚑ Thanh Anh là cháu nội của kẻ đã giết cụ tổ Khương Tử, một mầm xung đột tiềm tàng giữa hai người đồng hành tương lai.
+  - **Lý Nhân Quý giết Khương Duy** trong trận năm 1210 [TG]. Mối thù của Linh Sơn với họ Lý vì thế là thù giết người sáng lập. ⚑ Thanh Anh là **con gái** của kẻ đã giết cụ tổ Khương Tử, một mầm xung đột tiềm tàng giữa hai người đồng hành tương lai. (Bản 11 ghi nhầm là "cháu nội"; đã sửa.)
+  - Lưu ý mốc: theo năm sinh tác giả đưa (1195), năm 1210 Lý Nhân Quý mới 15 tuổi. Có thể ông ra trận rất sớm dưới trướng người khác; cần tác giả xác nhận (Q-NQ).
   - Năm 1235, **Khương Tú nhường ngôi** cho Hạ Vĩnh Bình, vì tin ông đủ sức vực dậy Linh Sơn sau 20 năm Khương Ức cai trị làm môn phái suy yếu nặng [TG]. ⚑ Khương Tử là con của vị chưởng môn bị coi là đã làm Linh Sơn suy tàn; đó là một gánh nặng y mang theo.
 
 ### Hạ Tử Linh [TG]
@@ -244,6 +253,13 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 ### Trần Bình (1204)
 - Quan cai quản Nội Vệ; xuất thân ăn mày, được Lý Nhân Quý cứu rồi phản bội [WIKI].
 - Giết Thiên Bảo (1242) [TG]; cử Nhân Kiệt thám thính Ngô Vương (1244) [TG]; giết Phan Đình Nhân (1245) [TG]; đầu độc Hồng Khải đế (1249) [WIKI].
+- **Mặt nạ "người thầy"** [TG]: trước mắt Nhân Kiệt và người đọc, y là cấp trên che chở, người đứng ra chống phe Phan và giúp hắn truy kẻ giết Thiên Bảo. Thực tế y theo dõi, điều hướng và ngăn cản cuộc điều tra.
+- ⚑ Các bước điều hướng trong Quyển I. Mỗi bước đều có một lý do "tốt" bề ngoài:
+  - Vụ 1: che cho Nhân Kiệt trước thừa tướng. Bề ngoài là bảo vệ thuộc hạ; thật ra là dùng hắn làm dao đâm Phan.
+  - Vụ 2: cho thêm thời gian, rồi nhận cuốn sổ rửa tiền từ Thế Xung. Bề ngoài là gom chứng cứ chống Phan; thật ra là giữ đòn bẩy cho năm 1245.
+  - Vụ 3: cho xem sổ ngự dược nhưng sai Thế Xung đi kèm. Gạt tờ trình lật án Tử Linh: "chưa phải lúc đụng tới thừa tướng".
+  - Cuối vụ 3: cử đi Hoan Châu, bề ngoài là "đưa ngươi tránh xa phe Phan sau vụ vượt ngục" [TG: bước ngăn cản đầu tiên].
+  - Kết quyển: nói đã đốt thư tố giác của Thế Xung để bảo vệ Nhân Kiệt, trong khi vẫn giữ một bản sao.
 - ⚑ Y ủng hộ Nhân Kiệt chống phe Phan vì cần một lưỡi dao sạch tay.
 
 ### Phan Đình Nhân — thừa tướng; tham quan, bạo chính [TG].
@@ -306,5 +322,9 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
   - Lý Nhân Quý giết Khương Duy; Khương Tú nhường ngôi cho Hạ Vĩnh Bình.
   - Bùi Vân Chi (= Bùi Trường Linh) mất khi sinh Kim Tử Danh.
   - Tử Linh xuất hiện ở vụ 3 và được Nhân Kiệt giải thoát.
-- **Q-ESC.** Nhân Kiệt dựng vụ vượt ngục bằng cách nào, và ai bị đổ tội? (Đề xuất: dựng thành một vụ người Linh Sơn tới cướp tù.)
-- **Q-TBX.** Trần Bình có nghi Nhân Kiệt đứng sau vụ vượt ngục không? (Đề xuất: có nghi nhưng không chứng minh được. Đây là lý do thật để y đẩy Nhân Kiệt đi Hoan Châu.)
+- **Đã chốt** (bản 12):
+  - Vụ vượt ngục đổ cho người Linh Sơn tới cướp tù.
+  - Trần Bình nghi Nhân Kiệt nhưng không chứng minh được.
+  - Trần Bình đóng vai người thầy; không làm lộ sớm.
+  - Năm sinh năm mất của Lý Nhân Quý và Lý Nhân Kiệt đời đầu.
+- **Q-NQ.** Năm 1210 Lý Nhân Quý mới 15 tuổi mà đã đánh Linh Sơn và giết Khương Duy: giữ nguyên, hay chỉnh năm sinh hoặc người cầm quân?
