@@ -25,10 +25,12 @@
     "relationships": {
       "Lý Thế Vinh": "sư phụ",
       "Lý Thiên Bảo": "sư huynh (chết 1242, vụ án chưa phá)",
-      "Lý Hoài Sương": "sư muội",
+      "Lý Hoài Sương": "đồng liêu Nội Vệ, con nuôi Trần Bình",
       "Cái Thế Xung": "bạn đồng hành phá án",
       "Khương Tử": "gặp ở vụ 1",
-      "Lê Duy Thành": "nghi phạm vụ 2, đối thủ trí tuệ"
+      "Lê Duy Thành": "nghi phạm vụ 2, đối thủ trí tuệ",
+      "Cái Thế Lâm": "đồng liêu Nội Vệ",
+      "Đặng Tử Linh": "nghi phạm chính thức vụ Thiên Bảo; hắn không tin nàng có tội"
     },
     "traits": [
       "suy luận và trí tuệ siêu việt — điểm nổi trội duy nhất",
@@ -42,7 +44,7 @@
   },
   "characters": {
     "Lý Thanh Anh": {
-      "role": "con gái Lý Nhân Quý (Đông Kỳ bát đại gia tộc); được Lưu Trọng Huy cứu 1232; tỳ nữ Như Ý từ 1239; đồng phạm huyết án Hoan Châu 1244, được Nhân Kiệt che giấu",
+      "role": "con gái Lý Nhân Quý (Đông Kỳ thất đại gia tộc); được Lưu Trọng Huy cứu 1232; tỳ nữ Như Ý từ 1239; đồng phạm huyết án Hoan Châu 1244, được Nhân Kiệt che giấu",
       "knows": [
         "Nhà mình bị vu tội giết vua năm 1232"
       ],
@@ -84,12 +86,11 @@
       "alias": "Bạch Chiến Giáp"
     },
     "Lý Hoài Sương": {
-      "role": "sư muội; em gái Thiên Bảo; y dược, độc dược (tạm)",
-      "provisional": true
+      "role": "con nuôi Trần Bình; người Nội Vệ; lớn lên cùng anh em họ Cái",
+      "love": "yêu Cái Thế Lâm; được Cái Thế Xung yêu"
     },
     "Cái Thế Lâm": {
-      "role": "anh; bộ đầu Nội Vệ giám; điềm tĩnh, kiếm nhanh (tạm)",
-      "provisional": true
+      "role": "anh Cái Thế Xung; Nội Vệ; được Hoài Sương yêu"
     },
     "Cái Thế Xung": {
       "role": "bộ đầu Nội Vệ, bạn đồng hành phá án của Nhân Kiệt; phục tùng Trần Bình vô điều kiện từ đầu; từ 1245 đội lốt Phan Đình Nhân",
@@ -97,11 +98,13 @@
         "tài nhại giọng",
         "biết Nhân Kiệt che tội cho Như Ý"
       ],
-      "skill": "cao thủ quyền cước, võ hơn Nhân Kiệt"
+      "skill": "cao thủ quyền cước, võ hơn Nhân Kiệt",
+      "love": "yêu Lý Hoài Sương"
     },
     "Khương Tử": {
-      "role": "đệ tử Linh Sơn; lên kinh tìm sư tỷ Đặng Tử Linh, vô tình thành nghi phạm vụ 1 (1243); về sau vào Nội Vệ",
-      "skill": "cao thủ, võ hơn Nhân Kiệt; giỏi độc dược và kỳ môn Linh Sơn"
+      "role": "đệ tử Linh Sơn bí mật xuất sơn tìm Đặng Tử Linh; xưng là thầy thuốc giang hồ; nghi phạm vụ 1; vào Nội Vệ cuối vụ 3 để tới gần thiên lao",
+      "skill": "cao thủ, võ hơn Nhân Kiệt; giỏi độc dược",
+      "secret": "không ai biết thân phận Linh Sơn"
     },
     "Lê Duy Thành": {
       "true_identity": "Kim Tử Đức (1218), anh ruột Tử Anh, Hắc Chiến Giáp (wiki)",
@@ -157,9 +160,8 @@
       "status": "bị giết cùng gia đình (1236)"
     },
     "Đặng Tử Linh": {
-      "role": "sư tỷ Linh Sơn của Khương Tử, mất tích",
-      "status": "tạm: mất tích khi điều tra hồ sơ Thái y viện 1232",
-      "provisional": true
+      "role": "em gái Đặng Quang Bình (chưởng môn Linh Sơn); xuất sơn làm nhiệm vụ, gặp Lý Thiên Bảo, quan hệ phức tạp",
+      "status": "bị Thiên Bảo giam vì biết thân phận; bị nhốt trong phòng khi Thiên Bảo bị giết; bị bắt làm nghi phạm (tạm: thiên lao Nội Vệ)"
     },
     "Lưu Trọng Huy": {
       "role": "dân thường, bạn thơ ấu của Tử Anh và Thanh Anh; 1232 cứu Thanh Anh theo mật lệnh Tử Anh (gộp La Vĩnh Quốc)",
@@ -197,7 +199,8 @@
     },
     "Phan Đình Nhân": {
       "role": "thừa tướng; tham nhũng, bạo chính",
-      "status": "bị Trần Bình giết 1245"
+      "status": "bị Trần Bình giết 1245",
+      "reader_role": "phản diện rõ ràng nhất trước 1247; cái chết 1245 giấu với người đọc"
     },
     "Trần Bình": {
       "born": 1204,
@@ -247,8 +250,8 @@
     },
     "Kim Tử Quân": {
       "born": 1213,
-      "role": "Ngô Vương, trưởng nữ tiên đế Nhân Tông, chị ruột Tử Anh, cai quản Hoan Châu, uy tín rất cao; Trần Bình nghi mưu phản",
-      "proposal": "nhận ra em trai nhưng im lặng (Q-N)"
+      "role": "Ngô Vương, trưởng nữ tiên đế, chị ruột Tử Anh, cai quản Hoan Châu; Trần Bình nghi mưu phản",
+      "recognition": "không nhận ra em trai; lần cuối gặp năm 1234"
     },
     "Lý Nhân Kiệt (đời đầu)": {
       "born": 1165,
@@ -282,11 +285,22 @@
       "status": "chết lần lượt 1243 (người thứ nhất vì cơ quan mộ, hai người sau bị sát thủ giết bắt chước lời nguyền — đề xuất)"
     },
     "Võ Tài Nhân": {
-      "role": "gia nhập nhóm về sau (tạm Quyển II); hơn Nhân Kiệt về đầu óc, thua về thể chất"
+      "role": "con đích tử Võ Thượng Nguyên (Võ quốc công, Sơn Đông huyện – Kinh Châu); Đông Kỳ thất đại gia tộc; xuất hiện sau 1245 thay Thế Xung; thua Nhân Kiệt ở hội thi văn võ xuất chúng",
+      "skill": "hơn Nhân Kiệt về trí, thua về thể chất",
+      "saying": "Nhất Tử Anh, nhị Tài Nhân, tam Nhân Kiệt"
     },
     "Nhà sư chùa Vạn Phúc": {
-      "role": "cựu học trò Thái y viện, xuất gia 1232; giữ trang sổ ngự dược",
-      "status": "bị giết 1243 (vụ 3)"
+      "role": "cựu y quan Thái y viện, xuất gia 1232; khám thi thể Thiên Bảo năm 1242 và làm sai biên bản; giữ trang sổ đường dây ngự dược chui của Phan",
+      "status": "bị phe Phan giết 1243 (vụ 3)"
+    },
+    "Đặng Quang Bình": {
+      "role": "chưởng môn Linh Sơn, thực chất là lãnh đạo Bắc Bồn Tử"
+    },
+    "Võ Thượng Nguyên": {
+      "role": "Võ quốc công, trấn giữ Sơn Đông huyện – Kinh Châu; cha Võ Tài Nhân"
+    },
+    "Võ Thiên Hỷ": {
+      "role": "hoàng hậu Kim Thái Tổ, mẹ Kim Thái Tông (wiki ghi tên Võ Thiện Nhân)"
     }
   },
   "characters_created": [
@@ -324,7 +338,10 @@
     "Phan Đình Nhân",
     "Quan huyện Hoan Châu",
     "Trần Bình",
+    "Võ Thiên Hỷ",
+    "Võ Thượng Nguyên",
     "Võ Tài Nhân",
+    "Đặng Quang Bình",
     "Đặng Tử Linh",
     "Đồng Thái Huy"
   ]

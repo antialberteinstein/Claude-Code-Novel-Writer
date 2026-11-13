@@ -24,6 +24,14 @@
     {
       "name": "Chùa Vạn Phúc",
       "notes": "kinh thành; tháp chuông nơi nhà sư bị giết (vụ 3, 1243)"
+    },
+    {
+      "name": "Sơn Đông huyện – Kinh Châu",
+      "notes": "do Võ quốc công Võ Thượng Nguyên trấn giữ"
+    },
+    {
+      "name": "Thiên lao Nội Vệ",
+      "notes": "tạm: nơi giam Đặng Tử Linh từ 1242"
     }
   ],
   "institutions": [
@@ -40,8 +48,8 @@
       "notes": "môn phái võ lâm do Quốc công bảo trợ; chưởng môn Lý Thế Vinh"
     },
     {
-      "name": "Đông kỳ bát đại gia tộc",
-      "notes": "tám thế tộc cực lớn; họ Lý của Lý Nhân Quý là một (chi tiết: Q-J)"
+      "name": "Đông Kỳ thất đại gia tộc",
+      "notes": "Trần, Kim, Võ, Lý, Đào, Dương, Phùng; họ Lý của Lý Nhân Quý, họ Võ của Võ quốc công"
     },
     {
       "name": "Ba Xuyên giáo",
@@ -49,7 +57,7 @@
     },
     {
       "name": "Linh Sơn",
-      "notes": "môn phái của Khương Tử, Đặng Tử Linh; bị Lý Nhân Quý đánh hàng năm 1210 nên thù họ Lý; họ Bùi lưu vong tới đây năm 1236"
+      "notes": "thực chất là ngoại quốc Bắc Bồn Tử, tư thù với hoàng gia Kim; chưởng môn Đặng Quang Bình; bị Lý Nhân Quý đánh hàng 1210; họ Bùi lưu vong tới đây 1236; sư môn Khương Tử, Đặng Tử Linh"
     },
     {
       "name": "Đông Kỳ / Tây Kỳ",
@@ -58,6 +66,10 @@
     {
       "name": "Tử Nguyệt giáo",
       "notes": "giáo chủ từng cứu Kim Tử Đức (wiki)"
+    },
+    {
+      "name": "Hội thi văn võ xuất chúng",
+      "notes": "thi cả văn lẫn võ; Nhân Kiệt thắng Võ Tài Nhân (sau 1245)"
     }
   ],
   "magic_rules": [],

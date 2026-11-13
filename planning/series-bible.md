@@ -1,6 +1,6 @@
 # THẦN THÁM — Kim Tử Anh truyện (series bible)
 
-> Trạng thái: **kế hoạch tạm, bản 7**.
+> Trạng thái: **kế hoạch tạm, bản 8**.
 > - **[TG]** = canon tác giả xác nhận trong trò chuyện.
 > - **[WIKI]** = lấy từ wiki vũ trụ Huyền Huyễn (`antialberteinstein/fandomwiki-generator`, `content/`).
 > - ⚑ = đề xuất của tôi.
@@ -21,9 +21,14 @@
    - ⚑ Lưu ý: Duy Thành cũng mang sẹo bỏng (từ trận Đinh Nhất 1232, theo wiki). Hai anh em cùng bị lửa che mặt. Chi tiết này phục vụ hướng lạc: người đọc dễ gắn "kẻ có sẹo bỏng, gốc gác mù mờ" với Duy Thành hơn là với viên thám quan mà họ theo chân từ chương 2.
 5. ⚑ Hệ quả cho cách viết:
    - Mọi gợi ý về thân phận chỉ được thấy khi **đọc lại**. Lần đọc đầu, chúng phải có một cách giải thích khác hợp lý, thường là hướng về Duy Thành.
-   - Không viết chương theo góc nhìn của những người biết sự thật (Thế Vinh, Ngô Vương) theo cách để lộ điều họ biết.
+   - Không viết chương theo góc nhìn của những người biết sự thật (Thế Vinh) theo cách để lộ điều họ biết.
    - Nhân Kiệt tin thật lòng rằng mình là Lý Bính, nên góc nhìn của hắn không có gì phải giấu.
    - Câu hỏi "tội của cái tôi đã quên" chỉ nổ ra trọn vẹn khi ký ức trở lại ở cuối truyện. Trước đó, nó tồn tại dưới dạng trớ trêu cho người đọc lần hai.
+6. **Phan Đình Nhân là phản diện rõ ràng nhất trước 1247** [TG]. Trước mốc đó, với người đọc, ông ta là kẻ thù chính, dù thực tế đã bị Trần Bình giết năm 1245.
+   - ⚑ Vì vậy cái chết năm 1245 phải **giấu khỏi người đọc**. "Phan Đình Nhân" sau 1245 là Thế Xung đội lốt, nhưng người đọc tưởng vẫn là ông ta.
+   - ⚑ Thế Xung rời nhóm năm 1245 với một lý do bề ngoài (bị điều đi, hoặc "mất tích"). Võ Tài Nhân thay vào chỗ trống.
+   - ⚑ Năm 1247 có thể nổ cú lật kép: Nhân Kiệt là thái tử, và "thừa tướng" là bạn cũ của hắn đeo mặt nạ.
+   - ⚑ Mọi manh mối dẫn tới Trần Bình trước 1247 phải đi qua kênh của phe Phan, để người đọc đổ cho Phan.
 
 ## 1. Premise
 
@@ -59,10 +64,14 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 - Phe **Đông Kỳ / Tây Kỳ** [WIKI]:
   - Phe Khải Huy (Nhân Tông, Tử Anh, Ngô Vương) mang danh Tây Kỳ.
   - Phe Hồng Khải đế và họ Lý hoàng hậu mang danh Đông Kỳ.
-  - Họ Lý của Lý Nhân Quý thuộc **Đông Kỳ bát đại gia tộc** [TG].
+  - **Đông Kỳ thất đại gia tộc** [TG]: Trần, Kim, Võ, Lý, Đào, Dương, Phùng. Họ Lý của Lý Nhân Quý và họ Võ của Võ quốc công đều thuộc nhóm này. (Các bản trước ghi "bát đại"; đã sửa theo tác giả.)
 - **Nội Vệ giám**: do Thế Tông lập; từng do Lý Nhân Kiệt đời đầu quản lý [WIKI]; năm 1243 do **Trần Bình** cai quản [TG]. Từ vụ mộ thái tử, Nội Vệ công khai đối đầu phe thừa tướng Phan Đình Nhân [TG].
 - **Mộ Anh Mẫn thái tử**: mộ giả [TG]. ⚑ Do Hồng Khải đế cho xây sau khi tuyên bố Tử Anh đã chết năm 1236. Trong quan tài chỉ có áo liệm và đá. Phe Phan Đình Nhân lợi dụng ngôi mộ làm kho giấu bạc bẩn, vì không ai dám đào mộ một thái tử.
-- **Linh Sơn**: năm 1210 bị Lý Nhân Quý đánh hàng, từ đó thù họ Lý [WIKI]; năm 1236 họ Bùi lưu vong tới đây [TG]; sư môn của Khương Tử và Đặng Tử Linh [TG].
+- **Linh Sơn = Bắc Bồn Tử** [TG]: thực chất là một nước ngoài, có tư thù với hoàng gia nhà Kim. Chưởng môn **Đặng Quang Bình** có thể coi là người đứng đầu Bắc Bồn Tử.
+  - Năm 1210 bị Lý Nhân Quý đánh hàng, phải cống nộp, từ đó thù họ Lý [WIKI]. Wiki còn nhắc một nhân vật Linh Sơn tên Hạ Vĩnh Bình mang thù này (chưa rõ quan hệ với Đặng Quang Bình).
+  - Năm 1236 họ Bùi lưu vong tới đây [TG], tức là lưu vong ra nước ngoài.
+  - Là sư môn của Khương Tử và Đặng Tử Linh [TG]. Người Linh Sơn ở kinh thành là thân phận nguy hiểm; Khương Tử phải giấu.
+  - ⚑ Hoan Châu, đất của người Bồn Man [WIKI], nằm ngay phía nam: "Bắc Bồn Tử" và "Bồn Man" có thể cùng gốc.
 - **Hoan Châu**: đất phong của **Ngô Vương Kim Tử Quân** [WIKI][TG].
 
 ## 4. Hoàng tộc và mốc lịch sử
@@ -104,6 +113,11 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 - Kẻ giết: Trần Bình [TG], theo lời xúi của Hà hoàng hậu [WIKI].
 - Lý do: Thiên Bảo biết thái tử Kim An Định là con của Trần Bình với Hà hoàng hậu [TG], và biết Hà hoàng hậu từng mưu hại hoàng tử [WIKI].
 - ⚑ Hung khí: Hàn Tâm tán, ngự dược trong cung. Năm 1232 thuốc từng được xuất kho để giết Thế Tông.
+- **Kẻ bị bắt thay** [TG]: **Đặng Tử Linh**. Lúc Thiên Bảo bị giết, nàng đang bị chính anh giam trong phòng, vì anh biết thân phận Linh Sơn của nàng. Nàng bị nghi và bị bắt.
+  - ⚑ Nàng vẫn bị giam ở thiên lao Nội Vệ. Đây là con dê tế thần hoàn hảo cho Trần Bình: một gián điệp ngoại quốc, có mặt tại hiện trường. Nàng cũng là con tin có giá trước Bắc Bồn Tử.
+  - ⚑ Nhân Kiệt chưa bao giờ tin nàng là hung thủ, nhưng không chứng minh được. Hồ sơ của hắn "chưa đóng" chính vì nàng.
+  - ⚑ Địa điểm Thiên Bảo chết: tạm đặt ở kinh thành, không phải Nam Hải (đề bài ban đầu nói Nhân Kiệt phải "tức tốc đi điều tra"). Xem Q-TB.
+- ⚑ **Kênh đánh lạc hướng**: Trần Bình lấy Hàn Tâm tán qua đường dây buôn ngự dược chui của phe Phan. Mọi dấu vết vì thế dẫn tới Phan Đình Nhân, nên cả Nhân Kiệt lẫn người đọc nghi Phan giết Thiên Bảo.
 - Lý Thế Vinh biết hết nhưng ngồi yên xem kịch; động cơ chưa xác định [TG].
 - Trần Bình không biết thân phận Nhân Kiệt, nhưng biết hắn điều tra cái chết của Thiên Bảo [TG]. ⚑ Y nhận Nhân Kiệt vào Nội Vệ để giữ kẻ thù trong tầm mắt.
 - ⚑ Đầu truyện, Nhân Kiệt vẫn giữ một tập hồ sơ riêng về cái chết của sư huynh, chưa đóng.
@@ -129,19 +143,36 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 - ⚑ Bản thân Duy Thành có thể cũng đang đi tìm Tử Anh.
 
 ### Khương Tử
-- Đệ tử Linh Sơn, lên kinh tìm sư tỷ Đặng Tử Linh, vô tình thành nghi phạm vụ 1 [TG]; về sau vào Nội Vệ [TG].
+- Đệ tử Linh Sơn, **bí mật xuất sơn** đi tìm sư tỷ Đặng Tử Linh. Không ai biết thân phận của ông [TG].
+- Lên kinh và vô tình thành nghi phạm vụ 1 [TG]; về sau vào Nội Vệ [TG]. ⚑ Ông vào Nội Vệ để được tới gần thiên lao, nơi giam Tử Linh.
 - Là cao thủ, võ công hơn Nhân Kiệt [TG].
-- ⚑ Ông giỏi độc dược và kỳ môn của Linh Sơn, và đó chính là lý do ông bị nghi. Ông để mình bị bắt chứ không phải không thoát được.
+- ⚑ Ông giỏi độc dược; ông để mình bị bắt chứ không phải không thoát được.
+- ⚑ Chương 1 không được để lộ ông là người Linh Sơn. Ông xưng là thầy thuốc giang hồ.
+- ⚑ Bước ngoặt: ông phát hiện chính viên thám quan đã minh oan cho mình là người duy nhất từng nghi ngờ tội của sư tỷ ông.
+
+### Đặng Tử Linh [TG]
+- Em gái Đặng Quang Bình, chưởng môn Linh Sơn. Xuất sơn làm nhiệm vụ, gặp Lý Thiên Bảo và có quan hệ phức tạp với anh.
+- Bị Thiên Bảo giam vì anh biết thân phận nàng. Lúc Thiên Bảo bị giết, nàng đang bị nhốt trong phòng, nên bị nghi và bị bắt.
+
+### Đặng Quang Bình [TG]
+- Chưởng môn Linh Sơn, có thể coi là người đứng đầu Bắc Bồn Tử.
 
 ### Võ Tài Nhân [TG]
-- Gia nhập nhóm về sau (⚑ Quyển II). Hơn Nhân Kiệt về đầu óc, thua về thể chất.
+- Con đích tử của **Võ Thượng Nguyên** (Võ quốc công), người trấn giữ Sơn Đông huyện, Kinh Châu. Họ Võ là thế tộc Đông Kỳ lâu đời, thuộc thất đại gia tộc.
+- Tổ tiên: **Võ Thiên Hỷ**, hoàng hậu của Kim Thái Tổ, mẹ ruột Kim Thái Tông [TG]. (Wiki ghi tên hoàng hậu là "Võ Thiện Nhân"; xem Q-VH.)
+- Xuất hiện **sau năm 1245**, thay chỗ Cái Thế Xung trong nhóm [TG].
+- Câu truyền miệng: **"Nhất Tử Anh, nhị Tài Nhân, tam Nhân Kiệt"** [TG].
+  - ⚑ Trớ trêu cho người đọc lần hai: hạng nhất và hạng ba là cùng một người.
+- Tham gia hội thi **"văn võ xuất chúng"** (thi cả văn lẫn võ) và thua Lý Nhân Kiệt. Nhờ thắng Tài Nhân, danh tiếng Nhân Kiệt vang xa hơn bao giờ hết [TG].
+  - ⚑ Tài Nhân giỏi hơn về trí nhưng thua về thể chất, nên thua ở tổng điểm văn võ. Đây là cách duy nhất "tam Nhân Kiệt" thắng được "nhị Tài Nhân". Kẻ thua trở thành bạn đồng hành.
+- Hơn Nhân Kiệt về đầu óc, thua về thể chất [TG].
 
 ### Kim Trọng — thương nhân [TG]
 - Chuyên rửa tiền cho thừa tướng Phan Đình Nhân. Liên quan gián tiếp tới vụ 1; chết trong vụ 2.
 
 ### Đồng Thái Huy — thần y [TG]
 - Chữa cho Nhân Kiệt gần cuối bộ truyện và trả lại ký ức cho hắn.
-- ⚑ Nên gieo tên tuổi ông từ sớm, ví dụ qua lời Hoài Sương hay một lời đồn về một thần y không ai tìm được.
+- ⚑ Gieo tên từ vụ 3: Khương Tử nói chỉ thần y họ Đồng từng giải được Hàn Tâm tán.
 
 ### Lý Thanh Anh / Như Ý (1222)
 - Con gái Lý Nhân Quý; hôn thê từ nhỏ của Tử Anh; được Huy cứu; lánh nạn Hoan Châu dưới tên Như Ý; đồng phạm huyết án Hoan Châu năm 1244, được Nhân Kiệt che tội [TG][WIKI].
@@ -154,7 +185,8 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 
 ### Kim Tử Quân — Ngô Vương (1213)
 - Trưởng nữ tiên đế, chị ruột Tử Anh, uy tín rất cao ở Hoan Châu. Trần Bình nghi bà mưu phản và bí mật cử Nhân Kiệt đi thám thính [TG].
-- ⚑ Bà có thể nhận ra em trai (Q-N). Nếu có, phản ứng của bà phải đọc được như sự cảnh giác của một vương gia trước tai mắt của triều đình.
+- **Bà không nhận ra em trai** [TG]. Lần cuối bà gặp Tử Anh là năm 1234, khi ông 12 tuổi; đến năm 1244 ông đã 22 tuổi, ngoại hình và tính cách khác hẳn.
+- ⚑ Bà chỉ coi Nhân Kiệt là tai mắt của Trần Bình, và đối xử với hắn đúng như vậy.
 
 ### Trần Bình (1204)
 - Quan cai quản Nội Vệ; xuất thân ăn mày, được Lý Nhân Quý cứu rồi phản bội [WIKI].
@@ -163,12 +195,13 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 
 ### Phan Đình Nhân — thừa tướng; tham quan, bạo chính [TG].
 
-### Cái Thế Xung
-- Bạn đồng hành phá án của Nhân Kiệt; cao thủ, võ công hơn Nhân Kiệt; phục tùng Trần Bình vô điều kiện; từ năm 1245 đội lốt Phan Đình Nhân [TG].
-
-### Cái Thế Lâm — anh của Thế Xung (⚑ vai trò chưa chốt).
-
-### Lý Hoài Sương — ⚑ sư muội, em gái Thiên Bảo, giỏi y dược (Q-A).
+### Bộ ba Lâm – Xung – Sương [TG]
+- **Cái Thế Lâm** (anh), **Cái Thế Xung** (em) và **Lý Hoài Sương** lớn lên cùng nhau, hết sức thân thiết.
+- Có mối tình tay ba nhập nhằng: **Xung yêu Sương, Sương yêu Lâm**.
+- **Cái Thế Xung**: bạn đồng hành phá án của Nhân Kiệt; cao thủ, võ hơn Nhân Kiệt; phục tùng Trần Bình vô điều kiện; từ năm 1245 đội lốt Phan Đình Nhân [TG].
+- **Lý Hoài Sương**: con nuôi của Trần Bình, đồng thời là người của Nội Vệ [TG]. Không phải người Nam Hải phái, cũng không phải em Thiên Bảo; các bản trước sai điểm này, đã sửa.
+- ⚑ Cả ba đều gắn với Trần Bình. Khi Trần Bình lộ mặt, mỗi người buộc phải chọn: Xung đã chọn từ đầu; Sương phải chọn giữa cha nuôi và sự thật; Lâm phải chọn giữa em trai và lẽ phải.
+- ⚑ Tình cảm tay ba làm đậm bi kịch của Xung: y đeo mặt nạ Phan Đình Nhân, rời xa người mình yêu, còn nàng thì vẫn yêu anh trai y.
 
 ### Hà hoàng hậu (1218)
 - Hoàng hậu của Hồng Khải đế; mẹ An Định (cha ruột là Trần Bình); năm 1236 ám sát hụt Tử Anh [WIKI][TG].
@@ -185,27 +218,29 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
 | Quyển | Năm | Vụ án | Tuyến chính |
 |---|---|---|---|
 | **I. Lời Nguyền Mộ Thái Tử** | 1243–1244 | 1. Lời nguyền mộ thái tử · 2. Cái chết của Kim Trọng · 3. Tháp chuông chùa Vạn Phúc · 4. Huyết án Hoan Châu | Nội Vệ đối đầu Phan Đình Nhân; mộ thái tử là mộ giả; tin đồn thái tử còn sống; Duy Thành thành tâm điểm nghi ngờ; manh mối thật đầu tiên về Hàn Tâm tán; Như Ý và cái chết của Huy. |
-| **II** | 1244–1245 | chưa chốt | Võ Tài Nhân gia nhập nhóm (⚑); truy kẻ giết Thiên Bảo; Ba Xuyên giáo lớn mạnh; kết quyển: Trần Bình giết Phan Đình Nhân (1245). |
-| **III** | 1245–1247 | chưa chốt | Chiến tranh thiên hạ; "Phan Đình Nhân" giả; khoảng 1247 Thế Vinh tiết lộ thân phận [TG]; cú lật: không phải Duy Thành mà là Nhân Kiệt. |
+| **II** | 1244–1245 | chưa chốt | Truy kẻ giết Thiên Bảo; Phan Đình Nhân thành kẻ thù số một; Ba Xuyên giáo lớn mạnh; năm 1245 Phan bị giết **trong bóng tối** (người đọc không biết); Thế Xung rời nhóm. |
+| **III** | 1245–1247 | chưa chốt | Hội thi văn võ xuất chúng: Nhân Kiệt thắng Võ Tài Nhân, Tài Nhân gia nhập [TG]; chiến tranh thiên hạ; "thừa tướng" ngày càng tàn bạo; khoảng 1247 Thế Vinh tiết lộ thân phận [TG]; cú lật: không phải Duy Thành mà là Nhân Kiệt (⚑ kèm cú lật Phan giả). |
 | **IV** | 1247–1249 | chưa chốt | Nhân Kiệt tự nhận mình là Tử Anh và lập kế hoạch giành lại ngôi dù không có ký ức [TG]; diệt Trần Bình; Thanh Anh giả Hà hoàng hậu (1249). |
 | **V** | 1249–1253 + 1260 | chưa chốt | Việt Vương đối đầu Thanh Anh; Đồng Thái Huy trả lại ký ức, kèm tội năm 1232; đăng cơ 1253; vĩ thanh 1260. |
 
 ### Vụ 3 (Quyển I) — Án tháp chuông chùa Vạn Phúc [TG chọn]
 - Một nhà sư "tự treo cổ" trong tháp chuông khóa trong. Ông từng là học trò Thái y viện, xuất gia năm 1232.
-- Khương Tử có lý do riêng: Đặng Tử Linh từng tìm gặp nhà sư này.
-- Lời giải dẫn Nhân Kiệt tới sổ ngự dược và tên độc **Hàn Tâm tán**, xuất kho năm 1232 và mùa xuân năm 1242 (tên người lĩnh bị cạo). Đây là manh mối thật đầu tiên của vụ Thiên Bảo.
-- ⚑ Gieo tên **Đồng Thái Huy**: Hoài Sương nói chỉ thần y họ Đồng biết giải Hàn Tâm tán.
+- ⚑ Năm 1242, chính nhà sư này đã được mời khám thi thể Thiên Bảo, nhận ra độc cung đình nhưng ghi vào biên bản một thứ khác. Vì thế lời giải của vụ 3 chứng minh được rằng một tù nhân bị nhốt như Đặng Tử Linh không thể có được thứ độc ấy. Khương Tử có lý do riêng để theo vụ này.
+- ⚑ Hung thủ do **phe Phan Đình Nhân** sai, vì nhà sư giữ trang sổ ghi lại đường dây buôn ngự dược chui của Phan. Phan là phản diện rõ ràng [TG].
+- Lời giải dẫn Nhân Kiệt tới sổ ngự dược và tên độc **Hàn Tâm tán**, xuất kho năm 1232 và mùa xuân năm 1242 (tên người lĩnh bị cạo). Nhân Kiệt và người đọc kết luận Phan có thể đã cung cấp thuốc giết Thiên Bảo. Kẻ thật (Trần Bình) chỉ mượn kênh của Phan.
+- Gieo tên **Đồng Thái Huy**: Khương Tử nói chỉ thần y họ Đồng biết giải Hàn Tâm tán.
 
 ## 8. Câu hỏi mở
 
-- **Đã chốt:**
-  - Vụ 3 là tháp chuông chùa Vạn Phúc.
-  - Mốc tiết lộ khoảng 1247.
-  - Sau khi được tiết lộ, Nhân Kiệt tự lập kế hoạch giành ngôi dù không có ký ức.
-  - Vụ Kim Trọng: quản gia giết người theo lệnh phe Phan; Thế Xung lấy sổ cho Trần Bình.
-  - Nhân Kiệt vào Nội Vệ cuối 1242.
-- **Q-S.** Vết sẹo bỏng của Nhân Kiệt có nguồn gốc từ đâu? (Tạm đặt: trận lửa năm 1236 lúc bị ám sát hụt.)
-- **Q-VTN.** Võ Tài Nhân: xuất thân, vào nhóm khi nào, gắn với vụ án nào?
-- **Q-M3.** Ai giết nhà sư chùa Vạn Phúc và vì sao lại vào năm 1243? (Đề xuất: mạng lưới của Trần Bình bịt miệng ông, vì tin đồn thái tử khiến người ta lật lại chuyện năm 1232.)
-- **Q-N.** Ngô Vương có nhận ra em trai không (giờ khó hơn nhiều, vì mặt hắn đầy sẹo)? Bà có mưu phản thật không?
-- **Q-A.** Lý Hoài Sương; **Q-F.** Đặng Tử Linh; **Q-E.** tư thù Duy Thành – Hồng Khải; **Q-L3.** Cái Thế Lâm.
+- **Đã chốt** (bản 8):
+  - Võ Tài Nhân.
+  - Vụ Vạn Phúc gắn với Phan Đình Nhân.
+  - Ngô Vương không nhận ra em.
+  - Bộ ba Lâm – Xung – Sương, Hoài Sương là con nuôi Trần Bình.
+  - Đặng Tử Linh và Khương Tử.
+- **Q-S.** Nguồn gốc vết sẹo bỏng của Nhân Kiệt? (Tạm đặt: trận lửa năm 1236.)
+- **Q-TB.** Thiên Bảo chết ở đâu: kinh thành (tạm) hay Nam Hải? Anh giam Tử Linh ở đâu?
+- **Q-TL.** Năm 1243 Tử Linh đang bị giam ở đâu và xử lý thế nào? (Tạm đặt: thiên lao Nội Vệ, vừa là dê tế thần vừa là con tin.) Quan hệ giữa nàng và Thiên Bảo là gì?
+- **Q-VH.** Hoàng hậu của Kim Thái Tổ: "Võ Thiên Hỷ" (tác giả) hay "Võ Thiện Nhân" (wiki)? Hiện dùng tên tác giả đưa.
+- **Q-PX.** Thế Xung rời nhóm năm 1245 với lý do bề ngoài gì?
+- **Q-E.** Tư thù của Duy Thành với Hồng Khải đế.
