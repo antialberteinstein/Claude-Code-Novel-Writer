@@ -1,6 +1,6 @@
 # THẦN THÁM — Kim Tử Anh truyện (series bible)
 
-> Trạng thái: **kế hoạch tạm, bản 15**.
+> Trạng thái: **kế hoạch tạm, bản 16**.
 > - **[TG]** = canon tác giả xác nhận trong trò chuyện.
 > - **[WIKI]** = lấy từ wiki vũ trụ Huyền Huyễn (`antialberteinstein/fandomwiki-generator`, `content/`).
 > - ⚑ = đề xuất của tôi.
@@ -75,7 +75,7 @@ Từ đó Nhân Kiệt phá liên tiếp những vụ án không ai phá nổi, 
   - Phe Khải Huy (Nhân Tông, Tử Anh, Ngô Vương) mang danh Tây Kỳ.
   - Phe Hồng Khải đế và họ Lý hoàng hậu mang danh Đông Kỳ.
   - **Đông Kỳ thất đại gia tộc** [TG]: Trần, Kim, Võ, Lý, Đào, Dương, Phùng. Họ Lý của Lý Nhân Quý và họ Võ của Võ quốc công đều thuộc nhóm này. (Các bản trước ghi "bát đại"; đã sửa theo tác giả.)
-- **Nội Vệ giám**: do **Lý Nhân Kiệt đời đầu đích thân lập ra** dưới triều Thế Tông [TG]. Người đứng đầu qua các thời: Lý Nhân Kiệt đời đầu → … → **Nguyễn Trọng Nhân** (thời Nhân Tông, mất năm 1236) → **Trần Bình** (từ sau 1236) [TG]; năm 1243 do **Trần Bình** cai quản [TG]. Từ vụ mộ thái tử, Nội Vệ công khai đối đầu phe thừa tướng Phan Đình Nhân [TG].
+- **Nội Vệ giám**: **vua Thế Tông lập ra**; Lý Nhân Kiệt đời đầu là người đề xuất và đích thân thực hiện [TG]. Người đứng đầu qua các thời: Lý Nhân Kiệt đời đầu → … → **Nguyễn Trọng Nhân** (thời Nhân Tông, mất năm 1236) → **Trần Bình** (từ sau 1236) [TG]; năm 1243 do **Trần Bình** cai quản [TG]. Từ vụ mộ thái tử, Nội Vệ công khai đối đầu phe thừa tướng Phan Đình Nhân [TG].
   - Hai nhánh [TG]: **Tả vệ** xử lý các vụ án trong dân; **Hữu vệ** điều tra quan lại trong cung.
   - ⚑ Nhân Kiệt và nhóm thuộc Tả vệ. Hữu vệ là nơi bí mật của triều đình được giữ, và là nơi Thế Xung chuyển tới năm 1245.
 - **Mộ Anh Mẫn thái tử**: mộ giả [TG]. ⚑ Do Hồng Khải đế cho xây sau khi tuyên bố Tử Anh đã chết năm 1236. Trong quan tài chỉ có áo liệm và đá. Phe Phan Đình Nhân lợi dụng ngôi mộ làm kho giấu bạc bẩn, vì không ai dám đào mộ một thái tử.
@@ -278,12 +278,18 @@ Thế Tông, Nhân Tông và Hồng Khải: hai vua sau đều là con của Th�
 |---|---|---|
 | **Thế Tông** — bộ ba "thần thoại" | **Trương Quang Nghĩa** (1155–1216), **Lý Nhân Kiệt đời đầu** (1163–1225), **Nghiêm Minh Viên** (1161–1222) | Trương Quang Nghĩa: thiên hạ đệ nhất võ tướng, Uy Mãnh đại tướng quân, thầy của Lý Nhân Quý. Lý Nhân Kiệt: thiên hạ đệ nhất thần thám, quản lý Nội Vệ. Nghiêm Minh Viên: một trong những thừa tướng đại tài nhất nhà Kim. (Wiki ghi Trương Quang Nghĩa sinh 1154; dùng 1155 theo tác giả.) |
 | **Nhân Tông** | **Châu Vinh**, **Nguyễn Trọng Nhân**, **Bùi Nguyên Thuần** | Theo Nhân Tông từ khi ông còn là **Ngô vương** cho tới khi lên ngôi năm 1232. Tước Ngô vương sau đó được phong cho trưởng nữ Kim Tử Quân. Châu Vinh và Nguyễn Trọng Nhân đều mất trong loạn Nguyễn Trường Thịnh (1236); chỉ Bùi Nguyên Thuần sống sót. |
-| **Hồng Khải** — bộ ba "chúa hề" | **Phùng Quang Chính**, **Trần Bình**, **Phan Đình Nhân** | Theo Hồng Khải từ khi ông còn là **Tấn vương** cho tới khi lên ngôi năm 1236. |
+| **Hồng Khải** — bộ ba "chúa hề" | **Phùng Quang Chính**, **Trần Bình**, **Phan Đình Nhân** | Theo Hồng Khải từ khi ông còn là **Tấn vương trấn giữ Ung Châu**. Họ ở đất phong cho tới khi Hồng Khải lên ngôi năm 1236, rồi mới được tiến cử về triều. |
 
 - **Vai trò** [TG]. Ba bộ ba có cùng một cấu trúc: võ tướng – người đứng đầu Nội Vệ – thừa tướng/tể tướng.
   - Thế Tông: Trương Quang Nghĩa (thiên hạ đệ nhất võ tướng) · Lý Nhân Kiệt (lập và đứng đầu Nội Vệ) · Nghiêm Minh Viên (thừa tướng).
   - Nhân Tông: **Châu Vinh** (đại tướng quân) · **Nguyễn Trọng Nhân** (đứng đầu Nội Vệ giám) · **Bùi Nguyên Thuần** (tể tướng).
-  - Hồng Khải: **Phùng Quang Chính** (võ tướng) · **Trần Bình** (đứng đầu Nội Vệ, thay Nguyễn Trọng Nhân) · **Phan Đình Nhân** (thừa tướng).
+  - Hồng Khải: **Phùng Quang Chính** (võ tướng; năm 1243 là **thái úy**) · **Trần Bình** (đứng đầu Nội Vệ, thay Nguyễn Trọng Nhân) · **Phan Đình Nhân** (thừa tướng).
+- **Phùng Quang Chính** [TG]:
+  - Năm 1243 là **thái úy**, đứng đầu quan võ, nắm quân đội ở Phong Đô.
+  - Liêm chính, chí công vô tư, cực kỳ trung thành với Hồng Khải. Ông **không hề biết** âm mưu của Phan Đình Nhân hay Trần Bình; ông chỉ hết lòng phục vụ nhà vua.
+  - Ông chỉ bắt đầu xuất hiện nhiều gần cuối truyện, khi con trai ông là **Phùng Hưng** theo Kim Tử Anh chống lại Hồng Khải.
+  - ⚑ Ông là người tốt duy nhất trong bộ ba "chúa hề", một bằng chứng rằng lòng trung thành với một ông vua tồi cũng là một bi kịch. Cuộc đối đầu cha – con nhà họ Phùng có thể là một trong những đoạn đau nhất ở cuối truyện.
+  - ⚑ Trong Quyển I: nên cho ông xuất hiện thoáng qua (ví dụ ở chương 20 hoặc khi tin đồn thái tử lan ra) như một vị thái úy nghiêm khắc, đáng kính, đứng ngoài mọi phe phái. Điều đó giúp người đọc thấy triều Hồng Khải không chỉ toàn kẻ xấu.
 - ⚑ Nguyễn Trọng Nhân chết trong loạn năm 1236, và Trần Bình kế chân ông. Đây là một nghi vấn đáng gieo cho người đọc lần hai: ai được lợi khi người đứng đầu Nội Vệ của Nhân Tông chết giữa đêm loạn?
 - ⚑ Ý nghĩa với truyện:
   - Bộ ba "chúa hề" lại là những kẻ cầm quyền thật trong thời Nhân Kiệt sống. Hai trong ba người (Trần Bình, Phan Đình Nhân) là trục phản diện của nửa đầu bộ truyện. Phùng Quang Chính, võ tướng của Hồng Khải, đến nay chưa xuất hiện trong dàn ý, nên là một quân cờ còn để ngỏ.
@@ -292,6 +298,7 @@ Thế Tông, Nhân Tông và Hồng Khải: hai vua sau đều là con của Th�
 
 ### Bộ ba Lâm – Xung – Sương [TG]
 - **Cái Thế Lâm** (anh) và **Cái Thế Xung** (em) là con của **Cái Thế Hùng**, một quan võ nhỏ bị Phan Đình Nhân hãm hại chết. Vì thế hai anh em có thù rất lớn với Phan [TG].
+- **Cả bốn người** (Cái Thế Hùng, Lâm, Xung, Hoài Sương) đều là **người Ung Châu**, phục vụ dưới trướng Tấn vương, rồi theo Tấn vương lên Phong Đô lập nghiệp [TG]. ⚑ Cái Thế Hùng chết năm 1234, khi còn ở Ung Châu, tức là Phan Đình Nhân hại ông ngay trong vương phủ Tấn vương, hai năm trước khi về triều.
 - **Lý Hoài Sương** là con nuôi của Trần Bình. Nàng chỉ gặp Lâm và Xung từ năm 1234, sau khi Cái Thế Hùng mất. Ba người thân thiết từ đó, nhưng không lớn lên cùng nhau từ nhỏ [TG].
 - ⚑ Hệ quả:
   - Có lẽ Trần Bình đã cưu mang hai đứa con mồ côi của Cái Thế Hùng năm 1234. Lòng phục tùng vô điều kiện của Xung là lòng biết ơn của một đứa trẻ được cứu, cộng với lời hứa báo thù Phan.
@@ -359,5 +366,6 @@ Thế Tông, Nhân Tông và Hồng Khải: hai vua sau đều là con của Th�
   - Trần Bình đóng vai người thầy; không làm lộ sớm.
   - Năm sinh năm mất của Lý Nhân Quý và Lý Nhân Kiệt đời đầu.
 - **Đã chốt** (bản 15): vai trò của Phùng Quang Chính, Châu Vinh, Nguyễn Trọng Nhân; Nội Vệ giám do Lý Nhân Kiệt đời đầu lập.
-- **Q-PQC.** Trong những năm 1243–1247, Phùng Quang Chính đang ở đâu và làm gì?
+- **Đã chốt** (bản 16): Phùng Quang Chính (thái úy, trung thành, không biết âm mưu, con là Phùng Hưng); bộ ba Hồng Khải ở Ung Châu tới năm 1236; nhóm Lâm – Xung – Sương – Cái Thế Hùng là người Ung Châu.
+- **Q-UC.** Wiki ghi Tần vương Kim Thừa Tĩnh giữ Ung Châu trong chiến tranh thiên hạ năm 1245. Ung Châu đổi chủ sau khi Tấn vương lên ngôi, hay cần chỉnh wiki?
 - **Đã chốt** (bản 13): Lý Nhân Quý sinh 1186, thầy là Trương Quang Nghĩa; bộ ba công thần; thân thế Lâm – Xung (con Cái Thế Hùng); Sương gặp hai anh em năm 1234.

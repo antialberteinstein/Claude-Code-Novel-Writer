@@ -92,11 +92,13 @@
     },
     "Lý Hoài Sương": {
       "role": "con nuôi Trần Bình; người Nội Vệ; thân với anh em họ Cái từ 1234",
-      "love": "yêu Cái Thế Lâm; được Cái Thế Xung yêu"
+      "love": "yêu Cái Thế Lâm; được Cái Thế Xung yêu",
+      "origin": "người Ung Châu; phục vụ Tấn vương, theo lên Phong Đô"
     },
     "Cái Thế Lâm": {
       "role": "anh Cái Thế Xung; Nội Vệ; được Hoài Sương yêu",
-      "grudge": "thù Phan Đình Nhân (giết cha)"
+      "grudge": "thù Phan Đình Nhân (giết cha)",
+      "origin": "người Ung Châu; phục vụ Tấn vương, theo lên Phong Đô"
     },
     "Cái Thế Xung": {
       "role": "bộ đầu Nội Vệ, bạn đồng hành phá án của Nhân Kiệt; phục tùng Trần Bình vô điều kiện từ đầu; từ 1245 đội lốt Phan Đình Nhân",
@@ -107,7 +109,8 @@
       "skill": "cao thủ quyền cước, võ hơn Nhân Kiệt",
       "love": "yêu Lý Hoài Sương",
       "unit": "Tả vệ; 1245 bề ngoài chuyển sang Hữu vệ (thực tế đội lốt Phan Đình Nhân)",
-      "grudge": "thù Phan Đình Nhân (giết cha) — về sau phải đội lốt chính kẻ thù"
+      "grudge": "thù Phan Đình Nhân (giết cha) — về sau phải đội lốt chính kẻ thù",
+      "origin": "người Ung Châu; phục vụ Tấn vương, theo lên Phong Đô"
     },
     "Khương Tử": {
       "role": "đệ tử Linh Sơn bí mật xuất sơn tìm Hạ Tử Linh; xưng là thầy thuốc giang hồ; nghi phạm vụ 1; làm việc cho Nội Vệ để tới gần thiên lao; sau khi Tử Linh được giải thoát vẫn ở lại Tả vệ",
@@ -296,7 +299,7 @@
       "heir": "Kim An Định (danh nghĩa)",
       "death": "bị Trần Bình đầu độc 1249 (wiki)",
       "reign": "1236–1249",
-      "former_title": "Tấn vương",
+      "former_title": "Tấn vương, trấn giữ Ung Châu",
       "trio": "Phùng Quang Chính – Trần Bình – Phan Đình Nhân (bộ ba 'chúa hề')"
     },
     "Nguyễn Trường Thịnh": {
@@ -392,7 +395,8 @@
     },
     "Cái Thế Hùng": {
       "role": "quan võ nhỏ; cha Cái Thế Lâm, Cái Thế Xung",
-      "status": "bị Phan Đình Nhân hãm hại chết (1234)"
+      "status": "bị Phan Đình Nhân hãm hại chết (1234)",
+      "origin": "người Ung Châu; phục vụ Tấn vương, theo lên Phong Đô"
     },
     "Trương Quang Nghĩa": {
       "born": 1155,
@@ -405,7 +409,10 @@
       "role": "thừa tướng đại tài thời Thế Tông; bộ ba công thần"
     },
     "Phùng Quang Chính": {
-      "role": "võ tướng; bộ ba 'chúa hề' của Hồng Khải, theo từ thời Tấn vương"
+      "role": "võ tướng; năm 1243 là thái úy, đứng đầu quan võ, nắm quân đội ở Phong Đô; bộ ba Hồng Khải",
+      "traits": "liêm chính, chí công vô tư, cực kỳ trung thành với Hồng Khải",
+      "knows": "không biết âm mưu của Phan Đình Nhân và Trần Bình",
+      "son": "Phùng Hưng"
     },
     "Châu Vinh": {
       "role": "đại tướng quân của Nhân Tông, theo từ thời Ngô vương",
@@ -414,6 +421,9 @@
     "Nguyễn Trọng Nhân": {
       "role": "đứng đầu Nội Vệ giám thời Nhân Tông, theo từ thời Ngô vương; sau 1236 Trần Bình thay",
       "status": "mất trong loạn Nguyễn Trường Thịnh 1236"
+    },
+    "Phùng Hưng": {
+      "role": "con Phùng Quang Chính; gần cuối truyện theo Kim Tử Anh chống Hồng Khải"
     }
   },
   "characters_created": [
@@ -465,6 +475,7 @@
     "Nguyễn Văn Đông",
     "Nhà sư chùa Vạn Phúc",
     "Phan Đình Nhân",
+    "Phùng Hưng",
     "Phùng Quang Chính",
     "Quan huyện Hoan Châu",
     "Trương Quang Nghĩa",
