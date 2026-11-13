@@ -3,18 +3,26 @@
   "voice": "third_person_limited",
   "tense": "past",
   "pov_character": "Lý Nhân Kiệt (chính); chương 1 theo Khương Tử; chương xen theo Thanh Anh và Lê Duy Thành",
-  "tone": "cổ trang trinh thám: lạnh, sắc, giàu chi tiết quan sát; cảm xúc nén",
+  "tone": "trinh thám dark hóa nhẹ, phá cách trên nền văn phong kiếm hiệp Kim Dung",
   "style_notes": [
-    "tiếng Việt hiện đại, từ Hán-Việt vừa đủ tạo không khí, tránh biền ngẫu nặng",
     "suy luận phải hiện trên trang qua chi tiết cụ thể; manh mối đặt trước lời giải",
     "đối thoại có ẩn ý, đúng vai vế và xưng hô cổ trang",
     "không giảng giải bối cảnh thuần túy; để thế giới lộ ra qua hành động",
     "KHÔNG tiết lộ Nhân Kiệt là Kim Tử Anh; mọi gợi ý chỉ thấy khi đọc lại và phải có cách hiểu khác hợp lý khi đọc lần đầu",
     "Nhân Kiệt mất trí nhớ toàn phần: không ký ức chớp nhoáng, không giấc mơ, không cảm giác quen thuộc",
     "Chương theo Duy Thành phải nuôi nghi ngờ y là thái tử",
-    "Trớ trêu kịch tính chỉ dùng cho bí mật khác (Như Ý là Thanh Anh, Thế Xung là người của Trần Bình), không cho thân phận Nhân Kiệt"
+    "Trớ trêu kịch tính chỉ dùng cho bí mật khác (Như Ý là Thanh Anh, Thế Xung là người của Trần Bình), không cho thân phận Nhân Kiệt",
+    "Văn phong: trinh thám dark hóa nhẹ nhàng, phá cách trên nền kiếm hiệp Kim Dung — giữ nhịp kể, khí chất giang hồ và đối thoại có duyên của Kim Dung, nhưng tông tối hơn, án mạng lạnh hơn, đạo đức xám hơn",
+    "Hán-Việt vừa phải",
+    "Võ công ở mức kiếm hiệp đầy đủ (nội công, khinh công, điểm huyệt...); Nhân Kiệt mạnh nhưng chỉ trung bình giữa các cao thủ",
+    "Giọng Nhân Kiệt: cởi mở, hơi lắm lời, thích phô hiểu biết, thích ra dáng chỉ huy — tương phản với sự lạnh lùng nguy hiểm của Kim Tử Anh; cái lắm lời là che chắn tự nhiên cho bí mật thân phận",
+    "Giọng Trần Bình: ấm áp, ít lời, chủ yếu khuyên nhủ"
   ],
   "chapter_target_words": 3500,
   "scene_break_marker": "***",
-  "provisional": true
+  "provisional": false,
+  "chapter_word_range": [
+    3000,
+    4000
+  ]
 }
