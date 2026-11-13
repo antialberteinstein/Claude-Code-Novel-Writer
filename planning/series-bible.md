@@ -1,166 +1,183 @@
 # THẦN THÁM — Kim Tử Anh truyện (series bible)
 
-> Trạng thái: **kế hoạch tạm, bản 3** — đã cập nhật theo hai lượt phản hồi của tác giả.
-> **[TG]** = canon do tác giả xác nhận. ⚑ = đề xuất của tôi, tác giả có thể sửa hoặc bỏ.
+> Trạng thái: **kế hoạch tạm, bản 4**.
+> - **[TG]** = canon tác giả xác nhận trong trò chuyện.
+> - **[WIKI]** = lấy từ wiki vũ trụ Huyền Huyễn (`antialberteinstein/fandomwiki-generator`, `content/`).
+> - ⚑ = đề xuất của tôi.
+> Thứ tự ưu tiên khi mâu thuẫn: [TG] > [WIKI] > ⚑. Các điểm vênh giữa [TG] và [WIKI] nằm ở mục 8.
 
 ## 1. Premise
 
-Năm 1240. Lý Bính, tự Nhân Kiệt, mười tám tuổi, đệ tử Nam Hải phái, trí tuệ hơn người, võ nghệ khá, không có ký ức nào trước năm mười bốn tuổi. Khi sư huynh Lý Thiên Bảo chết vì một chén trà độc ngay trong sơn môn, Nhân Kiệt lần theo vụ án và phát hiện thứ độc ấy là **ngự dược** trong cung cấm. Để chạm được vào sổ sách của cung, hắn gia nhập **Nội Vệ giám**, trở thành thám quan, phá liên tiếp những vụ án không ai phá nổi, và được gọi là **Thần thám**.
+Năm 1240. Lý Bính, tự Nhân Kiệt, mười tám tuổi, đệ tử Nam Hải phái, trí tuệ hơn người, võ nghệ khá, không có ký ức nào trước năm mười bốn tuổi. Khi sư huynh Lý Thiên Bảo chết vì một chén trà độc, Nhân Kiệt lần theo vụ án, phát hiện thứ độc ấy là **ngự dược** trong cung cấm, và gia nhập **Nội Vệ giám** để chạm được vào sổ sách của cung. Hắn phá liên tiếp những vụ án không ai phá nổi và được gọi là **Thần thám**.
 
-Mỗi vụ án đưa hắn lùi thêm về quá khứ: cái chết của vua Thế Tông năm 1232, bản di chiếu bị sửa, việc tru di cả nhà Lý Nhân Quý, cuộc phản loạn năm 1236. Và cuối cùng là sự thật về một thần đồng mười tuổi — Việt vương Kim Tử Anh, sau là Anh Minh thái tử — người đã **tự nghĩ ra cách** đổ tội giết vua lên đầu cha của người con gái nó thương nhất.
-
-Kẻ đi đòi công lý cho thiên hạ chính là thủ phạm của bất công lớn nhất đời hắn.
+Mỗi vụ án đưa hắn lùi thêm về quá khứ: vua Thế Tông bị chính con trai ám sát năm 1232, bản di chiếu bị sửa, họ Lý của Lý Nhân Quý bị tru di, cuộc phản loạn năm 1236, và một vụ ám sát hụt đã xóa sạch ký ức của hắn. Cuối cùng là sự thật về một thần đồng mười tuổi — Việt vương Kim Tử Anh — người đã **tự nghĩ ra cách** đổ tội giết vua lên đầu cha của chính vị hôn thê mình.
 
 **Câu hỏi trung tâm:** Một người dùng trí tuệ để đòi công lý cho người khác sẽ làm gì khi chân tướng cuối cùng buộc tội chính mình? Và cái tôi mất trí nhớ có phải gánh tội của cái tôi đã quên không?
 
-**Cặp gương soi của cả bộ** ⚑:
-- Năm 1232, Tử Anh dựng án giả để **vu tội một người vô tội** (Lý Nhân Quý).
-- Năm 1240, Nhân Kiệt viết một bản án thiếu để **che tội cho một người có tội** (Như Ý, tức Thanh Anh).
-- Hai lần, cùng một trí tuệ bẻ cong sự thật, cùng một cô gái đứng ở tâm điểm. Hắn chỉ biết lần thứ hai.
+**Ba tầng trớ trêu của cái tên**:
+- Hắn mang thân phận **Lý Bính**, một đứa trẻ bị giết năm 1236 [TG].
+- Hắn tự chọn tên tự **Nhân Kiệt**, vì ngưỡng mộ "đệ nhất thần thám" Lý Nhân Kiệt đời đầu qua sách [WIKI].
+- Hắn không biết vị thần thám ấy là ông nội của Thanh Anh, tức tổ phụ của chính gia tộc mà hắn đã diệt [WIKI].
+
+**Cặp gương soi** ⚑:
+- Năm 1232, Tử Anh dựng án giả để vu tội một người vô tội.
+- Năm 1240, Nhân Kiệt viết bản án thiếu để che tội cho một người có tội.
+- Cả hai lần đều xoay quanh cùng một cô gái.
 
 ## 2. Thể loại & giọng văn
 
 - Cổ trang trinh thám (án đơn) + cung đình chính trị + võ hiệp + bi kịch tình yêu.
-- Mỗi vụ án phải **giải được công bằng**: manh mối đặt trước, lời giải đến từ suy luận.
-- Mỗi vụ án đơn để lại **một mảnh ghép** cho tuyến chính.
-- **Võ công** [TG]: Kim Tử Anh thuở nhỏ thể chất yếu. Lý Nhân Kiệt được Lý Thế Vinh luyện kiếm và võ công suốt bốn năm; không có tư chất, nhưng đánh khá ổn. Hắn không phải tuyệt đỉnh cao thủ: đấu với người giỏi thật thì phải dùng đầu.
-  - ⚑ Sự tương phản này là một manh mối: người từng biết Tử Anh (như Thanh Anh) sẽ khó nhận ra cậu bé ốm yếu năm xưa trong một kẻ cầm kiếm.
-- ⚑ Ngôi ba hạn tri theo Nhân Kiệt; xen chương ngắn theo Thanh Anh (về sau thêm Duy Thành, Bảo Định).
+- Mỗi vụ án phải giải được công bằng và để lại một mảnh ghép cho tuyến chính.
+- **Võ công** [TG]: Tử Anh thuở nhỏ thể chất yếu. Nhân Kiệt được Lý Thế Vinh luyện kiếm và võ công bốn năm; không có tư chất nhưng đánh khá ổn, không phải tuyệt đỉnh cao thủ.
+- ⚑ Ngôi ba hạn tri theo Nhân Kiệt, xen chương ngắn theo Thanh Anh (sau này thêm Duy Thành, Hà hoàng hậu, Trần Bình).
 
-## 3. Hoàng tộc, triều đình và mốc lịch sử
+## 3. Thế giới
 
-### Hoàng tộc họ Kim [TG]
-- **Kim Thế Tông** (1154–1232), trị vì 1185–1232.
-  - **Kim Thừa Văn** — thái tử, con trưởng; bị phế năm 1232 bằng di chiếu giả.
-  - **Kim Nhân Tông** (1192–1236), trị vì 1232–1236.
-    - **Kim Tử Anh** (1222) — con trai thứ năm, thần đồng. Năm 1228 (6 tuổi) là vương tử duy nhất được Thế Tông phong **Việt vương**; năm 1232 được lập làm **Anh Minh thái tử**.
-  - **Vua Bảo Định** — em Nhân Tông, chú ruột Tử Anh; trị vì 1236–1253.
+- Vũ trụ **Huyền Huyễn**, nhà Kim [WIKI].
+- Phe **Đông Kỳ / Tây Kỳ** [WIKI]:
+  - Phe Khải Huy (Nhân Tông, Tử Anh) mang danh Tây Kỳ.
+  - Phe Thừa Trinh (Bảo Định) và họ Lý hoàng hậu mang danh Đông Kỳ.
+  - Họ Lý của Lý Nhân Quý thuộc **Đông Kỳ bát đại gia tộc** [TG].
+- **Nội Vệ** do Thế Tông lập: ban đầu giám sát quan chức, sau phá cả trọng án. Từng do Lý Nhân Kiệt đời đầu (1165–1226) quản lý [WIKI]. Năm 1240 đứng đầu là **Trần Bình** [TG].
+- **Linh Sơn**: năm 1210 bị Lý Nhân Quý đánh hàng, từ đó thù họ Lý [WIKI]. Năm 1236 họ Bùi lưu vong tới đây [TG]. Đây cũng là sư môn của Khương Tử và Đặng Tử Linh [TG].
+- **Hoan Châu**: đất phong của **Ngô Vương Kim Tử Quân**, chị ruột Tử Anh, được dân yêu như nữ hoàng; nằm phía nam Linh Sơn [WIKI]. Thanh Anh lánh nạn ở đây [TG][WIKI].
 
-### Quyền thần — hai giai đoạn [TG]
-1. **Phan Đình Nhân** — quyền thần nổi tiếng tham nhũng và bạo chính; dân lầm than, oán trách.
-2. **Trần Bình** — quan cai quản Nội Vệ giám. Y giết Phan Đình Nhân, rồi đưa **Cái Thế Xung** giả làm Phan Đình Nhân và đứng sau giật dây.
-   - ⚑ Hệ quả: cấp trên trực tiếp của Nhân Kiệt chính là kẻ quyền thần thứ hai; một người đồng hành của hắn là con rối mang mặt nạ quyền thần.
+## 4. Hoàng tộc và mốc lịch sử
+
+### Hoàng tộc họ Kim
+- **Kim Thế Tông** (Kim Vô Cực, 1154–1232; trị vì 1185–1232) [TG][WIKI]. Bản thân ông thuở nhỏ cũng từng được phong Việt vương [WIKI].
+  - **Kim Thừa Văn** (1185–1236) — thái tử bị phế; bị Nhân Tông sai cận vệ họ Bùi ám sát năm 1236 [WIKI].
+  - **Kim Nhân Tông** = **Kim Thừa Ly**, Khải Huy đế (trị vì 1232–1236) [TG][WIKI].
+    - Con: **Kim Tử Quân** (Ngô Vương, 1213); Tử Thanh, Tử Cơ, Tử Phúc (tử trận ở Đinh Nhất 1232); **Kim Tử Đức** (1218, thoát chết, tức **Lê Duy Thành**); **Kim Tử Anh** (1222); **Kim Tử Danh** (1236, con của Bùi phi) [WIKI].
+  - **Vua Bảo Định** = **Kim Thừa Trinh**, Mục Tông (trị vì 1236–1249) [TG; đồng nhất với WIKI]. Vợ là **Hà hoàng hậu**; thái tử **Kim An Định** (1238).
+- **Kim Tử Anh**:
+  - Mẹ là Lê Thị Anh, mất khi sinh ông; được Trương Ngọc Tú nuôi [WIKI].
+  - Năm 1228 được phong Việt vương; năm 1232 được lập thái tử [TG][WIKI].
+  - Có hôn ước từ nhỏ với Lý Thanh Anh [WIKI].
 
 ### Mốc thời gian
 | Năm | Sự kiện |
 |---|---|
-| 1154 | Thế Tông ra đời. |
-| 1175 | Lý Thế Vinh ra đời. |
-| 1185 | Thế Tông lên ngôi. |
-| 1192 | Nhân Tông ra đời. |
-| 1222 | Kim Tử Anh ra đời. |
-| 1228 | Tử Anh được phong Việt vương. [TG] |
-| 1232 | Nhân Tông ám sát Thế Tông, sửa di chiếu, phế thái tử Thừa Văn, lên ngôi; tể tướng là **Bùi Nguyên Thuần**. Chứng cứ bị lộ. Tử Anh nghĩ kế đổ tội cho **Lý Nhân Quý** (Đông kỳ bát đại gia tộc); nhà Lý Nhân Quý bị tru di. **Lưu Trọng Huy** cứu Thanh Anh, đưa nàng về Hoan Châu. Tử Anh thành Anh Minh thái tử. [TG] ⚑ Hung khí: Hàn Tâm tán. |
-| 1236 | Nguyễn Kính Thông đem quân vào kinh, giết Nhân Tông. Bảo Định lên ngôi. Họ Bùi lưu vong trong loạn (⚑ xem Q-K). **Bùi Trường Hải**, cháu của Bùi Nguyên Thuần, giết cả nhà **Lý Kinh Hải**. Tử Anh mất trí nhớ; **Lý Thiên Bảo** trao cho cậu thân phận của **Lý Bính**, con trai Lý Kinh Hải. Lý Thế Vinh che chở. [TG] |
-| 1239 | Quan huyện ở Hoan Châu cưỡng hiếp và giết một thôn nữ, rồi đổ tội cho Lưu Trọng Huy. Huy bỏ trốn; bà nội Huy bị xử tử thay. Thanh Anh đổi tên thành **Như Ý**, vào nhà quan huyện làm tỳ nữ. [TG] |
-| 1240 | Lý Thiên Bảo bị đầu độc. Truyện bắt đầu. Trong năm này: Huy và Như Ý giết cả nhà quan huyện; Nhân Kiệt xử án; Huy tự sát; Nhân Kiệt che giấu tội của Như Ý. [TG] |
-| ? | Trần Bình giết Phan Đình Nhân; Cái Thế Xung đội lốt Phan Đình Nhân. [TG; mốc năm: Q-L] |
-| 1253 | **Tử Anh đăng cơ.** [TG] |
-| 1260 | **Tử Anh phong Lý Thanh Anh làm hoàng hậu.** [TG] |
+| 1204 | Trần Bình ra đời, xuất thân ăn mày [WIKI]. |
+| 1210 | Lý Nhân Quý đánh Linh Sơn [WIKI]. |
+| 1218 | Hà hoàng hậu ra đời, con hoang của Lý Nhân Quý với một kỹ nữ [WIKI]. Kim Tử Đức ra đời. |
+| 1222 | Kim Tử Anh và Lý Thanh Anh cùng ra đời [WIKI]. |
+| 1226 | Lý Nhân Kiệt đời đầu mất [WIKI]. |
+| 1228 | Tử Anh được phong Việt vương. |
+| 1231 | Thừa Văn bị phế vì mưu hại Tử Anh [WIKI]. |
+| 1232 | Thừa Ly đại bại ở Đinh Nhất: bốn con trai coi như tử trận (Tử Đức thoát, mất trí nhớ tạm thời, sống dưới tên Lê Duy Thành); Trương Ngọc Tú tự sát [WIKI]. Thừa Ly ám sát Thế Tông, sửa di chiếu [TG][WIKI]. Tử Anh nghĩ kế đổ tội cho Lý Nhân Quý; họ Lý bị tru di; Thanh Anh thoát nhờ Lưu Trọng Huy [TG] (⚑ dung hòa với WIKI ở mục 8). Tử Anh làm thái tử. Hà hoàng hậu thoát vì là con hoang. |
+| 1236 | Thừa Văn bị ám sát (khoảng ba tháng trước loạn) [WIKI]. Loạn ở kinh thành, Nhân Tông bị giết [TG][WIKI]. Thừa Trinh "cứu giá" và lên ngôi. **Hà hoàng hậu ám sát hụt Tử Anh, khiến ông mất trí nhớ** [WIKI]. Họ Bùi lưu vong tới Linh Sơn: Bùi Trường Hải đưa em gái là **Bùi Trường Linh** (đang mang thai con Nhân Tông) chạy trước, ở nhờ nhà **Lý Kinh Hải**, rồi vì nghi ngờ mà giết cả nhà họ; Bùi Nguyên Thuần ở lại giao chiến tìm cứu thái tử, nghe tin Tử Anh chết thì rút [TG]. **Lý Thiên Bảo** trao cho Tử Anh thân phận Lý Bính, con của Lý Kinh Hải [TG]. |
+| 1238 | Kim An Định ra đời: danh nghĩa con Thừa Trinh, thực là con Trần Bình [TG][WIKI]. |
+| 1239 | Án oan Lưu Trọng Huy ở Hoan Châu; Thanh Anh thành tỳ nữ Như Ý [TG]. |
+| **1240** | **Lý Thiên Bảo bị đầu độc** — truyện bắt đầu [TG]. Huyết án Hoan Châu [TG]. |
+| 1245 | **Trần Bình giết thừa tướng Phan Đình Nhân**; Cái Thế Xung đội lốt Phan Đình Nhân [TG]. Chiến tranh thiên hạ bắt đầu: các vương tự lập [WIKI]. |
+| 1247 | Tử Anh công khai thân phận dưới danh hiệu thái tử được Thừa Trinh truy phong; đánh Trần Bình [WIKI]. |
+| 1249 | Trần Bình đầu độc Thừa Trinh rồi bị diệt. Hà hoàng hậu bị lật mặt. Thanh Anh giả làm Hà hoàng hậu, lập An Định làm vua bù nhìn; Tử Anh làm Việt Vương chấp chính [WIKI]. |
+| 1249–1253 | Thanh Anh là thủ lĩnh phe Đông Kỳ, đối trọng chính trị lớn nhất của Việt Vương [WIKI]. |
+| 1253 | **Tử Anh đăng cơ** (niên hiệu Càn Nguyên) [TG][WIKI]. |
+| 1260 | **Thanh Anh được phong hoàng hậu** [TG]. |
 
-### Những gì nằm dưới bề mặt ⚑
-- **Tại sao lại là Lý Nhân Quý?** Ông là trọng thần nắm được chứng cứ Thế Tông bị đầu độc. Kế của Tử Anh "một mũi tên hai đích": diệt người biết chuyện, đồng thời biến người tố cáo thành kẻ giết vua.
-- **Hàn Tâm tán**: thứ độc giết Thế Tông năm 1232 cũng là thứ giết Thiên Bảo năm 1240. Vì vậy phá án Thiên Bảo kéo theo phá án Thế Tông, và lộ ra tội của Nhân Tông và của chính Tử Anh.
-- **Bi kịch nhà Lý Kinh Hải** ⚑: năm 1236, Lý Kinh Hải tình cờ cưu mang thái tử đang chạy loạn. Bùi Trường Hải truy lùng thái tử (họ Bùi biết bí mật năm 1232, và thái tử là nhân chứng hoặc là quân bài) và tàn sát cả nhà. Lý Bính, cùng tuổi Tử Anh, chết. Thiên Bảo — con của Lý Thiên Sư, bạn thân Lý Kinh Hải — tìm thấy giữa đống xác một thiếu niên còn thở, mất trí nhớ, và trao cho cậu tên của người đã chết. Như vậy **cả một gia đình đã chết thay cho Tử Anh**.
-- **Thiên Bảo chết vì sao** ⚑: anh lên kinh truy tìm Bùi Trường Hải để báo thù cho nhà Lý Kinh Hải. Lần theo họ Bùi, anh chạm vào bí mật năm 1232 và đoán ra sư đệ mình là ai. Anh bị diệt khẩu.
-- **Loạn 1236** ⚑: Nguyễn Kính Thông dựng cờ "phù lập thái tử Thừa Văn"; Bảo Định là người hưởng lợi.
+## 5. Âm mưu xoay quanh cái chết của Lý Thiên Bảo
 
-## 4. Nhân vật
+- **Kẻ giết**: Trần Bình [TG], theo lời xúi của Hà hoàng hậu [WIKI].
+- **Lý do**: Thiên Bảo biết **bí mật kinh thiên động địa**: thái tử Kim An Định là con của Trần Bình với Hà hoàng hậu [TG]. Anh cũng biết Hà hoàng hậu từng mưu hại hoàng tử [WIKI].
+- **Lý Thế Vinh biết hết**, kể cả việc Trần Bình giết Thiên Bảo, nhưng **ngồi yên xem kịch** [TG].
+  - ⚑ Đây là bí ẩn lớn thứ hai của bộ truyện: ông muốn gì? Ông đang chờ thái tử tự nhớ lại, hay đang nuôi một quân bài của riêng mình?
+- **Trần Bình không biết thân phận Nhân Kiệt**, nhưng biết hắn đang điều tra cái chết của Thiên Bảo [TG].
+  - ⚑ Y tuyển Nhân Kiệt vào Nội Vệ để giữ kẻ thù trong tầm mắt.
+  - ⚑ Năm xưa Trần Bình từng gặp cậu bé Tử Anh ở phủ Lý Nhân Quý và tưởng đó là con ông [WIKI], nên y có một cảm giác quen mặt mơ hồ mà chính y không lý giải được.
+- **Hung khí** ⚑: Hàn Tâm tán. Năm 1232 thuốc được xuất kho để Thừa Ly giết Thế Tông; năm 1240 lại được xuất để giết Thiên Bảo. Trần Bình (qua Nội Vệ) và Hà hoàng hậu (trong cung) đều có đường lấy thuốc.
+- **Manh mối then chốt** ⚑: sổ tay Thiên Bảo ghi hai mốc thời gian không ai hiểu: ngày sinh của thái tử, và nơi Bảo Định đế ở mười tháng trước đó. Phép tính này là chìa khóa của Quyển II.
+
+## 6. Nhân vật
 
 ### Lý Bính / Lý Nhân Kiệt — Kim Tử Anh (1222)
 - Hai con người trong một thân xác:
   - **Tử Anh trước 1236**: thần đồng ốm yếu, lạnh lùng, sẵn sàng hy sinh một gia tộc vô tội để giữ ngôi cho cha.
-  - **Nhân Kiệt sau 1236**: tin vào sự thật, khỏe mạnh nhờ luyện võ — nhưng chính hắn cũng sẵn lòng bẻ cong sự thật vì người mình thương (vụ Hoan Châu).
-- Muốn: tìm kẻ giết Thiên Bảo, rồi biết mình là ai.
-- Cần: nhận lấy tội của con người mình đã quên, mà không để nó định nghĩa con người mình đã chọn trở thành.
-- Sức mạnh: suy luận phi thường; trí nhớ hình ảnh với mọi thứ sau 1236; kiếm thuật và võ công ở mức khá [TG].
-- Bóng tối ⚑: phương pháp suy luận của Thần thám chính là phương pháp Tử Anh đã dùng để dựng án giả.
+  - **Nhân Kiệt sau 1236**: tin vào sự thật, khỏe mạnh nhờ luyện võ, nhưng vẫn sẵn lòng bẻ cong sự thật vì người mình thương.
+- Thân phận Lý Bính do Thiên Bảo trao [TG]; tên tự Nhân Kiệt tự chọn theo vị thần thám trong sách [WIKI].
+- Bóng tối ⚑: phương pháp phá án của Thần thám chính là phương pháp Tử Anh đã dùng để dựng án giả.
 
-### Lý Thanh Anh / Như Ý — thanh mai trúc mã
-- Con gái Lý Nhân Quý, Đông kỳ bát đại gia tộc. Được Lưu Trọng Huy cứu năm 1232, lánh nạn ở Hoan Châu. Năm 1239 đổi tên Như Ý, làm tỳ nữ nhà quan huyện. Năm 1240 cùng Huy giết cả nhà quan huyện; Nhân Kiệt biết và che giấu cho nàng. [TG]
-- ⚑ Nàng không nhận ra Nhân Kiệt: Anh Minh thái tử trong trí nhớ nàng là cậu bé ốm yếu không giương nổi cây cung, còn người trước mặt là kẻ cầm kiếm.
-- ⚑ Sau Hoan Châu, nàng không còn nơi nào để về; Nhân Kiệt đưa nàng lên kinh, giữ nàng làm người hầu trong phủ. (Xem Q-G.)
-- Cung bậc: nợ hắn một mạng → yêu → biết hắn là Tử Anh → căm hận → hiểu → hoàng hậu năm 1260 [TG].
-- ⚑ Lưu Trọng Huy là bóng ma giữa hai người: người nàng mang ơn, người đã chết để nàng sống — và chết trong vụ án do Nhân Kiệt xử.
+### Lý Thanh Anh / Như Ý (1222)
+- Con gái Lý Nhân Quý, cháu nội Lý Nhân Kiệt đời đầu; hôn thê từ nhỏ của Tử Anh [WIKI].
+- Được Lưu Trọng Huy cứu, lánh nạn ở Hoan Châu, đổi tên Như Ý; năm 1240 đồng phạm vụ thảm sát nhà quan huyện; Nhân Kiệt che tội cho nàng [TG].
+- Hà hoàng hậu là chị cùng cha khác mẹ của nàng, hai người có ngoại hình giống nhau; nàng không biết điều này cho tới khi Hà hoàng hậu tự thừa nhận [WIKI].
+- Về sau (1249) giả làm Hà hoàng hậu, đứng đầu phe Đông Kỳ, đối đầu Việt Vương; năm 1260 làm hoàng hậu [WIKI][TG].
+- ⚑ Năm 1240 nàng không nhận ra Nhân Kiệt: Tử Anh trong trí nhớ nàng là cậu bé ốm yếu không giương nổi cây cung, còn người trước mặt là kẻ cầm kiếm.
 
-### Lưu Trọng Huy (chết 1240)
-- Bạn của Thanh Anh, mồ côi, sống với bà. Cứu Thanh Anh năm 1232. Bị quan huyện đổ oan năm 1239; bà bị xử tử thay. Năm 1240 giết cả nhà quan huyện rồi tự sát. [TG]
-- ⚑ Ôm trọn tội về mình trước mặt Nhân Kiệt để bảo vệ Như Ý.
+### Hà hoàng hậu (1218)
+- Con hoang của Lý Nhân Quý, hoàng hậu của Bảo Định, mẹ của An Định (cha ruột là Trần Bình) [WIKI][TG].
+- Năm 1236 ám sát hụt Tử Anh [WIKI]. Sống trong nỗi sợ ông còn sống.
+- ⚑ Trong Quyển I, nàng thấy Nhân Kiệt ở yến cung và tái mặt. Còn Nhân Kiệt thì nhận ra hoàng hậu giống Như Ý.
 
-### Lý Thế Vinh (1175) — chưởng môn Nam Hải phái
-- Thường dân họ Lý. [TG] Thầy dạy võ và người cha thay thế của Nhân Kiệt.
-- ⚑ Ông biết Lý Bính không phải Lý Bính. Có biết hắn là thái tử không — xem Q-B.
+### Trần Bình (1204)
+- Quan cai quản Nội Vệ. Xuất thân ăn mày, được Lý Nhân Quý cứu rồi phản bội [WIKI].
+- Giết Thiên Bảo (1240) [TG]; giết Phan Đình Nhân và cho Thế Xung đội lốt (1245) [TG]; đầu độc Bảo Định (1249) [WIKI]; bị Tử Anh tiêu diệt.
 
-### Lý Thiên Bảo — sư huynh (chết 1240)
-- Thường dân họ Lý; con của **Lý Thiên Sư**. Người đã trao thân phận Lý Bính cho Tử Anh năm 1236. [TG]
+### Phan Đình Nhân — thừa tướng [TG]
+- Tham nhũng, bạo chính. Bị Trần Bình giết năm 1245.
 
-### Lý Bính thật
-- Con trai Lý Kinh Hải. Cả nhà bị Bùi Trường Hải giết năm 1236. [TG]
-
-### Họ Bùi
-- **Bùi Nguyên Thuần** — tể tướng của Nhân Tông. **Bùi Trường Hải** — cháu ông, kẻ giết nhà Lý Kinh Hải. Lưu vong trong loạn 1236. [TG]
-- ⚑ Là người biết bí mật năm 1232 từ bên trong triều Nhân Tông.
+### Lê Duy Thành — Kim Tử Đức (1218), anh ruột của Tử Anh [WIKI]
+- [TG]: thương nhân nhỏ, cực kỳ thông minh, từng là nghi phạm, bí mật là giáo chủ Ba Xuyên giáo, tư thù với Bảo Định.
+- [WIKI]: là "Hắc Chiến Giáp", đối trọng kiếm học của "Bạch Chiến Giáp" Lý Thiên Bảo. Bị bỏng nặng ở Đinh Nhất năm 1232, chân có tật, từng mất trí nhớ tạm thời. Được giáo chủ Tử Nguyệt giáo cứu. Về sau được cử vào cung dạy học cho An Định để ám sát Thừa Trinh.
+- ⚑ Trong Quyển I, y luôn mặc áo tay dài, đi hơi lệch chân. Khi nghe tên Lý Thiên Bảo, y khựng lại.
+- ⚑ Y nghe lời trăn trối "Điện hạ…" và bắt đầu nghi rằng thám quan kia là em ruột mình. Hai anh em cùng từng mất trí nhớ, cùng sống dưới tên giả, và đứng hai phía của luật pháp.
 
 ### Cái Thế Lâm & Cái Thế Xung
-- Thế Xung về sau giả làm Phan Đình Nhân cho Trần Bình. [TG]
-- ⚑ Hai anh em là bộ đầu Nội Vệ giám, người của Trần Bình. Lâm điềm tĩnh, kiếm nhanh. Xung bề ngoài nóng nảy, bộc trực — một chiếc mặt nạ tốt cho kẻ về sau đeo một chiếc mặt nạ khác. Gieo sớm: Xung có tài nhại giọng, và ngoại hình hao hao một người có quyền thế.
-- ⚑ Xung là người duy nhất thấy kẽ hở trong bản án Hoan Châu. Y im lặng — và giữ điều đó làm con bài cho Trần Bình.
-
-### Trần Bình — quan cai quản Nội Vệ giám
-- Kẻ quyền thần thứ hai. [TG]
-- ⚑ Người tuyển Nhân Kiệt vào Nội Vệ. Y có biết Nhân Kiệt là ai ngay từ đầu không là câu hỏi lớn (Q-C).
-
-### Phan Đình Nhân — quyền thần thứ nhất
-- Tham nhũng, bạo chính. [TG] Bị Trần Bình giết.
+- Thế Xung là bạn đồng hành phá án của Nhân Kiệt [TG]; từ năm 1245 đội lốt Phan Đình Nhân cho Trần Bình [TG].
+- ⚑ Hai anh em là bộ đầu Nội Vệ. Thế Xung có tài nhại giọng. Trong Quyển I y thật lòng là bạn của Nhân Kiệt; sự biến chất (hay bị ép) đến muộn hơn. Xem Q-L2.
 
 ### Khương Tử
-- Đệ tử Linh Sơn; vào Nội Vệ giám để tìm sư tỷ **Đặng Tử Linh**. [TG]
-- ⚑ Đặng Tử Linh mất tích khi đang điều tra hồ sơ Thái y viện.
+- Đệ tử Linh Sơn; vào Nội Vệ tìm sư tỷ Đặng Tử Linh [TG].
+- ⚑ Linh Sơn thù họ Lý [WIKI] và đang chứa họ Bùi [TG], nên Khương Tử là cánh cửa dẫn tới Bùi Nguyên Thuần, người giữ bằng chứng giải oan cho họ Lý [WIKI].
 
-### Lê Duy Thành
-- Thương nhân nhỏ, cực kỳ thông minh, từng là nghi phạm; bí mật là **giáo chủ Ba Xuyên giáo**, tư thù lớn với vua Bảo Định. [TG]
-- ⚑ Nghi phạm chính của án thuyền ma (Quyển I). Nghe lời trăn trối "Điện hạ…".
+### Lý Thế Vinh (1175)
+- Thường dân họ Lý. Biết thân phận thái tử, biết Trần Bình giết Thiên Bảo, nhưng ngồi yên xem kịch [TG].
 
-### Lý Hoài Sương
-- ⚑ Sư muội, em gái Thiên Bảo, giỏi y dược và độc dược. (Q-A)
+### Lý Thiên Bảo (chết 1240)
+- Con Lý Thiên Sư; người trao thân phận Lý Bính [TG]. Là "Bạch Chiến Giáp", một kiếm khách lừng danh [WIKI].
 
-### Nguyễn Văn Đông — Nam Hải Quốc công
-- Bảo trợ Nam Hải phái. ⚑ Cùng họ tộc với Nguyễn Kính Thông.
+### Họ Bùi
+- **Bùi Nguyên Thuần**: tể tướng của Nhân Tông [TG]. Biết họ Lý bị oan và về sau cung cấp bằng chứng giải oan [WIKI].
+- **Bùi Trường Hải**: cháu Bùi Nguyên Thuần; giết cả nhà Lý Kinh Hải [TG].
+- **Bùi Trường Linh**: em gái Trường Hải, mang thai con Nhân Tông [TG]. ⚑ Có thể là "Bùi Vân Chi" trong wiki; đứa con là **Kim Tử Danh**, người về sau dưới tên Bùi Tuấn giả danh Tử Anh để làm ngọn cờ phục quốc của họ Bùi [WIKI].
 
-### Vua Bảo Định (1236–1253)
-- Chú ruột Tử Anh; đối thủ trực diện trong nửa sau bộ truyện.
+### Lưu Trọng Huy (chết 1240) [TG]
+### Lý Hoài Sương ⚑ — sư muội, em gái Thiên Bảo, giỏi y dược (Q-A).
+### Nguyễn Văn Đông — Nam Hải Quốc công [TG].
 
-## 5. Cấu trúc: 5 quyển, 18 vụ án (1240–1253, vĩ thanh 1260)
+## 7. Cấu trúc: 5 quyển, 18 vụ án (1240–1253, vĩ thanh 1260)
 
-| Quyển | Năm | Vụ án | Bước tiến tuyến chính |
+| Quyển | Năm | Vụ án | Tuyến chính |
 |---|---|---|---|
-| **I. Hàn Tâm Tán** | 1240 | Thuyền ma cửa Hàm · Tháp chuông chùa Vạn Phúc · **Huyết án Hoan Châu** · Yến tiệc Quốc công | Độc là ngự dược; gặp Duy Thành; gặp Như Ý và che tội cho nàng; biết tên mình là của một người đã chết. |
-| **II. Kinh Thành Ẩn Sát** | 1241–1242 | Ngân khố · Hoa đăng Thượng nguyên · Sứ thần phương Bắc · Nam Hải phái | Lật mặt kẻ hạ độc Thiên Bảo; truy dấu họ Bùi; biết mình là Tử Anh (người thú nhận là ai tùy Q-B). Phan Đình Nhân bạo chính. |
-| **III. Huyết Án Đông Cung** | 1243–1245 | Hoàng lăng (thi hài Thế Tông có độc) · Di chiếu (Kim Thừa Văn) · Án Lý Nhân Quý · Người chết sống lại | Nhớ ra mình dựng án Lý Nhân Quý; biết Như Ý là Thanh Anh; Thanh Anh biết hắn là Tử Anh. Đoạn tuyệt. |
-| **IV. Ba Xuyên** | 1246–1249 | Ba Xuyên giáo · Mưu sát Thái hậu · Nội gián Nội Vệ giám | Duy Thành là giáo chủ; ⚑ Trần Bình giết Phan Đình Nhân, Thế Xung đội lốt (mốc: Q-L); Nhân Kiệt bị truy nã. |
-| **V. Thần Thám Quy Triều** | 1250–1253 + 1260 | Dư đảng Nguyễn Kính Thông · Án Thiên Bảo (kẻ ra lệnh) · Án Thần thám — lột mặt nạ "Phan Đình Nhân" | Đối đầu Trần Bình và Bảo Định; đăng cơ 1253; vĩ thanh: hoàng hậu Thanh Anh năm 1260. |
+| **I. Hàn Tâm Tán** | 1240 | Thuyền ma cửa Hàm · Tháp chuông chùa Vạn Phúc · Huyết án Hoan Châu · Yến tiệc Quốc công | Độc là ngự dược; gặp Duy Thành, Như Ý, Trần Bình, Hà hoàng hậu; biết tên mình là tên của người chết. |
+| **II. Kinh Thành Ẩn Sát** | 1241–1242 | Ngân khố · Hoa đăng Thượng nguyên · Sứ thần phương Bắc · Nam Hải phái | Giải mã sổ tay Thiên Bảo: An Định không phải con Bảo Định. Trần Bình là kẻ ra lệnh. Phát hiện Thế Vinh biết hết mà im lặng. |
+| **III. Huyết Án Đông Cung** | 1243–1245 | Hoàng lăng · Di chiếu · Án Lý Nhân Quý (bằng chứng của Bùi Nguyên Thuần ở Linh Sơn) · Người chết sống lại (Bùi Tuấn) | Biết mình là Tử Anh; nhớ ra mình dựng án Lý Nhân Quý; Thanh Anh biết. Kết quyển (1245): Trần Bình giết Phan Đình Nhân. |
+| **IV. Ba Xuyên** | 1245–1249 | Ba Xuyên giáo · Phan Đình Nhân giả · Mưu sát Bảo Định | Duy Thành chính là Tử Đức. Năm 1247 công khai thân phận. Diệt Trần Bình; lột mặt nạ Thế Xung; Hà hoàng hậu lộ mặt. Năm 1249 Thanh Anh giả làm Hà hoàng hậu, lập An Định. |
+| **V. Thần Thám Quy Triều** | 1249–1253 + 1260 | Ba vụ án chính trị dưới thời Việt Vương chấp chính | Việt Vương đối đầu "Hà hoàng hậu" Thanh Anh; đăng cơ 1253; vĩ thanh: hoàng hậu năm 1260. |
 
-## 6. Bóc lớp vụ án Lý Thiên Bảo ⚑
+## 8. Đối chiếu [TG] và [WIKI] — cần tác giả chốt
 
-| Quyển | Lớp được hé |
-|---|---|
-| I | Là độc; là ngự dược Hàn Tâm tán; đi qua phủ Quốc công; Thiên Bảo đang truy Bùi Trường Hải; tên Lý Bính là tên mượn. |
-| II | Tay hạ độc: một sư đệ nằm vùng; đường dây nối về họ Bùi. |
-| III | Hàn Tâm tán cũng là thứ đã giết Thế Tông. |
-| V | Người ra lệnh: xem Q-C. |
+| # | Điểm | Trong trò chuyện [TG] | Trong wiki [WIKI] | Tôi đang dùng |
+|---|---|---|---|---|
+| 1 | Ai cứu Thanh Anh năm 1232 | Lưu Trọng Huy | La Vĩnh Quốc, theo mật lệnh của Tử Anh | ⚑ Dung hòa: Tử Anh dựng án diệt họ Lý *nhưng* lén ra lệnh La Vĩnh Quốc cứu nàng; La Vĩnh Quốc giao nàng cho Lưu Trọng Huy đưa về Hoan Châu. Tội của Tử Anh vì thế phức tạp hơn: hắn kết án cả nhà nàng nhưng cứu riêng nàng. |
+| 2 | Năm Thiên Bảo chết | 1240 | 1242 | 1240 |
+| 3 | Nguyên nhân Tử Anh mất trí nhớ | thoát chết trong loạn 1236 | bị Hà hoàng hậu ám sát hụt | cả hai: Hà hoàng hậu ra tay giữa lúc loạn |
+| 4 | Tên kẻ phản loạn 1236 | Nguyễn Kính Thông | Nguyễn Trường Thịnh (Lạng Sơn Vương) | Nguyễn Kính Thông (chờ chốt) |
+| 5 | Niên hiệu của Thừa Trinh | Bảo Định | Hồng Khải | Bảo Định |
+| 6 | Danh hiệu thái tử | Anh Minh thái tử | Anh Mẫn Thái tử (do Thừa Trinh truy phong) | chờ chốt |
+| 7 | Năm sinh Nhân Tông | 1192 | 1193 | 1192 |
+| 8 | Thừa Văn bị phế | 1232, bằng di chiếu giả | 1231, vì mưu hại Tử Anh | ⚑ phế 1231; di chiếu giả năm 1232 chặn đường ông phục vị |
+| 9 | Giáo phái của Duy Thành | giáo chủ Ba Xuyên giáo | được giáo chủ Tử Nguyệt giáo cứu | ⚑ Tử Nguyệt giáo cứu y; về sau y lập hoặc nắm Ba Xuyên giáo |
+| 10 | Thân thế Duy Thành | thương nhân nhỏ | Kim Tử Đức | thương nhân là vỏ bọc; thật là Tử Đức |
+| 11 | Bùi Trường Linh / Bùi Vân Chi | Trường Linh mang thai con Nhân Tông | Vân Chi gả vào cung 1236, mất khi sinh Tử Danh | ⚑ là cùng một người |
+| 12 | Thanh Anh làm hoàng hậu | 1260 | sau 1253, rút khỏi chính trường | 1260 |
 
-## 7. Câu hỏi mở còn lại
+## 9. Câu hỏi mở còn lại
 
-- **Q-L.** Trần Bình giết Phan Đình Nhân và cho Thế Xung đội lốt vào năm nào? Thế Xung tự nguyện hay bị ép? Lúc truyện mở đầu Thế Xung đã là người của Trần Bình chưa? Thế Lâm có biết không?
-- **Q-C.** Ai ra lệnh giết Thiên Bảo: Phan Đình Nhân, Trần Bình, họ Bùi, hay người khác? Trần Bình có biết thân thế Nhân Kiệt khi tuyển hắn không?
-- **Q-K.** "Lưu vong trong vụ loạn lạc 1236" là nói Bùi Nguyên Thuần hay Bùi Trường Hải? Vì sao Bùi Trường Hải giết nhà Lý Kinh Hải? (Tôi đề xuất: vì nhà họ cưu mang thái tử.)
-- **Q-B.** Lý Thế Vinh biết Lý Bính là thái tử không, hay chỉ Thiên Bảo biết? Lý Thiên Sư còn sống không?
-- **Q-G.** Sau vụ Hoan Châu, Như Ý đi đâu (đề xuất: theo Nhân Kiệt lên kinh)? Nàng biết đến đâu về vai trò của Tử Anh năm 1232?
+- **Q-L2.** Thế Xung đội lốt Phan Đình Nhân tự nguyện hay bị ép? Thế Lâm có biết không? Sau 1249 Thế Xung ra sao?
+- **Q-W.** Lý Thế Vinh "xem kịch" vì mục đích gì? Về sau ông thuộc phe nào?
 - **Q-A.** Lý Hoài Sương có phải em gái Thiên Bảo không?
-- **Q-D.** Kim Thừa Văn sau 1232?
-- **Q-E.** Nguồn gốc tư thù của Duy Thành với Bảo Định?
-- **Q-F.** Đặng Tử Linh?
-- **Q-H.** Bảy năm 1253–1260?
-- **Q-J.** Đông kỳ bát đại gia tộc?
-- **Q-M.** Chức tước của Phan Đình Nhân (Thái sư? tể tướng?).
-- Còn treo: quốc hiệu/kinh đô (tạm: Đại Việt dị sử / Thăng Long); Nguyễn Văn Đông với Nguyễn Kính Thông.
+- **Q-F.** Số phận Đặng Tử Linh?
+- **Q-N.** Ngô Vương Kim Tử Quân có xuất hiện trong án Hoan Châu không? Nếu gặp em trai, bà có nhận ra không?
+- Còn treo: quốc hiệu/kinh đô; Nguyễn Văn Đông với kẻ phản loạn 1236.

@@ -1,5 +1,5 @@
 {
-  "setting": "Đại Việt dị sử dưới nhà Kim, thế kỷ XIII (quốc hiệu và kinh đô tạm — xem Q5)",
+  "setting": "Vũ trụ Huyền Huyễn, nhà Kim (tham chiếu wiki fandomwiki-generator); quốc hiệu/kinh đô chưa chốt",
   "locations_established": [
     {
       "name": "Kinh thành (tạm: Thăng Long)",
@@ -19,13 +19,13 @@
     },
     {
       "name": "Hoan Châu",
-      "notes": "quê Lưu Trọng Huy; nơi Thanh Anh lánh nạn; huyết án nhà quan huyện 1240"
+      "notes": "đất phong của Ngô Vương Kim Tử Quân, phía nam Linh Sơn; nơi Thanh Anh lánh nạn; huyết án nhà quan huyện 1240"
     }
   ],
   "institutions": [
     {
       "name": "Nội Vệ giám",
-      "notes": "cơ quan mật vụ/điều tra của triều đình; quan cai quản là Trần Bình; có bộ đầu, ngỗ tác, thám quan"
+      "notes": "do Thế Tông lập; giám sát quan chức và phá trọng án; từng do Lý Nhân Kiệt đời đầu quản lý; năm 1240 do Trần Bình cai quản"
     },
     {
       "name": "Thái y viện",
@@ -45,7 +45,15 @@
     },
     {
       "name": "Linh Sơn",
-      "notes": "môn phái của Khương Tử và Đặng Tử Linh"
+      "notes": "môn phái của Khương Tử, Đặng Tử Linh; bị Lý Nhân Quý đánh hàng năm 1210 nên thù họ Lý; họ Bùi lưu vong tới đây năm 1236"
+    },
+    {
+      "name": "Đông Kỳ / Tây Kỳ",
+      "notes": "hai phe: Khải Huy (Nhân Tông, Tử Anh) là Tây Kỳ; Thừa Trinh (Bảo Định) và họ Lý hoàng hậu là Đông Kỳ"
+    },
+    {
+      "name": "Tử Nguyệt giáo",
+      "notes": "giáo chủ từng cứu Kim Tử Đức (wiki)"
     }
   ],
   "magic_rules": [],
@@ -57,7 +65,11 @@
   "history_timeline": [
     {
       "year": 1154,
-      "event": "Kim Thế Tông ra đời"
+      "event": "Kim Thế Tông (Vô Cực) ra đời"
+    },
+    {
+      "year": 1165,
+      "event": "Lý Nhân Kiệt đời đầu ra đời"
     },
     {
       "year": 1175,
@@ -69,35 +81,71 @@
     },
     {
       "year": 1192,
-      "event": "Kim Nhân Tông ra đời"
+      "event": "Kim Nhân Tông (Thừa Ly) ra đời (wiki: 1193)"
+    },
+    {
+      "year": 1204,
+      "event": "Trần Bình ra đời"
+    },
+    {
+      "year": 1210,
+      "event": "Lý Nhân Quý đánh Linh Sơn"
+    },
+    {
+      "year": 1218,
+      "event": "Hà hoàng hậu và Kim Tử Đức ra đời"
     },
     {
       "year": 1222,
-      "event": "Kim Tử Anh ra đời (hoàng tử thứ năm)"
+      "event": "Kim Tử Anh và Lý Thanh Anh ra đời"
+    },
+    {
+      "year": 1226,
+      "event": "Lý Nhân Kiệt đời đầu mất"
     },
     {
       "year": 1228,
-      "event": "Tử Anh 6 tuổi được phong Việt vương"
+      "event": "Tử Anh được phong Việt vương"
+    },
+    {
+      "year": 1231,
+      "event": "Thừa Văn bị phế (wiki)"
     },
     {
       "year": 1232,
-      "event": "Nhân Tông ám sát Thế Tông, sửa di chiếu, phế thái tử Thừa Văn, lên ngôi (tể tướng Bùi Nguyên Thuần); Tử Anh đổ tội cho Lý Nhân Quý; nhà Lý Nhân Quý bị tru di; Lưu Trọng Huy cứu Thanh Anh về Hoan Châu; Tử Anh làm Anh Minh thái tử"
+      "event": "Đại bại Đinh Nhất (Tử Đức sống sót thành Lê Duy Thành); Thừa Ly ám sát Thế Tông, sửa di chiếu; Tử Anh đổ tội cho Lý Nhân Quý; họ Lý bị tru di, Thanh Anh thoát (Lưu Trọng Huy); Tử Anh làm thái tử"
     },
     {
       "year": 1236,
-      "event": "Loạn Nguyễn Kính Thông; Nhân Tông bị giết; Bảo Định lên ngôi; họ Bùi lưu vong; Bùi Trường Hải giết cả nhà Lý Kinh Hải; Lý Thiên Bảo trao thân phận Lý Bính cho Tử Anh mất trí nhớ"
+      "event": "Thừa Văn bị ám sát; loạn kinh thành, Nhân Tông bị giết; Bảo Định (Thừa Trinh) lên ngôi; Hà hoàng hậu ám sát hụt Tử Anh, Tử Anh mất trí nhớ; họ Bùi lưu vong Linh Sơn; Bùi Trường Hải giết nhà Lý Kinh Hải; Thiên Bảo trao thân phận Lý Bính"
+    },
+    {
+      "year": 1238,
+      "event": "Kim An Định ra đời (con Trần Bình)"
     },
     {
       "year": 1239,
-      "event": "Quan huyện Hoan Châu hiếp giết thôn nữ, đổ tội cho Lưu Trọng Huy; bà Huy bị xử tử thay; Thanh Anh thành tỳ nữ Như Ý"
+      "event": "Án oan Lưu Trọng Huy; Thanh Anh thành Như Ý"
     },
     {
       "year": 1240,
-      "event": "Lý Thiên Bảo bị đầu độc — truyện bắt đầu; huyết án Hoan Châu, Huy tự sát, Nhân Kiệt che giấu Như Ý"
+      "event": "Lý Thiên Bảo bị Trần Bình đầu độc — truyện bắt đầu; huyết án Hoan Châu"
+    },
+    {
+      "year": 1245,
+      "event": "Trần Bình giết thừa tướng Phan Đình Nhân, Cái Thế Xung đội lốt; chiến tranh thiên hạ"
+    },
+    {
+      "year": 1247,
+      "event": "Tử Anh công khai thân phận (wiki)"
+    },
+    {
+      "year": 1249,
+      "event": "Trần Bình đầu độc Bảo Định rồi bị diệt; Thanh Anh giả Hà hoàng hậu lập An Định; Tử Anh làm Việt Vương chấp chính (wiki)"
     },
     {
       "year": 1253,
-      "event": "Tử Anh đăng cơ"
+      "event": "Tử Anh đăng cơ, niên hiệu Càn Nguyên"
     },
     {
       "year": 1260,
