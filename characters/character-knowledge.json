@@ -2,12 +2,13 @@
   "protagonist": {
     "name": "Lý Bính, tự Nhân Kiệt — thật là Kim Tử Anh (1222), Việt vương 1228, thái tử 1232; thân phận Lý Bính do Lý Thiên Bảo trao; tên tự Nhân Kiệt tự chọn theo Lý Nhân Kiệt đời đầu",
     "knows": [
-      "Mình là đệ tử Nam Hải phái, được Lý Thế Vinh nuôi từ năm 1236",
-      "Không có ký ức nào trước năm 14 tuổi"
+      "Mình là thám quan Nội Vệ từ cuối 1242 (tạm)",
+      "Không nhớ gì trước năm 14 tuổi (mất trí nhớ toàn phần)"
     ],
     "believes": [
-      "Mình là cháu mồ côi của Lý Thế Vinh",
-      "Ngọc bội hình rồng là di vật của mẹ"
+      "Mình là Lý Bính, con mồ côi của Lý Kinh Hải, được Nam Hải phái nuôi",
+      "Tên tự Nhân Kiệt tự đặt theo vị thần thám trong sách",
+      "Anh Mẫn thái tử, nếu còn sống, có thể là Lê Duy Thành (cuối Quyển I)"
     ],
     "does_not_know": [
       "Mình là Kim Tử Anh",
@@ -22,20 +23,24 @@
       "Lưu Trọng Huy là bạn thơ ấu của mình"
     ],
     "relationships": {
-      "Lý Thế Vinh": "sư phụ, người cha thay thế",
-      "Lý Thiên Bảo": "sư huynh, như anh ruột (chết 1242)",
-      "Lý Hoài Sương": "sư muội, em gái Thiên Bảo",
-      "Lý Thanh Anh": "chưa gặp ở đầu truyện"
+      "Lý Thế Vinh": "sư phụ",
+      "Lý Thiên Bảo": "sư huynh (chết 1242, vụ án chưa phá)",
+      "Lý Hoài Sương": "sư muội",
+      "Cái Thế Xung": "bạn đồng hành phá án",
+      "Khương Tử": "gặp ở vụ 1",
+      "Lê Duy Thành": "nghi phạm vụ 2, đối thủ trí tuệ"
     },
     "traits": [
       "thần đồng, suy luận phi thường",
       "võ nghệ khá nhờ Lý Thế Vinh luyện bốn năm, không có tư chất",
       "Tử Anh thuở nhỏ thể chất yếu"
-    ]
+    ],
+    "memory_rule": "mất trí nhớ toàn phần; không ký ức chớp nhoáng; chỉ Đồng Thái Huy trả lại ký ức gần cuối bộ truyện",
+    "reader_reveal": "giấu với người đọc cho tới mốc Q-R; đánh lạc hướng về Lê Duy Thành"
   },
   "characters": {
     "Lý Thanh Anh": {
-      "role": "con gái Lý Nhân Quý (Đông kỳ bát đại gia tộc); được Lưu Trọng Huy cứu 1232, lánh nạn Hoan Châu; tỳ nữ nhà quan huyện 1239; đồng phạm thảm sát nhà quan huyện 1243 (tạm), được Nhân Kiệt che giấu",
+      "role": "con gái Lý Nhân Quý (Đông Kỳ bát đại gia tộc); được Lưu Trọng Huy cứu 1232; tỳ nữ Như Ý từ 1239; đồng phạm huyết án Hoan Châu 1244, được Nhân Kiệt che giấu",
       "knows": [
         "Nhà mình bị vu tội giết vua năm 1232"
       ],
@@ -63,7 +68,8 @@
         "Trần Bình giết Thiên Bảo",
         "rất nhiều bí mật khác"
       ],
-      "stance": "ngồi yên xem kịch; âm mưu lớn hay đứng ngoài: chưa xác định"
+      "stance": "ngồi yên xem kịch; âm mưu lớn hay đứng ngoài: chưa xác định",
+      "will": "tiết lộ với Nhân Kiệt rằng hắn là Kim Tử Anh (mốc Q-R)"
     },
     "Lý Thiên Bảo": {
       "role": "sư huynh, con Lý Thiên Sư; trao thân phận Lý Bính cho Tử Anh năm 1236",
@@ -91,11 +97,11 @@
       ]
     },
     "Khương Tử": {
-      "role": "đệ tử Linh Sơn, thành viên Nội Vệ giám, tìm sư tỷ Đặng Tử Linh"
+      "role": "đệ tử Linh Sơn; lên kinh tìm sư tỷ Đặng Tử Linh, vô tình thành nghi phạm vụ 1 (1243); về sau vào Nội Vệ"
     },
     "Lê Duy Thành": {
       "true_identity": "Kim Tử Đức (1218), anh ruột Tử Anh, Hắc Chiến Giáp (wiki)",
-      "role": "vỏ bọc thương nhân nhỏ; nghi phạm án thuyền ma; giáo chủ bí mật Ba Xuyên giáo; tư thù Hồng Khải đế",
+      "role": "vỏ bọc thương nhân; bạn hàng Kim Trọng, nghi phạm vụ 2; giáo chủ bí mật Ba Xuyên giáo; mồi nhử chính cho câu hỏi ai là thái tử",
       "seeds": [
         "vết bỏng, tật chân",
         "biết Thiên Bảo là Bạch Chiến Giáp"
@@ -153,15 +159,15 @@
     },
     "Lưu Trọng Huy": {
       "role": "dân thường, bạn thơ ấu của Tử Anh và Thanh Anh; 1232 cứu Thanh Anh theo mật lệnh Tử Anh (gộp La Vĩnh Quốc)",
-      "status": "tự sát 1243 (tạm) sau huyết án Hoan Châu",
+      "status": "tự sát 1244 sau huyết án Hoan Châu (vụ 4)",
       "knows": [
         "Tử Anh ra lệnh cứu Thanh Anh",
         "nhận ra Nhân Kiệt là Tử Anh trước khi chết (đề xuất)"
       ]
     },
     "Quan huyện Hoan Châu": {
-      "role": "hiếp giết thôn nữ 1239, đổ tội cho Huy",
-      "status": "cả nhà bị giết 1243 (tạm)"
+      "role": "người của Phan Đình Nhân; hiếp giết thôn nữ 1239, đổ tội cho Huy",
+      "status": "cả nhà bị giết 1244"
     },
     "Lý Thiên Sư": {
       "role": "cha Thiên Bảo, bạn Lý Kinh Hải",
@@ -258,9 +264,21 @@
     "Nguyễn Trường Thịnh": {
       "role": "Lạng Sơn Vương, phản loạn 1236, giết Nhân Tông",
       "status": "bị Thừa Trinh đánh bại"
+    },
+    "Kim Trọng": {
+      "role": "thương nhân đồ cổ, rửa tiền cho thừa tướng Phan Đình Nhân",
+      "status": "chết 1243 (vụ 2)"
+    },
+    "Đồng Thái Huy": {
+      "role": "thần y; chữa cho Nhân Kiệt gần cuối bộ truyện, trả lại ký ức"
+    },
+    "Ba tên trộm mộ": {
+      "role": "đào mộ giả Anh Mẫn thái tử, trúng kho bạc của phe Phan",
+      "status": "chết lần lượt 1243 (người thứ nhất vì cơ quan mộ, hai người sau bị sát thủ giết bắt chước lời nguyền — đề xuất)"
     }
   },
   "characters_created": [
+    "Ba tên trộm mộ",
     "Bùi Nguyên Thuần",
     "Bùi Trường Hải",
     "Bùi Trường Linh",
@@ -273,6 +291,7 @@
     "Kim Nhân Tông",
     "Kim Thế Tông",
     "Kim Thừa Văn",
+    "Kim Trọng",
     "Kim Tử Anh — tước hiệu",
     "Kim Tử Danh",
     "Kim Tử Quân",
@@ -292,6 +311,7 @@
     "Phan Đình Nhân",
     "Quan huyện Hoan Châu",
     "Trần Bình",
-    "Đặng Tử Linh"
+    "Đặng Tử Linh",
+    "Đồng Thái Huy"
   ]
 }

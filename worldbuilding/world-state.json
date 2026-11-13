@@ -10,16 +10,16 @@
       "notes": "đất phong của Nam Hải Quốc công; sơn môn Nam Hải phái; cửa Hàm (cửa biển)"
     },
     {
-      "name": "Chùa Vạn Phúc",
-      "notes": "chùa hư cấu ở kinh thành, có tháp chuông (án 2)"
-    },
-    {
-      "name": "Hiệu thuốc Thiên Thọ đường",
-      "notes": "kinh thành; đầu mối dược liệu lậu"
-    },
-    {
       "name": "Hoan Châu",
-      "notes": "đất phong của Ngô Vương Kim Tử Quân, phía nam Linh Sơn; nơi Thanh Anh lánh nạn; huyết án nhà quan huyện 1243"
+      "notes": "đất phong của Ngô Vương Kim Tử Quân, phía nam Linh Sơn; nơi Thanh Anh lánh nạn; huyết án nhà quan huyện 1244"
+    },
+    {
+      "name": "Mộ Anh Mẫn thái tử",
+      "notes": "ngoại thành kinh đô; mộ giả (quan tài chỉ có áo liệm và đá); phe Phan giấu bạc trong gian phụ; có cơ quan sơn – thủy ngân độc"
+    },
+    {
+      "name": "Kim phủ",
+      "notes": "phủ đệ thương nhân Kim Trọng; thư phòng khóa trái nơi Kim Trọng chết"
     }
   ],
   "institutions": [
@@ -117,7 +117,7 @@
     },
     {
       "year": 1236,
-      "event": "Thừa Văn bị ám sát; Lạng Sơn Vương Nguyễn Trường Thịnh nổi loạn, Nhân Tông bị giết; Thừa Trinh lên ngôi, niên hiệu Hồng Khải; Hà hoàng hậu ám sát hụt Tử Anh, Tử Anh mất trí nhớ; họ Bùi lưu vong Linh Sơn; Bùi Trường Hải giết nhà Lý Kinh Hải; Thiên Bảo trao thân phận Lý Bính"
+      "event": "Thừa Văn bị ám sát; Lạng Sơn Vương Nguyễn Trường Thịnh nổi loạn, Nhân Tông bị giết; Thừa Trinh lên ngôi, niên hiệu Hồng Khải; Hà hoàng hậu ám sát hụt Tử Anh, Tử Anh mất trí nhớ; họ Bùi lưu vong Linh Sơn; Bùi Trường Hải giết nhà Lý Kinh Hải; Thiên Bảo trao thân phận Lý Bính; triều đình tuyên bố thái tử chết, xây mộ giả"
     },
     {
       "year": 1238,
@@ -129,11 +129,15 @@
     },
     {
       "year": 1242,
-      "event": "Lý Thiên Bảo bị Trần Bình đầu độc — truyện bắt đầu"
+      "event": "Lý Thiên Bảo bị Trần Bình đầu độc; Nhân Kiệt điều tra không thành, vào Nội Vệ (tạm cuối 1242)"
     },
     {
       "year": 1243,
-      "event": "Huyết án Hoan Châu (tạm): Huy và Như Ý giết nhà quan huyện; Huy tự sát; Nhân Kiệt che giấu Như Ý; Nhân Kiệt thám thính Ngô Vương"
+      "event": "Truyện bắt đầu: vụ lời nguyền mộ thái tử; mộ giả bị lộ, tin đồn thái tử còn sống; vụ Kim Trọng"
+    },
+    {
+      "year": 1244,
+      "event": "Huyết án Hoan Châu; Huy tự sát; Nhân Kiệt che giấu Như Ý; thám thính Ngô Vương"
     },
     {
       "year": 1245,
@@ -166,8 +170,16 @@
       "notes": "Nhân Kiệt đeo từ 1236; thực là vật của Đông cung"
     },
     {
-      "name": "Bài đồng dao thuở nhỏ",
-      "notes": "Như Ý ngân nga; kích hoạt ký ức đầu tiên của Nhân Kiệt (khu vườn, bé gái gọi Việt vương ca ca)"
+      "name": "Lý Nhân Kiệt án lục",
+      "notes": "cuốn sách về vị thần thám đời đầu Nhân Kiệt luôn mang theo"
+    },
+    {
+      "name": "Dấu sóng nước",
+      "notes": "ký hiệu của Ba Xuyên giáo trên các câu thơ đồn thái tử còn sống"
+    },
+    {
+      "name": "Sổ rửa tiền của Kim Trọng",
+      "notes": "bị Thế Xung lấy cho Trần Bình (đề xuất); đòn bẩy để hạ Phan Đình Nhân 1245"
     }
   ]
 }

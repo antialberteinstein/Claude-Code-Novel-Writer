@@ -2,15 +2,17 @@
   "language": "vi",
   "voice": "third_person_limited",
   "tense": "past",
-  "pov_character": "Lý Nhân Kiệt (chính); chương xen theo Lý Thanh Anh",
+  "pov_character": "Lý Nhân Kiệt (chính); chương 1 theo Khương Tử; chương xen theo Thanh Anh và Lê Duy Thành",
   "tone": "cổ trang trinh thám: lạnh, sắc, giàu chi tiết quan sát; cảm xúc nén",
   "style_notes": [
     "tiếng Việt hiện đại, từ Hán-Việt vừa đủ tạo không khí, tránh biền ngẫu nặng",
     "suy luận phải hiện trên trang qua chi tiết cụ thể; manh mối đặt trước lời giải",
     "đối thoại có ẩn ý, đúng vai vế và xưng hô cổ trang",
     "không giảng giải bối cảnh thuần túy; để thế giới lộ ra qua hành động",
-    "ký ức trở về qua giác quan (hoa văn, mùi, âm thanh), không qua tự sự giải thích",
-    "giữ trớ trêu kịch tính: người đọc biết nhiều hơn nhân vật về Thanh Anh và thân thế"
+    "KHÔNG tiết lộ Nhân Kiệt là Kim Tử Anh; mọi gợi ý chỉ thấy khi đọc lại và phải có cách hiểu khác hợp lý khi đọc lần đầu",
+    "Nhân Kiệt mất trí nhớ toàn phần: không ký ức chớp nhoáng, không giấc mơ, không cảm giác quen thuộc",
+    "Chương theo Duy Thành phải nuôi nghi ngờ y là thái tử",
+    "Trớ trêu kịch tính chỉ dùng cho bí mật khác (Như Ý là Thanh Anh, Thế Xung là người của Trần Bình), không cho thân phận Nhân Kiệt"
   ],
   "chapter_target_words": 3500,
   "scene_break_marker": "***",
